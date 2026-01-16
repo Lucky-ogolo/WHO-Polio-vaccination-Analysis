@@ -1,0 +1,2301 @@
+state,lga,report_date,children_targeted,children_vaccinated,vaccination_team,campaign_phase,vaccination_coverage_pct
+Ekiti,Ekiti South-East,2025-06-18,178.0,341.0,Team D,Follow-up,191.6
+Ekiti,Irepodun/Ifelodun,2025-06-07,194.0,396.0,Team D,Initial,204.1
+Ekiti,Ido-Osi,2025-06-23,184.0,461.0,Team D,Follow-up,250.5
+Ekiti,Ekiti West,2025-06-01,299.0,528.0,Team B,Follow-up,176.6
+Ekiti,Ikole,2025-06-02,98.0,433.0,Team C,Follow-up,441.8
+Ekiti,Ikole,2025-07-02,496.0,159.0,Team E,Initial,32.1
+Ekiti,Ekiti East,2025-06-04,336.0,422.0,Team B,Follow-up,125.6
+Ekiti,Ekiti East,2025-06-21,325.0,72.0,Team D,Initial,22.2
+Ekiti,Ise/Orun,2025-06-01,151.0,518.0,Team D,Initial,343.0
+Ekiti,Ido-Osi,2025-06-30,92.0,50.0,Team E,Follow-up,54.3
+Ekiti,Ekiti South-West,2025-06-11,526.0,67.0,Team D,Initial,12.7
+Ekiti,Ekiti East,2025-05-31,381.0,560.0,Team D,Initial,147.0
+Ekiti,Gbonyin,2025-06-03,401.0,497.0,Team B,Initial,123.9
+Ekiti,Ido-Osi,2025-06-25,344.0,177.0,Team E,Initial,51.5
+Ekiti,Ekiti South-West,2025-06-24,331.0,520.0,Team E,Initial,157.1
+Ekiti,Emure,2025-06-02,213.0,,Team A,Follow-up,263.8
+Ekiti,Emure,2025-06-13,72.0,62.0,Team E,Initial,86.1
+Ekiti,Gbonyin,2025-06-03,67.0,305.0,Team D,Follow-up,455.2
+Ekiti,Ekiti East,2025-06-25,437.0,415.0,Team A,Initial,95.0
+Ekiti,Ekiti West,2025-06-01,75.0,161.0,Team E,Follow-up,214.7
+Ekiti,Irepodun/Ifelodun,2025-06-05,184.0,494.0,Team E,Follow-up,268.5
+Ekiti,Ado-Ekiti,2025-06-12,,452.0,Team A,Initial,120.2
+Ekiti,Ekiti South-East,2025-06-01,488.0,525.0,Team D,Initial,107.6
+Ekiti,Ekiti East,2025-06-23,382.0,177.0,Team E,Initial,46.3
+Ekiti,Ise/Orun,2025-06-01,296.0,85.0,Team C,Follow-up,28.7
+Ekiti,Ado-Ekiti,2025-06-12,252.0,122.0,Team A,Initial,48.4
+Ekiti,Moba,2025-05-31,337.0,522.0,Team C,Initial,154.9
+Ekiti,Ekiti East,2025-06-06,363.0,206.0,Team D,Initial,56.7
+Ekiti,Emure,2025-06-16,420.0,243.0,Team C,Initial,57.9
+Ekiti,Ekiti West,2025-06-24,447.0,534.0,Team B,Initial,119.5
+Ekiti,Ikole,2025-06-07,315.0,339.0,Team C,Initial,107.6
+Ekiti,Ise/Orun,2025-07-02,322.0,294.0,Team D,Follow-up,91.3
+Ekiti,Ise/Orun,2025-06-05,251.0,129.0,Team C,Initial,51.4
+Ekiti,Ekiti South-East,2025-06-17,127.0,356.0,Team D,Follow-up,280.3
+Ekiti,Ijero,2025-06-09,272.0,66.0,Team A,Initial,24.3
+Ekiti,Gbonyin,2025-06-04,316.0,78.0,Team E,Follow-up,108.54312549737215
+Ekiti,Gbonyin,2025-06-10,178.0,158.0,Team D,Initial,88.8
+Ekiti,Ekiti East,2025-06-21,442.0,474.0,Team E,Follow-up,107.2
+Ekiti,Ijero,2025-06-04,339.0,161.0,Team A,Initial,47.5
+Ekiti,Ado-Ekiti,2025-06-02,396.0,103.0,Team A,Initial,
+Ekiti,Moba,2025-06-01,155.0,122.0,Team C,Initial,78.7
+Ekiti,Efon,2025-06-11,410.0,183.0,Team C,Initial,44.6
+Ekiti,Ado-Ekiti,2025-06-29,407.0,87.0,Team B,Initial,21.4
+Ekiti,Oye,2025-07-02,452.0,465.0,Team D,Follow-up,102.9
+Ekiti,Gbonyin,2025-06-25,69.0,307.0,Team B,Initial,444.9
+Ekiti,Ido-Osi,2025-06-18,214.0,352.0,Team B,Initial,164.5
+Ekiti,Ekiti South-West,2025-06-27,361.0,485.0,Team E,Initial,134.3
+Ekiti,Ekiti West,2025-06-27,114.0,135.0,Team B,Initial,118.4
+Ekiti,Irepodun/Ifelodun,2025-06-21,151.0,143.0,Team E,Initial,
+Ekiti,Ekiti South-West,2025-06-17,577.0,216.0,Team A,Initial,37.4
+Ekiti,Ido-Osi,2025-06-13,280.0,451.0,Team A,Follow-up,161.1
+Ekiti,Ekiti East,2025-06-09,404.0,285.0,Team E,Initial,
+Ekiti,Ikole,2025-06-13,90.0,586.0,Team C,Initial,651.1
+Ekiti,Ikole,2025-06-03,159.0,362.0,Team B,Follow-up,227.7
+Ekiti,Gbonyin,2025-06-17,380.0,179.0,Team E,Initial,47.1
+Ekiti,Ikole,2025-07-01,565.0,171.0,Team E,Follow-up,30.3
+Ekiti,Ado-Ekiti,2025-06-29,479.0,455.0,Team D,Initial,95.0
+Ekiti,Ikere,2025-06-19,485.0,462.0,Team D,Initial,95.3
+Ekiti,Ado-Ekiti,2025-06-26,460.0,346.0,Team B,Initial,75.2
+Ekiti,Ado-Ekiti,2025-06-16,503.0,413.0,Team D,Initial,82.1
+Ekiti,Ekiti West,2025-06-02,112.0,,Team D,Follow-up,48.2
+Ekiti,Ekiti South-East,2025-06-05,502.0,,Team A,Initial,107.8
+Ekiti,Efon,2025-06-30,555.0,484.0,Team D,Follow-up,87.2
+Ekiti,Ise/Orun,2025-06-24,472.0,420.0,Team B,Initial,89.0
+Ekiti,Ise/Orun,2025-06-08,131.0,475.0,Team D,Follow-up,362.6
+Ekiti,Ise/Orun,2025-06-19,243.0,266.0,Team D,Follow-up,109.5
+Ekiti,Ekiti East,2025-06-07,474.0,466.0,Team C,Follow-up,98.3
+Ekiti,Ekiti East,2025-06-29,51.0,390.0,Team C,Follow-up,
+Ekiti,Emure,2025-06-24,558.0,205.0,Team B,Initial,36.7
+Ekiti,Ido-Osi,2025-05-31,182.0,57.0,Team B,Initial,31.3
+Ekiti,Ikole,2025-06-02,277.0,526.0,Team D,Initial,189.9
+Ekiti,Ado-Ekiti,2025-06-18,326.0,121.0,Team C,Initial,37.1
+Ekiti,Efon,2025-06-19,273.0,303.0,Team A,Follow-up,111.0
+Ekiti,Ekiti East,2025-06-20,115.0,112.0,Team A,Initial,97.4
+Ekiti,Ekiti East,2025-06-29,356.0,533.0,Team A,Initial,149.7
+Ekiti,Ise/Orun,2025-06-27,523.0,304.0,Team A,Follow-up,58.1
+Ekiti,Ekiti East,2025-06-02,54.0,307.0,Team A,Follow-up,568.5
+Ekiti,Ado-Ekiti,2025-06-03,370.0,411.0,Team E,Initial,111.1
+Ekiti,Ijero,2025-06-15,592.0,172.0,Team C,Follow-up,104.63899816285767
+Ekiti,Irepodun/Ifelodun,2025-06-28,420.0,90.0,Team B,Initial,21.4
+Ekiti,Ikole,2025-06-02,580.0,124.0,Team B,Follow-up,21.4
+Ekiti,Ikere,2025-06-01,434.0,461.0,Team D,Initial,106.2
+Ekiti,Ikole,2025-06-17,166.0,472.0,Team D,Initial,284.3
+Ekiti,Moba,2025-06-26,134.0,258.0,Team A,Initial,192.5
+Ekiti,Moba,2025-06-16,217.0,381.0,Team E,Initial,175.6
+Ekiti,Ikere,2025-06-22,397.0,283.0,Team B,Initial,71.3
+Ekiti,Ikole,2025-06-20,592.0,82.0,Team B,Follow-up,13.9
+Ekiti,Moba,2025-05-30,85.0,394.0,Team B,Initial,463.5
+Ekiti,Irepodun/Ifelodun,2025-06-27,145.0,520.0,Team E,Follow-up,358.6
+Ekiti,Ikole,2025-06-20,581.0,246.0,Team B,Initial,42.3
+Ekiti,Ikere,2025-06-08,528.0,562.0,Team A,Initial,106.4
+Ekiti,Moba,2025-06-05,374.0,357.0,Team A,Initial,95.5
+Ekiti,Ekiti South-West,2025-06-29,568.0,127.0,Team E,Follow-up,22.4
+Ekiti,Ido-Osi,2025-06-01,272.0,516.0,Team C,Follow-up,189.7
+Ekiti,Ijero,2025-06-11,205.0,95.0,Team B,Initial,46.3
+Ekiti,Ido-Osi,2025-06-16,163.0,471.0,Team E,Follow-up,289.0
+Ekiti,Efon,2025-06-06,398.0,343.0,Team A,Initial,86.2
+Ekiti,Ikere,2025-06-13,348.0,436.0,Team B,Initial,125.3
+Ekiti,Ekiti South-East,2025-06-23,216.0,272.0,Team A,Initial,125.9
+Ekiti,Ekiti South-East,2025-06-23,124.0,,Team A,Initial,424.2
+Ekiti,Oye,2025-06-29,485.0,580.0,Team E,Initial,119.6
+Ekiti,Ikole,2025-06-03,583.0,65.0,Team C,Initial,109.37340343815431
+Ekiti,Oye,2025-06-08,273.0,64.0,Team C,Initial,23.4
+Ekiti,Oye,2025-06-26,119.0,220.0,Team D,Initial,
+Ekiti,Ijero,2025-06-23,528.0,403.0,Team B,Follow-up,76.3
+Ekiti,Ekiti East,2025-06-15,479.0,505.0,Team D,Follow-up,105.4
+Ekiti,Ikole,2025-06-06,285.0,209.0,Team C,Initial,73.3
+Ekiti,Moba,2025-06-25,270.0,547.0,Team E,Initial,202.6
+Ekiti,Emure,2025-06-15,490.0,112.0,Team A,Initial,22.9
+Ekiti,Ekiti South-East,2025-06-24,556.0,300.0,Team D,Initial,54.0
+Ekiti,Ado-Ekiti,2025-06-20,591.0,145.0,Team A,Initial,24.5
+Ekiti,Ise/Orun,2025-06-22,366.0,509.0,Team C,Initial,139.1
+Ekiti,Efon,2025-06-12,73.0,150.0,Team E,Initial,205.5
+Ekiti,Moba,2025-06-07,393.0,320.0,Team E,Initial,81.4
+Ekiti,Ido-Osi,2025-06-03,73.0,62.0,Team C,Initial,84.9
+Ekiti,Ido-Osi,2025-06-09,475.0,487.0,Team B,Follow-up,102.5
+Ekiti,Ise/Orun,2025-06-07,372.0,359.0,Team C,Initial,96.5
+Ekiti,Ikole,2025-06-12,388.0,411.0,Team A,Initial,105.9
+Ekiti,Ekiti South-West,2025-06-12,184.0,76.0,Team E,Follow-up,41.3
+Ekiti,Ekiti South-West,2025-05-29,186.0,432.0,Team B,Initial,232.3
+Ekiti,Ise/Orun,2025-06-29,504.0,46.0,Team C,Follow-up,9.1
+Ekiti,Irepodun/Ifelodun,2025-06-09,429.0,300.0,Team E,Initial,69.9
+Ekiti,Ijero,2025-06-14,588.0,270.0,Team D,Initial,45.9
+Ekiti,Ise/Orun,2025-06-16,367.0,275.0,Team D,Initial,74.9
+Ekiti,Ekiti South-East,2025-05-29,161.0,378.0,Team A,Follow-up,234.8
+Ekiti,Moba,2025-06-07,371.0,65.0,Team D,Initial,17.5
+Ekiti,Ikole,2025-06-24,314.0,532.0,Team D,Follow-up,169.4
+Ekiti,Ado-Ekiti,2025-07-02,186.0,352.0,Team A,Initial,189.2
+Ekiti,Irepodun/Ifelodun,2025-06-21,472.0,482.0,Team C,Initial,102.1
+Ekiti,Moba,2025-06-18,247.0,305.0,Team C,Follow-up,123.5
+Ekiti,Gbonyin,2025-06-06,95.0,583.0,Team B,Follow-up,613.7
+Ekiti,Emure,2025-06-30,458.0,245.0,Team B,Initial,53.5
+Ekiti,Emure,2025-06-01,583.0,69.0,Team B,Initial,11.8
+Ekiti,Ekiti West,2025-06-27,444.0,380.0,Team B,Initial,85.6
+Ekiti,Moba,2025-06-23,159.0,570.0,Team E,Initial,358.5
+Ekiti,Ekiti South-East,2025-06-23,196.0,364.0,Team A,Follow-up,185.7
+Ekiti,Ekiti East,2025-06-23,152.0,400.0,Team B,Initial,263.2
+Ekiti,Efon,2025-06-23,133.0,167.0,Team B,Initial,125.6
+Ekiti,Oye,2025-06-04,376.0,574.0,Team B,Initial,152.7
+Ekiti,Ekiti East,2025-06-28,314.0,567.0,Team D,Initial,180.6
+Ekiti,Ikole,2025-06-23,511.0,269.0,Team E,Follow-up,
+Ekiti,Efon,2025-06-01,548.0,534.0,Team C,Initial,97.4
+Ekiti,Ise/Orun,2025-06-10,154.0,519.0,Team E,Initial,337.0
+Ekiti,Ise/Orun,2025-06-02,114.0,269.0,Team B,Initial,236.0
+Ekiti,Ekiti South-East,2025-06-11,311.0,,Team E,Follow-up,179.1
+Ekiti,Efon,2025-06-26,299.0,372.0,Team C,Initial,124.4
+Ekiti,Gbonyin,2025-06-08,598.0,146.0,Team A,Initial,
+Ekiti,Ekiti West,2025-06-05,467.0,200.0,Team B,Follow-up,42.8
+Ekiti,Ekiti West,2025-06-19,543.0,397.0,Team D,Initial,73.1
+Ekiti,Ijero,2025-06-01,480.0,80.0,Team A,Initial,16.7
+Ekiti,Ekiti West,2025-06-04,354.0,73.0,Team A,Follow-up,20.6
+Ekiti,Ijero,2025-05-29,357.0,207.0,Team D,Initial,58.0
+Ekiti,Ise/Orun,2025-06-07,299.0,360.0,Team A,Initial,120.4
+Ekiti,Moba,2025-07-02,193.0,461.0,Team E,Follow-up,238.9
+Ekiti,Ekiti East,2025-06-04,114.0,205.0,Team D,Initial,179.8
+Ekiti,Ikere,2025-06-21,359.0,,Team E,Initial,
+Ekiti,Emure,2025-05-30,249.0,110.0,Team C,Initial,44.2
+Ekiti,Ekiti South-East,2025-06-02,359.0,225.0,Team C,Initial,62.7
+Ekiti,Ijero,2025-06-11,257.0,69.0,Team B,Initial,26.8
+Ekiti,Irepodun/Ifelodun,2025-06-22,475.0,223.0,Team D,Initial,46.9
+Ekiti,Irepodun/Ifelodun,2025-06-07,307.0,,Team C,Follow-up,152.4
+Ekiti,Ido-Osi,2025-06-14,361.0,413.0,Team C,Initial,114.4
+Ekiti,Ido-Osi,2025-06-20,198.0,,Team E,Initial,79.3
+Ekiti,Efon,2025-06-21,384.0,,Team C,Initial,23.4
+Ekiti,Emure,2025-06-28,280.0,494.0,Team A,Initial,176.4
+Ekiti,Ado-Ekiti,2025-06-05,527.0,88.0,Team C,Initial,
+Ekiti,Ise/Orun,2025-06-05,159.0,50.0,Team D,Follow-up,31.4
+Ekiti,Ekiti South-West,2025-06-29,117.0,458.0,Team B,Follow-up,391.5
+Ekiti,Ekiti West,2025-06-27,430.0,367.0,Team A,Initial,85.3
+Ekiti,Oye,2025-06-28,247.0,327.0,Team C,Initial,132.4
+Ekiti,Ise/Orun,2025-06-28,164.0,231.0,Team D,Follow-up,140.9
+Ekiti,Ekiti West,2025-06-17,501.0,519.0,Team A,Follow-up,103.6
+Ekiti,Gbonyin,2025-06-03,383.0,355.0,Team B,Initial,92.7
+Ekiti,Oye,2025-06-07,281.0,461.0,Team E,Initial,164.1
+Ekiti,Moba,2025-06-04,543.0,384.0,Team C,Initial,70.7
+Ekiti,Emure,2025-06-19,344.0,542.0,Team E,Follow-up,157.6
+Ekiti,Ekiti South-West,2025-06-14,527.0,574.0,Team C,Initial,108.9
+Ekiti,Irepodun/Ifelodun,2025-06-28,428.0,577.0,Team E,Initial,134.8
+Ekiti,Ikere,2025-06-08,194.0,478.0,Team E,Initial,246.4
+Ekiti,Efon,2025-07-01,418.0,392.0,Team E,Follow-up,93.8
+Ekiti,Ekiti West,2025-05-30,313.0,,Team E,Initial,151.8
+Ekiti,Emure,2025-06-11,173.0,422.0,Team E,Initial,243.9
+Ekiti,Ikere,2025-07-01,296.0,261.0,Team E,Initial,88.2
+Ekiti,Ijero,2025-06-21,257.0,240.0,Team B,Initial,93.4
+Ekiti,Ekiti South-East,2025-06-07,210.0,387.0,Team C,Initial,184.3
+Ekiti,Ikere,2025-07-02,134.0,59.0,Team C,Initial,44.0
+Ekiti,Ekiti West,2025-05-30,509.0,353.0,Team A,Follow-up,69.4
+Ekiti,Ise/Orun,2025-07-01,235.0,456.0,Team A,Follow-up,194.0
+Ekiti,Ido-Osi,2025-06-17,281.0,280.0,Team A,Follow-up,99.6
+Ekiti,Gbonyin,2025-06-03,106.0,414.0,Team B,Initial,106.31726132276032
+Ekiti,Ise/Orun,2025-06-14,274.0,54.0,Team A,Initial,19.7
+Ekiti,Ekiti West,2025-07-01,212.0,54.0,Team E,Initial,25.5
+Ekiti,Ekiti South-East,2025-06-21,387.0,72.0,Team E,Initial,18.6
+Ekiti,Ijero,2025-06-08,502.0,179.0,Team D,Initial,35.7
+Ekiti,Ido-Osi,2025-06-20,551.0,173.0,Team E,Initial,31.4
+Ekiti,Ekiti East,2025-06-12,224.0,324.0,Team D,Initial,144.6
+Ekiti,Ijero,2025-07-02,411.0,76.0,Team C,Initial,18.5
+Ekiti,Irepodun/Ifelodun,2025-07-02,163.0,529.0,Team D,Initial,324.5
+Ekiti,Moba,2025-06-30,382.0,174.0,Team E,Initial,45.5
+Ekiti,Ise/Orun,2025-06-19,178.0,248.0,Team D,Follow-up,139.3
+Ekiti,Ido-Osi,2025-06-12,551.0,567.0,Team E,Follow-up,102.9
+Ekiti,Moba,2025-06-10,210.0,332.0,Team B,Initial,158.1
+Ekiti,Ekiti West,2025-06-13,60.0,149.0,Team C,Initial,248.3
+Ekiti,Gbonyin,2025-06-23,471.0,192.0,Team A,Initial,40.8
+Ekiti,Ikere,2025-06-12,60.0,106.0,Team B,Follow-up,176.7
+Ekiti,Ijero,2025-06-10,403.0,83.0,Team D,Initial,20.6
+Ekiti,Ijero,2025-07-01,141.0,480.0,Team D,Follow-up,340.4
+Ekiti,Ekiti South-West,2025-06-29,255.0,80.0,Team D,Initial,31.4
+Ekiti,Moba,2025-06-20,535.0,233.0,Team C,Initial,43.6
+Ekiti,Ise/Orun,2025-05-30,331.0,498.0,Team E,Follow-up,150.5
+Ekiti,Gbonyin,2025-05-30,366.0,151.0,Team C,Initial,41.3
+Ekiti,Ikole,2025-06-15,199.0,368.0,Team D,Initial,184.9
+Ekiti,Ekiti East,2025-06-28,330.0,88.0,Team D,Initial,26.7
+Ekiti,Ekiti East,2025-06-14,311.0,,Team C,Initial,26.0
+Ekiti,Ido-Osi,2025-06-10,480.0,,Team E,Follow-up,8.8
+Ekiti,Ise/Orun,2025-06-20,193.0,,Team E,Follow-up,150.3
+Ekiti,Ise/Orun,2025-06-26,126.0,495.0,Team A,Initial,392.9
+Ekiti,Efon,2025-06-20,582.0,363.0,Team E,Follow-up,62.4
+Ekiti,Irepodun/Ifelodun,2025-06-21,97.0,482.0,Team D,Initial,496.9
+Ekiti,Ekiti East,2025-06-03,238.0,71.0,Team B,Initial,29.8
+Ekiti,Ijero,2025-06-12,383.0,458.0,Team D,Initial,119.6
+Ekiti,Emure,2025-06-04,362.0,45.0,Team A,Initial,12.4
+Ekiti,Ido-Osi,2025-06-12,115.0,524.0,Team E,Initial,455.7
+Ekiti,Ekiti West,2025-06-28,60.0,546.0,Team A,Follow-up,910.0
+Ekiti,Ekiti South-East,2025-06-10,60.0,587.0,Team E,Initial,978.3
+Ekiti,Moba,2025-06-19,557.0,211.0,Team B,Initial,37.9
+Ekiti,Moba,2025-06-11,158.0,550.0,Team C,Initial,348.1
+Ekiti,Oye,2025-06-28,155.0,,Team D,Follow-up,51.6
+Ekiti,Ekiti South-East,2025-05-29,413.0,501.0,Team B,Follow-up,113.39651892503387
+Ekiti,Ise/Orun,2025-06-28,123.0,454.0,Team A,Initial,369.1
+Ekiti,Ado-Ekiti,2025-06-20,358.0,311.0,Team C,Follow-up,86.9
+Ekiti,Ijero,2025-06-03,554.0,244.0,Team A,Initial,44.0
+Ekiti,Ikole,2025-06-05,599.0,516.0,Team A,Follow-up,86.1
+Ekiti,Efon,2025-06-22,512.0,186.0,Team E,Initial,36.3
+Ekiti,Ado-Ekiti,2025-06-10,340.0,,Team B,Initial,39.7
+Ekiti,Ijero,2025-06-28,81.0,,Team C,Follow-up,401.2
+Ekiti,Ekiti East,2025-06-09,508.0,288.0,Team E,Initial,56.7
+Ekiti,Ekiti South-East,2025-06-25,288.0,89.0,Team E,Initial,30.9
+Ekiti,Ikere,2025-06-19,386.0,301.0,Team B,Initial,78.0
+Ekiti,Efon,2025-06-03,505.0,410.0,Team E,Initial,81.2
+Ekiti,Gbonyin,2025-06-23,175.0,214.0,Team B,Initial,122.3
+Ekiti,Irepodun/Ifelodun,2025-06-27,392.0,156.0,Team E,Initial,39.8
+Ekiti,Moba,2025-06-23,105.0,478.0,Team E,Initial,455.2
+Ekiti,Ekiti South-West,2025-06-03,520.0,218.0,Team A,Initial,41.9
+Ekiti,Efon,2025-06-08,356.0,557.0,Team A,Follow-up,
+Ekiti,Ido-Osi,2025-06-08,334.0,139.0,Team B,Follow-up,41.6
+Ekiti,Emure,2025-06-06,177.0,487.0,Team D,Initial,275.1
+Ekiti,Ado-Ekiti,2025-05-30,401.0,166.0,Team B,Initial,41.4
+Ekiti,Oye,2025-06-07,341.0,416.0,Team C,Initial,
+Ekiti,Ekiti South-East,2025-06-27,571.0,507.0,Team B,Initial,102.19432637728167
+Ekiti,Ado-Ekiti,2025-06-07,180.0,114.0,Team D,Initial,63.3
+Ekiti,Ekiti East,2025-06-28,547.0,242.0,Team D,Initial,44.2
+Ekiti,Ekiti West,2025-06-20,334.0,228.0,Team A,Initial,68.3
+Ekiti,Oye,2025-06-07,120.0,391.0,Team B,Initial,325.8
+Ekiti,Ido-Osi,2025-06-06,228.0,306.0,Team E,Initial,134.2
+Ekiti,Ido-Osi,2025-05-30,231.0,577.0,Team D,Follow-up,
+Ekiti,Efon,2025-05-29,499.0,409.0,Team B,Follow-up,82.0
+Ekiti,Ijero,2025-06-04,546.0,112.0,Team B,Initial,
+Ekiti,Moba,2025-07-01,394.0,477.0,Team C,Follow-up,121.1
+Ekiti,Ikere,2025-06-06,83.0,353.0,Team A,Follow-up,425.3
+Ekiti,Ekiti South-East,2025-06-25,157.0,56.0,Team E,Follow-up,35.7
+Ekiti,Ekiti South-West,2025-06-10,481.0,318.0,Team D,Initial,66.1
+Ekiti,Ado-Ekiti,2025-06-11,418.0,574.0,Team B,Initial,137.3
+Ekiti,Ado-Ekiti,2025-05-30,504.0,318.0,Team E,Initial,63.1
+Ekiti,Ido-Osi,2025-06-14,344.0,489.0,Team D,Initial,142.2
+Ekiti,Ikere,2025-06-11,336.0,430.0,Team B,Initial,128.0
+Ekiti,Ekiti South-West,2025-06-16,225.0,89.0,Team A,Initial,39.6
+Ekiti,Ikere,2025-06-30,95.0,405.0,Team B,Initial,426.3
+Ekiti,Ijero,2025-06-13,459.0,467.0,Team D,Initial,101.7
+Ekiti,Ikole,2025-06-18,73.0,578.0,Team D,Follow-up,791.8
+Ekiti,Ekiti South-East,2025-06-14,279.0,337.0,Team A,Initial,120.8
+Ekiti,Oye,2025-07-02,537.0,138.0,Team E,Initial,25.7
+Ekiti,Ado-Ekiti,2025-06-24,363.0,264.0,Team B,Initial,72.7
+Ekiti,Efon,2025-06-06,340.0,413.0,Team E,Follow-up,121.5
+Ekiti,Emure,2025-06-01,570.0,383.0,Team B,Initial,67.2
+Ekiti,Emure,2025-06-20,239.0,417.0,Team E,Initial,174.5
+Ekiti,Ekiti South-West,2025-06-27,405.0,80.0,Team D,Follow-up,19.8
+Ekiti,Irepodun/Ifelodun,2025-07-01,253.0,249.0,Team C,Follow-up,98.4
+Ekiti,Emure,2025-06-24,555.0,232.0,Team C,Initial,41.8
+Ekiti,Moba,2025-06-30,430.0,67.0,Team D,Initial,15.6
+Ekiti,Ise/Orun,2025-06-06,105.0,159.0,Team C,Initial,151.4
+Ekiti,Gbonyin,2025-07-02,444.0,196.0,Team E,Initial,44.1
+Ekiti,Ekiti East,2025-06-07,230.0,,Team C,Initial,88.3
+Ekiti,Ikere,2025-07-01,71.0,164.0,Team B,Initial,231.0
+Ekiti,Irepodun/Ifelodun,2025-06-30,459.0,519.0,Team D,Initial,113.1
+Ekiti,Ido-Osi,2025-05-30,,313.0,Team E,Follow-up,64.0
+Ekiti,Ise/Orun,2025-06-26,106.0,267.0,Team A,Follow-up,251.9
+Ekiti,Ekiti South-West,2025-06-09,187.0,564.0,Team A,Initial,301.6
+Ekiti,Ikole,2025-05-29,364.0,292.0,Team E,Initial,80.2
+Ekiti,Ekiti West,2025-06-07,216.0,326.0,Team B,Follow-up,150.9
+Ekiti,Emure,2025-06-09,474.0,180.0,Team E,Initial,38.0
+Ekiti,Ise/Orun,2025-06-07,124.0,356.0,Team E,Initial,
+Ekiti,Ekiti East,2025-06-28,443.0,277.0,Team E,Initial,62.5
+Ekiti,Ikere,2025-06-05,584.0,375.0,Team B,Initial,64.2
+Ekiti,Ekiti South-East,2025-06-01,518.0,382.0,Team A,Initial,73.7
+Ekiti,Ado-Ekiti,2025-06-18,131.0,428.0,Team B,Initial,326.7
+Ekiti,Oye,2025-07-01,394.0,568.0,Team B,Initial,144.2
+Ekiti,Ekiti East,2025-07-01,517.0,547.0,Team C,Initial,105.8
+Ekiti,Ise/Orun,2025-06-28,538.0,95.0,Team E,Initial,17.7
+Ekiti,Ado-Ekiti,2025-06-04,350.0,326.0,Team D,Initial,93.1
+Ekiti,Ado-Ekiti,2025-06-01,212.0,52.0,Team C,Follow-up,24.5
+Ekiti,Ise/Orun,2025-06-13,559.0,239.0,Team D,Initial,42.8
+Ekiti,Ido-Osi,2025-06-10,90.0,567.0,Team C,Initial,630.0
+Ekiti,Ekiti South-West,2025-06-15,474.0,150.0,Team E,Initial,31.6
+Ekiti,Gbonyin,2025-05-31,184.0,536.0,Team E,Initial,291.3
+Ekiti,Oye,2025-06-04,199.0,164.0,Team B,Initial,82.4
+Ekiti,Ado-Ekiti,2025-06-30,427.0,130.0,Team B,Initial,30.4
+Ekiti,Ekiti South-East,2025-06-26,180.0,74.0,Team D,Initial,41.1
+Ekiti,Moba,2025-05-30,260.0,512.0,Team D,Follow-up,196.9
+Ekiti,Ijero,2025-06-02,497.0,377.0,Team C,Initial,75.9
+Ekiti,Ijero,2025-06-26,73.0,568.0,Team B,Initial,778.1
+Ekiti,Ado-Ekiti,2025-06-18,314.0,64.0,Team C,Initial,20.4
+Ekiti,Ido-Osi,2025-06-30,302.0,309.0,Team C,Initial,102.3
+Ekiti,Moba,2025-06-30,511.0,214.0,Team E,Initial,41.9
+Ekiti,Emure,2025-06-10,591.0,348.0,Team E,Initial,58.9
+Ekiti,Ado-Ekiti,2025-06-15,204.0,233.0,Team E,Follow-up,114.2
+Ekiti,Gbonyin,2025-06-26,384.0,,Team E,Initial,
+Ekiti,Irepodun/Ifelodun,2025-06-30,599.0,471.0,Team D,Follow-up,78.6
+Ekiti,Ijero,2025-07-02,461.0,471.0,Team A,Initial,102.2
+Ekiti,Ise/Orun,2025-06-28,516.0,244.0,Team D,Initial,47.3
+Ekiti,Moba,2025-06-30,,42.0,Team D,Initial,44.2
+Ekiti,Efon,2025-06-13,53.0,101.0,Team C,Follow-up,190.6
+Ekiti,Ikere,2025-07-01,517.0,520.0,Team B,Initial,100.6
+Ekiti,Efon,2025-06-14,129.0,552.0,Team D,Initial,427.9
+Ekiti,Ekiti South-West,2025-06-10,579.0,423.0,Team E,Initial,73.1
+Ekiti,Emure,2025-06-26,173.0,348.0,Team E,Initial,201.2
+Ekiti,Irepodun/Ifelodun,2025-06-06,114.0,451.0,Team E,Follow-up,395.6
+Ekiti,Ado-Ekiti,2025-06-24,145.0,51.0,Team A,Initial,35.2
+Ekiti,Ekiti South-East,2025-06-05,377.0,581.0,Team C,Follow-up,154.1
+Ekiti,Ekiti East,2025-06-23,137.0,377.0,Team B,Initial,275.2
+Ekiti,Ise/Orun,2025-06-26,224.0,583.0,Team D,Initial,260.3
+Ekiti,Ekiti South-East,2025-06-18,541.0,545.0,Team B,Initial,100.7
+Ekiti,Emure,2025-06-02,,221.0,Team E,Follow-up,45.3
+Ekiti,Oye,2025-06-13,442.0,52.0,Team C,Initial,11.8
+Ekiti,Ado-Ekiti,2025-06-25,380.0,479.0,Team C,Initial,126.1
+Ekiti,Ekiti South-West,2025-06-02,169.0,233.0,Team B,Initial,101.70581679891193
+Ekiti,Ekiti South-East,2025-06-11,,162.0,Team C,Initial,170.5
+Ekiti,Ekiti South-West,2025-06-17,68.0,170.0,Team C,Initial,
+Ekiti,Ekiti South-West,2025-06-05,392.0,534.0,Team A,Initial,136.2
+Ekiti,Efon,2025-06-07,358.0,398.0,Team C,Initial,111.2
+Ekiti,Ikole,2025-06-21,222.0,67.0,Team B,Follow-up,30.2
+Ekiti,Ido-Osi,2025-06-07,491.0,221.0,Team A,Follow-up,45.0
+Ekiti,Efon,2025-06-14,547.0,202.0,Team C,Initial,36.9
+Ekiti,Gbonyin,2025-06-06,146.0,475.0,Team A,Follow-up,325.3
+Ekiti,Ikole,2025-06-27,329.0,324.0,Team D,Initial,98.5
+Ekiti,Ekiti East,2025-06-12,70.0,406.0,Team C,Initial,580.0
+Ekiti,Ikere,2025-06-04,331.0,192.0,Team C,Follow-up,58.0
+Ekiti,Emure,2025-06-23,437.0,153.0,Team A,Initial,35.0
+Ekiti,Ado-Ekiti,2025-06-29,510.0,66.0,Team C,Follow-up,12.9
+Ekiti,Ikere,2025-06-08,245.0,377.0,Team C,Initial,153.9
+Ekiti,Moba,2025-06-12,386.0,44.0,Team B,Follow-up,11.4
+Ekiti,Moba,2025-06-08,81.0,101.0,Team E,Follow-up,124.7
+Ekiti,Irepodun/Ifelodun,2025-06-25,578.0,351.0,Team B,Initial,113.44880898304521
+Ekiti,Ekiti West,2025-06-30,53.0,100.0,Team E,Initial,188.7
+Ekiti,Ekiti South-East,2025-06-23,301.0,71.0,Team B,Initial,23.6
+Ekiti,Efon,2025-06-19,102.0,494.0,Team E,Initial,484.3
+Ekiti,Moba,2025-06-24,554.0,354.0,Team D,Initial,63.9
+Ekiti,Ikere,2025-06-10,173.0,44.0,Team D,Follow-up,25.4
+Ekiti,Efon,2025-06-20,453.0,238.0,Team C,Initial,52.5
+Ekiti,Ekiti South-West,2025-06-18,74.0,477.0,Team A,Initial,644.6
+Ekiti,Ekiti South-West,2025-06-03,53.0,326.0,Team E,Follow-up,615.1
+Ekiti,Ise/Orun,2025-06-21,120.0,68.0,Team B,Initial,56.7
+Ekiti,Moba,2025-05-30,59.0,,Team B,Initial,905.1
+Ekiti,Ise/Orun,2025-06-19,159.0,556.0,Team B,Initial,349.7
+Ekiti,Ado-Ekiti,2025-06-27,589.0,381.0,Team A,Initial,64.7
+Ekiti,Ikere,2025-06-26,319.0,549.0,Team C,Follow-up,172.1
+Ekiti,Emure,2025-05-30,,173.0,Team B,Initial,67.3
+Ekiti,Emure,2025-06-22,447.0,393.0,Team B,Follow-up,87.9
+Ekiti,Ado-Ekiti,2025-06-19,118.0,78.0,Team B,Follow-up,66.1
+Ekiti,Ise/Orun,2025-07-01,349.0,194.0,Team B,Initial,55.6
+Ekiti,Moba,2025-06-16,158.0,356.0,Team C,Initial,225.3
+Ekiti,Ikere,2025-06-30,515.0,477.0,Team E,Initial,92.6
+Ekiti,Gbonyin,2025-06-02,190.0,539.0,Team C,Initial,
+Ekiti,Irepodun/Ifelodun,2025-06-05,218.0,164.0,Team E,Initial,75.2
+Ekiti,Ekiti South-West,2025-06-12,474.0,108.0,Team B,Initial,22.8
+Ekiti,Ikere,2025-06-04,433.0,566.0,Team C,Initial,130.7
+Ekiti,Ekiti South-East,2025-06-03,208.0,49.0,Team B,Initial,23.6
+Ekiti,Ekiti West,2025-06-14,164.0,327.0,Team A,Initial,199.4
+Ekiti,Gbonyin,2025-06-15,365.0,372.0,Team A,Initial,101.9
+Ekiti,Ijero,2025-05-31,86.0,546.0,Team C,Follow-up,634.9
+Ekiti,Oye,2025-06-09,297.0,158.0,Team C,Initial,53.2
+Ekiti,Ise/Orun,2025-06-15,215.0,61.0,Team A,Follow-up,28.4
+Ekiti,Irepodun/Ifelodun,2025-06-06,81.0,249.0,Team D,Follow-up,307.4
+Ekiti,Ise/Orun,2025-06-25,400.0,313.0,Team A,Follow-up,78.2
+Ekiti,Ekiti East,2025-06-14,141.0,444.0,Team C,Initial,
+Ekiti,Irepodun/Ifelodun,2025-06-23,566.0,282.0,Team E,Initial,49.8
+Ekiti,Moba,2025-06-07,493.0,467.0,Team E,Initial,94.7
+Ekiti,Ikere,2025-07-02,326.0,328.0,Team A,Initial,100.6
+Ekiti,Oye,2025-06-30,299.0,115.0,Team C,Initial,38.5
+Ekiti,Gbonyin,2025-06-29,478.0,335.0,Team C,Initial,70.1
+Ekiti,Ijero,2025-06-18,54.0,125.0,Team E,Initial,231.5
+Ekiti,Oye,2025-06-03,551.0,355.0,Team E,Initial,64.4
+Ekiti,Ido-Osi,2025-06-15,152.0,526.0,Team E,Initial,109.15117307400656
+Ekiti,Ekiti West,2025-06-01,314.0,280.0,Team D,Follow-up,89.2
+Ekiti,Oye,2025-06-09,172.0,348.0,Team C,Follow-up,202.3
+Ekiti,Ijero,2025-06-25,336.0,196.0,Team D,Follow-up,58.3
+Ekiti,Ekiti East,2025-06-02,344.0,247.0,Team B,Initial,71.8
+Ekiti,Ekiti East,2025-06-15,527.0,488.0,Team A,Initial,92.6
+Ekiti,Ijero,2025-05-30,132.0,213.0,Team E,Initial,161.4
+Ekiti,Ijero,2025-06-03,59.0,534.0,Team C,Initial,905.1
+Ekiti,Ekiti West,2025-06-14,434.0,458.0,Team B,Follow-up,105.5
+Ekiti,Ekiti South-East,2025-06-03,593.0,369.0,Team D,Initial,62.2
+Ekiti,Efon,2025-06-12,241.0,547.0,Team C,Follow-up,227.0
+Ekiti,Ado-Ekiti,2025-06-02,403.0,474.0,Team E,Initial,117.6
+Ekiti,Emure,2025-06-14,347.0,166.0,Team A,Follow-up,47.8
+Ekiti,Ekiti West,2025-06-05,64.0,300.0,Team B,Initial,468.8
+Ekiti,Ekiti South-West,2025-06-27,497.0,74.0,Team A,Initial,14.9
+Ekiti,Irepodun/Ifelodun,2025-05-29,124.0,43.0,Team A,Initial,34.7
+Ekiti,Ekiti South-West,2025-06-19,78.0,90.0,Team A,Follow-up,115.4
+Ekiti,Ekiti West,2025-06-24,560.0,520.0,Team E,Initial,92.9
+Ekiti,Efon,2025-06-15,466.0,481.0,Team D,Follow-up,103.2
+Ekiti,Oye,2025-06-06,247.0,74.0,Team B,Initial,
+Ekiti,Ise/Orun,2025-05-31,431.0,168.0,Team D,Follow-up,39.0
+Ekiti,Ekiti West,2025-07-01,214.0,558.0,Team D,Initial,260.7
+Ekiti,Gbonyin,2025-06-13,414.0,419.0,Team E,Initial,101.2
+Ekiti,Efon,2025-06-05,,282.0,Team E,Initial,191.8
+Ekiti,Moba,2025-06-08,145.0,72.0,Team C,Initial,
+Ekiti,Moba,2025-06-14,163.0,563.0,Team D,Initial,345.4
+Ekiti,Ekiti East,2025-06-01,580.0,501.0,Team B,Follow-up,86.4
+Ekiti,Ado-Ekiti,2025-06-09,,493.0,Team D,Initial,167.1
+Ekiti,Ekiti South-West,2025-06-10,258.0,245.0,Team A,Initial,95.0
+Ekiti,Ise/Orun,2025-06-17,417.0,518.0,Team E,Follow-up,124.2
+Ekiti,Ijero,2025-06-17,71.0,410.0,Team A,Initial,577.5
+Ekiti,Gbonyin,2025-07-01,519.0,501.0,Team D,Initial,96.5
+Ekiti,Efon,2025-06-11,184.0,,Team A,Initial,65.8
+Ekiti,Ido-Osi,2025-06-16,111.0,317.0,Team D,Follow-up,285.6
+Ekiti,Ise/Orun,2025-06-26,180.0,167.0,Team E,Initial,92.8
+Ekiti,Ekiti East,2025-06-30,178.0,43.0,Team A,Initial,24.2
+Ekiti,Ekiti East,2025-06-09,141.0,488.0,Team A,Initial,346.1
+Ekiti,Ekiti South-West,2025-06-15,322.0,330.0,Team B,Initial,102.5
+Ekiti,Ekiti West,2025-06-20,517.0,81.0,Team B,Initial,15.7
+Ekiti,Ekiti South-West,2025-05-30,568.0,412.0,Team B,Initial,72.5
+Ekiti,Oye,2025-06-14,371.0,75.0,Team B,Initial,102.18805144546846
+Ekiti,Ijero,2025-05-31,,302.0,Team C,Initial,92.9
+Ekiti,Ekiti West,2025-05-29,265.0,71.0,Team D,Follow-up,
+Ekiti,Ikere,2025-05-30,513.0,128.0,Team A,Initial,25.0
+Ekiti,Ekiti South-West,2025-06-30,79.0,386.0,Team E,Initial,488.6
+Ekiti,Ido-Osi,2025-06-10,226.0,45.0,Team B,Follow-up,19.9
+Ekiti,Ikole,2025-06-30,207.0,233.0,Team A,Initial,112.6
+Ekiti,Ekiti South-East,2025-06-28,224.0,343.0,Team D,Follow-up,153.1
+Ekiti,Irepodun/Ifelodun,2025-06-13,362.0,187.0,Team A,Follow-up,51.7
+Ekiti,Ado-Ekiti,2025-06-26,432.0,396.0,Team C,Initial,91.7
+Ekiti,Ikole,2025-06-04,507.0,280.0,Team E,Initial,55.2
+Ekiti,Ijero,2025-06-25,219.0,311.0,Team A,Follow-up,142.0
+Ekiti,Ekiti West,2025-06-29,234.0,537.0,Team B,Initial,229.5
+Ekiti,Irepodun/Ifelodun,2025-07-02,135.0,164.0,Team A,Initial,121.5
+Ekiti,Ado-Ekiti,2025-06-23,109.0,587.0,Team C,Initial,538.5
+Ekiti,Irepodun/Ifelodun,2025-06-30,316.0,269.0,Team C,Initial,85.1
+Ekiti,Ikere,2025-06-17,104.0,111.0,Team D,Follow-up,106.7
+Ekiti,Ijero,2025-06-11,545.0,312.0,Team A,Initial,57.2
+Ekiti,Oye,2025-06-12,125.0,285.0,Team E,Follow-up,228.0
+Ekiti,Moba,2025-06-19,572.0,573.0,Team E,Initial,100.2
+Ekiti,Ekiti South-East,2025-06-10,,102.0,Team A,Follow-up,24.3
+Ekiti,Moba,2025-06-06,310.0,260.0,Team C,Initial,83.9
+Ekiti,Irepodun/Ifelodun,2025-06-23,127.0,194.0,Team E,Initial,152.8
+Ekiti,Gbonyin,2025-06-20,551.0,79.0,Team A,Initial,14.3
+Ekiti,Efon,2025-06-01,224.0,117.0,Team D,Follow-up,52.2
+Ekiti,Moba,2025-06-06,287.0,,Team A,Initial,91.3
+Ekiti,Efon,2025-05-29,331.0,526.0,Team A,Initial,158.9
+Ekiti,Ekiti East,2025-06-02,365.0,151.0,Team A,Follow-up,41.4
+Ekiti,Ijero,2025-06-14,467.0,,Team B,Follow-up,66.6
+Ekiti,Ekiti East,2025-06-25,90.0,,Team B,Initial,507.8
+Ekiti,Ijero,2025-06-08,413.0,77.0,Team D,Initial,18.6
+Ekiti,Ekiti South-West,2025-06-01,179.0,389.0,Team D,Initial,217.3
+Ekiti,Ikole,2025-06-03,580.0,168.0,Team B,Initial,29.0
+Ekiti,Ekiti East,2025-06-22,111.0,480.0,Team E,Initial,432.4
+Ekiti,Ekiti West,2025-06-30,115.0,427.0,Team A,Initial,371.3
+Ekiti,Efon,2025-06-16,174.0,160.0,Team D,Initial,92.0
+Ekiti,Oye,2025-06-13,334.0,463.0,Team B,Initial,138.6
+Ekiti,Ikole,2025-06-16,482.0,416.0,Team B,Follow-up,86.3
+Ekiti,Ekiti South-West,2025-05-31,373.0,263.0,Team B,Initial,70.5
+Ekiti,Ikere,2025-06-27,,145.0,Team D,Initial,154.3
+Ekiti,Ikere,2025-06-09,98.0,253.0,Team D,Initial,258.2
+Ekiti,Gbonyin,2025-06-08,151.0,544.0,Team D,Initial,360.3
+Ekiti,Irepodun/Ifelodun,2025-06-15,458.0,310.0,Team E,Follow-up,67.7
+Ekiti,Ekiti South-East,2025-06-26,482.0,53.0,Team D,Initial,
+Ekiti,Emure,2025-05-29,,159.0,Team B,Initial,
+Ekiti,Oye,2025-06-14,374.0,178.0,Team A,Initial,47.6
+Ekiti,Moba,2025-06-21,115.0,97.0,Team B,Follow-up,84.3
+Ekiti,Moba,2025-06-19,461.0,387.0,Team A,Follow-up,83.9
+Ekiti,Ikere,2025-06-18,232.0,407.0,Team E,Initial,175.4
+Ekiti,Emure,2025-06-13,59.0,387.0,Team B,Initial,655.9
+Ekiti,Ekiti East,2025-05-31,517.0,,Team C,Initial,57.6
+Ekiti,Ado-Ekiti,2025-06-17,514.0,82.0,Team E,Initial,16.0
+Ekiti,Gbonyin,2025-06-11,358.0,319.0,Team D,Follow-up,
+Ekiti,Efon,2025-06-20,487.0,,Team D,Initial,32.6
+Ekiti,Gbonyin,2025-06-09,102.0,265.0,Team A,Follow-up,259.8
+Ekiti,Ise/Orun,2025-05-29,525.0,148.0,Team D,Initial,28.2
+Ekiti,Ikere,2025-06-19,324.0,376.0,Team B,Follow-up,
+Ekiti,Oye,2025-06-22,239.0,460.0,Team B,Initial,192.5
+Ekiti,Ikole,2025-06-03,227.0,168.0,Team D,Initial,74.0
+Ekiti,Ise/Orun,2025-06-28,471.0,354.0,Team C,Follow-up,75.2
+Ekiti,Ado-Ekiti,2025-06-15,521.0,485.0,Team C,Follow-up,93.1
+Ekiti,Emure,2025-06-30,520.0,296.0,Team E,Initial,56.9
+Ekiti,Ikere,2025-06-10,82.0,383.0,Team D,Follow-up,467.1
+Ekiti,Moba,2025-06-13,530.0,361.0,Team C,Initial,68.1
+Ekiti,Ikere,2025-06-30,57.0,153.0,Team D,Initial,268.4
+Ekiti,Ijero,2025-05-29,93.0,461.0,Team E,Follow-up,495.7
+Ekiti,Ijero,2025-06-03,79.0,197.0,Team D,Initial,249.4
+Ekiti,Ekiti West,2025-06-14,353.0,73.0,Team A,Initial,20.7
+Ekiti,Ado-Ekiti,2025-06-03,300.0,,Team D,Initial,136.7
+Ekiti,Ido-Osi,2025-06-07,304.0,470.0,Team B,Follow-up,154.6
+Ekiti,Moba,2025-06-23,69.0,166.0,Team C,Initial,240.6
+Ekiti,Ikole,2025-05-31,189.0,389.0,Team A,Initial,205.8
+Ekiti,Moba,2025-06-23,528.0,556.0,Team A,Initial,105.3
+Ekiti,Oye,2025-05-30,509.0,223.0,Team B,Initial,43.8
+Ekiti,Irepodun/Ifelodun,2025-06-17,82.0,553.0,Team B,Initial,674.4
+Ekiti,Oye,2025-06-17,568.0,169.0,Team A,Follow-up,29.8
+Ekiti,Ekiti South-East,2025-06-12,432.0,455.0,Team B,Initial,105.3
+Ekiti,Gbonyin,2025-06-03,261.0,516.0,Team A,Initial,197.7
+Ekiti,Emure,2025-07-01,,499.0,Team C,Initial,219.8
+Ekiti,Ekiti South-West,2025-06-07,204.0,224.0,Team D,Initial,109.8
+Ekiti,Irepodun/Ifelodun,2025-06-22,592.0,339.0,Team A,Follow-up,57.3
+Ekiti,Ido-Osi,2025-06-18,572.0,484.0,Team E,Initial,84.6
+Ekiti,Ekiti South-East,2025-06-29,327.0,,Team D,Initial,62.1
+Ekiti,Ado-Ekiti,2025-06-07,,266.0,Team E,Initial,71.1
+Ekiti,Emure,2025-06-16,435.0,266.0,Team B,Follow-up,61.1
+Ekiti,Ado-Ekiti,2025-06-07,542.0,217.0,Team A,Initial,40.0
+Ekiti,Ekiti South-West,2025-05-31,96.0,125.0,Team D,Initial,130.2
+Ekiti,Emure,2025-06-30,540.0,524.0,Team A,Initial,97.0
+Ekiti,Efon,2025-06-25,444.0,84.0,Team E,Initial,18.9
+Ekiti,Oye,2025-06-30,218.0,401.0,Team C,Follow-up,183.9
+Ekiti,Ekiti West,2025-06-06,89.0,147.0,Team A,Follow-up,165.2
+Ekiti,Ise/Orun,2025-07-01,167.0,396.0,Team D,Follow-up,237.1
+Ekiti,Ikole,2025-06-30,299.0,59.0,Team B,Initial,19.7
+Ekiti,Ido-Osi,2025-05-30,70.0,489.0,Team D,Follow-up,698.6
+Ekiti,Ise/Orun,2025-06-12,82.0,79.0,Team C,Follow-up,96.3
+Ekiti,Ijero,2025-06-03,403.0,355.0,Team C,Follow-up,88.1
+Ekiti,Ekiti South-East,2025-05-30,270.0,303.0,Team E,Initial,112.2
+Ekiti,Irepodun/Ifelodun,2025-05-31,362.0,451.0,Team C,Follow-up,124.6
+Ekiti,Efon,2025-06-06,114.0,,Team A,Follow-up,175.4
+Ekiti,Ekiti West,2025-06-21,62.0,283.0,Team E,Initial,456.5
+Ekiti,Ido-Osi,2025-06-04,150.0,528.0,Team B,Initial,352.0
+Ekiti,Ido-Osi,2025-06-22,182.0,454.0,Team E,Initial,249.5
+Ekiti,Ido-Osi,2025-06-26,403.0,334.0,Team A,Follow-up,82.9
+Ekiti,Irepodun/Ifelodun,2025-06-01,561.0,505.0,Team E,Initial,90.0
+Ekiti,Gbonyin,2025-05-30,365.0,342.0,Team C,Initial,93.7
+Ekiti,Ise/Orun,2025-07-02,132.0,341.0,Team D,Initial,258.3
+Ekiti,Oye,2025-06-13,318.0,254.0,Team B,Initial,79.9
+Ekiti,Irepodun/Ifelodun,2025-06-29,545.0,427.0,Team C,Initial,103.78073188085241
+Ekiti,Ekiti West,2025-06-14,414.0,468.0,Team B,Initial,
+Ekiti,Ijero,2025-05-29,72.0,202.0,Team D,Follow-up,280.6
+Ekiti,Moba,2025-06-27,209.0,106.0,Team C,Initial,50.7
+Ekiti,Ekiti South-East,2025-06-02,114.0,469.0,Team A,Initial,
+Ekiti,Ikole,2025-06-30,136.0,570.0,Team A,Initial,419.1
+Ekiti,Ijero,2025-07-02,188.0,212.0,Team B,Initial,112.8
+Ekiti,Oye,2025-06-03,487.0,566.0,Team A,Initial,116.2
+Ekiti,Ekiti West,2025-07-01,203.0,368.0,Team D,Initial,181.3
+Ekiti,Ekiti South-West,2025-06-02,259.0,184.0,Team A,Follow-up,71.0
+Ekiti,Ekiti South-West,2025-06-28,254.0,583.0,Team C,Initial,229.5
+Ekiti,Irepodun/Ifelodun,2025-06-14,191.0,72.0,Team C,Follow-up,37.7
+Ekiti,Ikole,2025-06-02,223.0,372.0,Team D,Initial,166.8
+Ekiti,Oye,2025-06-14,511.0,59.0,Team C,Follow-up,11.5
+Ekiti,Ise/Orun,2025-06-13,,103.0,Team C,Initial,190.7
+Ekiti,Ijero,2025-06-11,279.0,119.0,Team C,Initial,42.7
+Ekiti,Ido-Osi,2025-06-12,215.0,228.0,Team C,Initial,106.0
+Ekiti,Ekiti South-West,2025-06-27,338.0,233.0,Team B,Initial,68.9
+Ekiti,Ekiti East,2025-06-29,202.0,409.0,Team B,Initial,202.5
+Ekiti,Ijero,2025-06-22,282.0,552.0,Team B,Initial,195.7
+Ekiti,Gbonyin,2025-06-02,387.0,453.0,Team E,Initial,117.1
+Ekiti,Moba,2025-06-28,316.0,437.0,Team A,Initial,138.3
+Ekiti,Emure,2025-06-16,96.0,433.0,Team D,Follow-up,451.0
+Ekiti,Ijero,2025-05-31,107.0,121.0,Team A,Initial,113.1
+Ekiti,Oye,2025-06-10,553.0,514.0,Team D,Initial,92.9
+Ekiti,Ado-Ekiti,2025-06-02,313.0,417.0,Team C,Initial,133.2
+Ekiti,Ido-Osi,2025-06-07,554.0,73.0,Team A,Initial,13.2
+Ekiti,Ikole,2025-06-19,426.0,422.0,Team B,Initial,99.1
+Ekiti,Oye,2025-06-14,195.0,243.0,Team D,Initial,124.6
+Ekiti,Ekiti South-East,2025-06-17,322.0,278.0,Team C,Initial,86.3
+Ekiti,Oye,2025-06-06,531.0,379.0,Team A,Initial,71.4
+Ekiti,Emure,2025-05-29,63.0,149.0,Team C,Follow-up,236.5
+Ekiti,Irepodun/Ifelodun,2025-06-28,,72.0,Team B,Initial,15.8
+Ekiti,Ikole,2025-06-01,498.0,589.0,Team C,Initial,118.3
+Ekiti,Irepodun/Ifelodun,2025-06-29,,381.0,Team D,Follow-up,331.3
+Ekiti,Gbonyin,2025-06-15,,119.0,Team D,Initial,41.0
+Ekiti,Ekiti East,2025-06-04,475.0,318.0,Team D,Initial,66.9
+Ekiti,Emure,2025-06-11,542.0,133.0,Team A,Initial,111.2710352543623
+Ekiti,Emure,2025-06-29,290.0,208.0,Team E,Follow-up,71.7
+Ekiti,Ado-Ekiti,2025-06-16,565.0,,Team C,Follow-up,81.9
+Ekiti,Oye,2025-07-01,486.0,106.0,Team A,Initial,21.8
+Ekiti,Ekiti East,2025-06-16,446.0,343.0,Team A,Follow-up,76.9
+Ekiti,Gbonyin,2025-06-27,249.0,235.0,Team C,Initial,94.4
+Ekiti,Emure,2025-06-27,64.0,505.0,Team D,Initial,789.1
+Ekiti,Gbonyin,2025-06-27,529.0,,Team E,Initial,91.3
+Ekiti,Efon,2025-06-05,556.0,71.0,Team E,Initial,12.8
+Ekiti,Irepodun/Ifelodun,2025-06-10,499.0,158.0,Team A,Initial,31.7
+Ekiti,Ado-Ekiti,2025-06-17,523.0,119.0,Team D,Follow-up,22.8
+Ekiti,Irepodun/Ifelodun,2025-06-03,575.0,325.0,Team E,Initial,
+Ekiti,Ikere,2025-06-28,178.0,568.0,Team C,Follow-up,319.1
+Ekiti,Ekiti East,2025-05-30,398.0,50.0,Team B,Initial,12.6
+Ekiti,Irepodun/Ifelodun,2025-06-16,409.0,348.0,Team D,Follow-up,85.1
+Ekiti,Ise/Orun,2025-06-27,,310.0,Team C,Initial,124.0
+Ekiti,Efon,2025-06-02,136.0,174.0,Team C,Initial,127.9
+Ekiti,Ido-Osi,2025-06-30,546.0,288.0,Team A,Follow-up,52.7
+Ekiti,Ekiti South-East,2025-06-26,157.0,90.0,Team C,Initial,57.3
+Ekiti,Ado-Ekiti,2025-06-15,135.0,299.0,Team D,Initial,221.5
+Ekiti,Ikere,2025-06-22,60.0,547.0,Team D,Follow-up,911.7
+Ekiti,Ado-Ekiti,2025-06-11,77.0,192.0,Team D,Initial,249.4
+Ekiti,Emure,2025-06-11,453.0,81.0,Team D,Follow-up,17.9
+Ekiti,Ekiti West,2025-06-02,371.0,541.0,Team A,Initial,
+Ekiti,Ekiti South-West,2025-06-03,163.0,152.0,Team A,Initial,93.3
+Ekiti,Oye,2025-06-07,214.0,558.0,Team C,Initial,260.7
+Ekiti,Ado-Ekiti,2025-07-01,337.0,522.0,Team B,Initial,154.9
+Ekiti,Oye,2025-06-14,189.0,57.0,Team C,Initial,30.2
+Ekiti,Irepodun/Ifelodun,2025-06-21,164.0,257.0,Team C,Initial,156.7
+Ekiti,Ekiti South-East,2025-06-06,114.0,90.0,Team E,Initial,78.9
+Ekiti,Irepodun/Ifelodun,2025-06-30,91.0,382.0,Team B,Initial,419.8
+Ekiti,Ikere,2025-06-15,434.0,130.0,Team B,Initial,30.0
+Ekiti,Emure,2025-06-05,338.0,515.0,Team E,Initial,152.4
+Ekiti,Ado-Ekiti,2025-06-21,252.0,384.0,Team E,Follow-up,152.4
+Ekiti,Ado-Ekiti,2025-06-12,158.0,268.0,Team A,Follow-up,169.6
+Ekiti,Oye,2025-06-29,441.0,273.0,Team D,Initial,61.9
+Ekiti,Ikole,2025-06-29,272.0,56.0,Team B,Initial,20.6
+Ekiti,Ekiti East,2025-06-23,207.0,240.0,Team C,Initial,115.9
+Ekiti,Ekiti West,2025-05-30,358.0,362.0,Team D,Follow-up,114.07711187513371
+Ekiti,Ise/Orun,2025-06-08,455.0,60.0,Team C,Initial,13.2
+Ekiti,Ido-Osi,2025-05-29,569.0,192.0,Team C,Initial,33.7
+Ekiti,Ikole,2025-06-29,410.0,418.0,Team E,Follow-up,102.0
+Ekiti,Ijero,2025-06-26,383.0,214.0,Team E,Initial,55.9
+Ekiti,Ekiti West,2025-06-23,53.0,574.0,Team D,Initial,1083.0
+Ekiti,Efon,2025-06-17,238.0,411.0,Team D,Initial,172.7
+Ekiti,Gbonyin,2025-06-07,596.0,55.0,Team B,Initial,9.2
+Ekiti,Ise/Orun,2025-06-24,420.0,,Team B,Initial,28.3
+Ekiti,Ekiti West,2025-06-20,594.0,330.0,Team D,Initial,55.6
+Ekiti,Ekiti East,2025-06-22,478.0,574.0,Team E,Follow-up,120.1
+Ekiti,Ise/Orun,2025-06-18,203.0,178.0,Team E,Follow-up,87.7
+Ekiti,Ikole,2025-06-05,578.0,97.0,Team B,Follow-up,16.8
+Ekiti,Moba,2025-06-19,73.0,,Team D,Initial,720.5
+Ekiti,Gbonyin,2025-05-29,347.0,88.0,Team A,Initial,25.4
+Ekiti,Moba,2025-06-18,367.0,469.0,Team C,Follow-up,127.8
+Ekiti,Ijero,2025-06-19,162.0,,Team C,Follow-up,298.1
+Ekiti,Ekiti West,2025-06-23,461.0,256.0,Team C,Initial,55.5
+Ekiti,Ise/Orun,2025-06-05,265.0,118.0,Team C,Initial,44.5
+Ekiti,Irepodun/Ifelodun,2025-06-10,457.0,571.0,Team B,Initial,124.9
+Ekiti,Oye,2025-05-29,246.0,392.0,Team A,Follow-up,159.3
+Ekiti,Efon,2025-06-16,551.0,538.0,Team D,Initial,97.6
+Ekiti,Ekiti East,2025-06-14,342.0,557.0,Team C,Initial,162.9
+Ekiti,Ido-Osi,2025-06-21,568.0,384.0,Team D,Follow-up,67.6
+Ekiti,Ekiti West,2025-06-02,134.0,239.0,Team A,Initial,178.4
+Ekiti,Emure,2025-06-23,59.0,178.0,Team C,Initial,301.7
+Ekiti,Emure,2025-06-22,554.0,312.0,Team D,Initial,56.3
+Ekiti,Gbonyin,2025-06-02,342.0,,Team D,Initial,71.6
+Ekiti,Ekiti West,2025-06-21,73.0,482.0,Team E,Initial,660.3
+Ekiti,Emure,2025-06-25,144.0,333.0,Team B,Follow-up,231.2
+Ekiti,Ikere,2025-06-15,445.0,228.0,Team E,Initial,51.2
+Ekiti,Ado-Ekiti,2025-06-01,311.0,87.0,Team A,Initial,28.0
+Ekiti,Ekiti East,2025-06-15,331.0,507.0,Team C,Initial,153.2
+Ekiti,Ekiti West,2025-06-04,437.0,69.0,Team E,Initial,15.8
+Ekiti,Gbonyin,2025-06-01,288.0,72.0,Team C,Follow-up,25.0
+Ekiti,Ijero,2025-06-16,249.0,238.0,Team D,Follow-up,95.6
+Ekiti,Irepodun/Ifelodun,2025-06-07,92.0,533.0,Team B,Initial,579.3
+Ekiti,Ekiti South-West,2025-06-13,448.0,420.0,Team C,Initial,93.8
+Ekiti,Ekiti South-West,2025-06-15,367.0,292.0,Team A,Initial,79.6
+Ekiti,Ikole,2025-06-25,569.0,170.0,Team D,Follow-up,
+Ekiti,Ado-Ekiti,2025-06-30,55.0,146.0,Team B,Follow-up,265.5
+Ekiti,Ekiti East,2025-06-18,87.0,412.0,Team E,Initial,473.6
+Ekiti,Ekiti South-West,2025-06-10,562.0,,Team E,Initial,52.1
+Ekiti,Ise/Orun,2025-06-21,210.0,237.0,Team A,Follow-up,112.9
+Ekiti,Ise/Orun,2025-06-25,316.0,251.0,Team B,Initial,79.4
+Ekiti,Irepodun/Ifelodun,2025-05-30,319.0,107.0,Team E,Follow-up,33.5
+Ekiti,Ekiti South-East,2025-06-23,421.0,464.0,Team C,Follow-up,110.2
+Ekiti,Ado-Ekiti,2025-06-11,348.0,458.0,Team E,Initial,131.6
+Ekiti,Gbonyin,2025-06-03,166.0,,Team D,Initial,326.5
+Ekiti,Emure,2025-06-01,308.0,268.0,Team D,Follow-up,87.0
+Ekiti,Ijero,2025-06-24,574.0,468.0,Team A,Initial,109.22223439333507
+Ekiti,Moba,2025-06-26,312.0,,Team E,Follow-up,44.9
+Ekiti,Ekiti South-East,2025-06-06,83.0,,Team B,Initial,190.4
+Ekiti,Ado-Ekiti,2025-06-16,560.0,504.0,Team E,Initial,90.0
+Ekiti,Ise/Orun,2025-06-29,353.0,393.0,Team D,Initial,111.3
+Ekiti,Ekiti East,2025-06-01,153.0,,Team A,Initial,
+Ekiti,Moba,2025-06-06,165.0,395.0,Team B,Follow-up,239.4
+Ekiti,Emure,2025-06-08,513.0,479.0,Team E,Follow-up,93.4
+Ekiti,Ijero,2025-06-28,383.0,519.0,Team D,Follow-up,135.5
+Ekiti,Ise/Orun,2025-06-24,67.0,379.0,Team E,Initial,565.7
+Ekiti,Ikere,2025-06-19,223.0,477.0,Team C,Follow-up,213.9
+Ekiti,Ijero,2025-06-16,139.0,314.0,Team E,Initial,225.9
+Ekiti,Ido-Osi,2025-06-17,508.0,327.0,Team E,Follow-up,64.4
+Ekiti,Irepodun/Ifelodun,2025-06-14,122.0,465.0,Team E,Initial,381.1
+Ekiti,Ikere,2025-06-14,392.0,261.0,Team A,Initial,66.6
+Ekiti,Ido-Osi,2025-06-23,517.0,510.0,Team B,Initial,98.6
+Ekiti,Ekiti West,2025-06-13,295.0,408.0,Team D,Initial,103.30397707186361
+Ekiti,Emure,2025-06-17,242.0,93.0,Team C,Initial,38.4
+Ekiti,Ijero,2025-06-28,598.0,98.0,Team A,Initial,16.4
+Ekiti,Ekiti West,2025-06-23,224.0,253.0,Team B,Initial,112.9
+Ekiti,Moba,2025-06-05,540.0,506.0,Team A,Initial,93.7
+Ekiti,Gbonyin,2025-06-08,,193.0,Team B,Follow-up,48.1
+Ekiti,Ijero,2025-06-08,430.0,259.0,Team A,Initial,60.2
+Ekiti,Ido-Osi,2025-06-02,567.0,338.0,Team C,Initial,59.6
+Ekiti,Ekiti South-West,2025-06-11,97.0,462.0,Team E,Initial,
+Ekiti,Irepodun/Ifelodun,2025-06-30,265.0,107.0,Team B,Initial,40.4
+Ekiti,Efon,2025-06-29,491.0,151.0,Team C,Follow-up,30.8
+Ekiti,Ekiti West,2025-06-12,493.0,465.0,Team B,Initial,94.3
+Ekiti,Ado-Ekiti,2025-06-26,90.0,249.0,Team D,Initial,276.7
+Ekiti,Ekiti South-East,2025-06-19,53.0,497.0,Team E,Initial,937.7
+Ekiti,Ekiti West,2025-06-26,417.0,205.0,Team E,Follow-up,49.2
+Ekiti,Oye,2025-06-25,534.0,137.0,Team B,Initial,25.7
+Ekiti,Emure,2025-06-06,438.0,78.0,Team D,Initial,17.8
+Ekiti,Efon,2025-06-10,359.0,210.0,Team B,Initial,58.5
+Ekiti,Ikole,2025-06-13,219.0,109.0,Team A,Follow-up,49.8
+Ekiti,Ikere,2025-06-03,100.0,582.0,Team B,Initial,582.0
+Ekiti,Ekiti West,2025-06-09,200.0,82.0,Team B,Initial,41.0
+Ekiti,Ekiti East,2025-06-19,431.0,500.0,Team E,Initial,116.0
+Ekiti,Ado-Ekiti,2025-06-03,596.0,289.0,Team E,Follow-up,48.5
+Ekiti,Ado-Ekiti,2025-06-18,56.0,144.0,Team C,Initial,257.1
+Ekiti,Irepodun/Ifelodun,2025-06-13,456.0,336.0,Team E,Follow-up,73.7
+Ekiti,Ekiti East,2025-06-21,125.0,380.0,Team D,Initial,304.0
+Ekiti,Ado-Ekiti,2025-06-14,458.0,495.0,Team C,Initial,108.1
+Ekiti,Oye,2025-06-10,199.0,449.0,Team C,Initial,225.6
+Ekiti,Ido-Osi,2025-05-30,329.0,420.0,Team A,Initial,127.7
+Ekiti,Ekiti West,2025-06-24,507.0,186.0,Team B,Follow-up,36.7
+Ekiti,Ikere,2025-06-22,544.0,247.0,Team C,Initial,45.4
+Ekiti,Oye,2025-06-24,243.0,78.0,Team C,Initial,32.1
+Ekiti,Ekiti South-West,2025-07-01,82.0,44.0,Team E,Initial,53.7
+Ekiti,Ekiti South-West,2025-06-11,180.0,154.0,Team E,Initial,
+Ekiti,Oye,2025-06-22,64.0,212.0,Team A,Initial,331.2
+Ekiti,Ekiti South-East,2025-06-15,,445.0,Team D,Follow-up,100.7
+Ekiti,Gbonyin,2025-06-19,362.0,120.0,Team E,Follow-up,33.1
+Ekiti,Efon,2025-06-01,242.0,100.0,Team B,Initial,41.3
+Ekiti,Ise/Orun,2025-06-29,193.0,406.0,Team B,Follow-up,210.4
+Ekiti,Ido-Osi,2025-06-15,124.0,,Team A,Initial,
+Ekiti,Emure,2025-06-21,444.0,346.0,Team B,Initial,77.9
+Ekiti,Ekiti East,2025-06-06,502.0,,Team E,Follow-up,87.8
+Ekiti,Oye,2025-06-30,152.0,242.0,Team A,Initial,159.2
+Ekiti,Irepodun/Ifelodun,2025-07-01,267.0,322.0,Team A,Follow-up,120.6
+Ekiti,Ekiti East,2025-06-11,,172.0,Team C,Initial,50.3
+Ekiti,Ekiti East,2025-06-03,566.0,65.0,Team D,Follow-up,11.5
+Ekiti,Ise/Orun,2025-06-15,126.0,307.0,Team B,Follow-up,243.7
+Ekiti,Ise/Orun,2025-06-13,111.0,145.0,Team A,Initial,106.34668378552075
+Ekiti,Moba,2025-06-22,197.0,424.0,Team C,Initial,215.2
+Ekiti,Ido-Osi,2025-06-23,391.0,403.0,Team A,Initial,103.1
+Ekiti,Ekiti South-East,2025-06-26,94.0,317.0,Team D,Initial,337.2
+Ekiti,Efon,2025-06-25,290.0,479.0,Team D,Initial,165.2
+Ekiti,Ikere,2025-06-17,405.0,378.0,Team B,Initial,93.3
+Ekiti,Ado-Ekiti,2025-05-30,263.0,,Team B,Initial,43.0
+Ekiti,Ikere,2025-06-06,198.0,232.0,Team A,Initial,117.2
+Ekiti,Gbonyin,2025-05-31,539.0,228.0,Team D,Initial,42.3
+Ekiti,Ekiti East,2025-06-25,,272.0,Team C,Initial,54.1
+Ekiti,Emure,2025-06-28,531.0,415.0,Team C,Initial,78.2
+Ekiti,Irepodun/Ifelodun,2025-06-29,94.0,226.0,Team D,Follow-up,240.4
+Ekiti,Emure,2025-05-29,111.0,283.0,Team A,Initial,255.0
+Ekiti,Ekiti South-East,2025-06-02,439.0,141.0,Team C,Initial,32.1
+Ekiti,Ekiti West,2025-06-23,481.0,132.0,Team C,Initial,27.4
+Ekiti,Moba,2025-07-01,400.0,84.0,Team E,Initial,21.0
+Ekiti,Ikere,2025-06-27,178.0,295.0,Team C,Initial,165.7
+Ekiti,Irepodun/Ifelodun,2025-06-26,264.0,268.0,Team B,Initial,101.5
+Ekiti,Gbonyin,2025-06-13,336.0,484.0,Team B,Follow-up,144.0
+Ekiti,Ekiti East,2025-06-04,296.0,529.0,Team E,Initial,178.7
+Ekiti,Ekiti South-West,2025-06-12,275.0,538.0,Team B,Follow-up,195.6
+Ekiti,Ikole,2025-06-07,352.0,494.0,Team A,Initial,140.3
+Ekiti,Efon,2025-06-07,108.0,427.0,Team B,Initial,395.4
+Ekiti,Moba,2025-07-01,185.0,194.0,Team C,Initial,104.9
+Ekiti,Ikole,2025-06-04,99.0,,Team B,Follow-up,166.7
+Ekiti,Ekiti South-West,2025-06-27,338.0,218.0,Team B,Initial,64.5
+Ekiti,Ekiti West,2025-06-03,579.0,434.0,Team B,Initial,75.0
+Ekiti,Irepodun/Ifelodun,2025-05-31,594.0,365.0,Team E,Initial,61.4
+Ekiti,Ido-Osi,2025-05-29,432.0,137.0,Team D,Follow-up,31.7
+Ekiti,Ijero,2025-06-06,61.0,107.0,Team C,Initial,175.4
+Ekiti,Efon,2025-06-12,404.0,395.0,Team D,Initial,97.8
+Ekiti,Ekiti East,2025-05-31,257.0,392.0,Team E,Follow-up,152.5
+Ekiti,Ido-Osi,2025-06-17,99.0,355.0,Team B,Initial,358.6
+Ekiti,Ekiti South-West,2025-06-06,169.0,308.0,Team E,Initial,182.2
+Ekiti,Ekiti South-West,2025-06-14,322.0,257.0,Team D,Follow-up,79.8
+Ekiti,Emure,2025-07-01,343.0,462.0,Team D,Follow-up,134.7
+Ekiti,Ise/Orun,2025-06-25,70.0,548.0,Team D,Initial,782.9
+Ekiti,Ido-Osi,2025-06-05,497.0,87.0,Team E,Initial,17.5
+Ekiti,Ekiti South-West,2025-06-04,98.0,46.0,Team D,Initial,46.9
+Ekiti,Efon,2025-06-02,51.0,501.0,Team C,Initial,982.4
+Ekiti,Ekiti East,2025-06-17,288.0,265.0,Team B,Initial,
+Ekiti,Ekiti West,2025-07-01,522.0,254.0,Team C,Follow-up,48.7
+Ekiti,Ido-Osi,2025-06-10,521.0,43.0,Team E,Follow-up,8.3
+Ekiti,Gbonyin,2025-06-22,358.0,224.0,Team D,Initial,62.6
+Ekiti,Moba,2025-06-14,567.0,184.0,Team E,Initial,32.5
+Ekiti,Gbonyin,2025-06-12,,,Team C,Follow-up,128.7
+Ekiti,Ekiti West,2025-05-29,389.0,239.0,Team C,Initial,61.4
+Ekiti,Moba,2025-05-29,190.0,436.0,Team E,Initial,229.5
+Ekiti,Oye,2025-07-02,161.0,177.0,Team D,Initial,109.9
+Ekiti,Oye,2025-06-17,182.0,90.0,Team E,Initial,49.5
+Ekiti,Oye,2025-06-27,413.0,524.0,Team E,Initial,126.9
+Ekiti,Moba,2025-06-15,262.0,114.0,Team E,Initial,43.5
+Ekiti,Ijero,2025-06-18,67.0,151.0,Team A,Initial,225.4
+Ekiti,Ikere,2025-06-13,387.0,230.0,Team A,Initial,59.4
+Ekiti,Irepodun/Ifelodun,2025-06-28,93.0,182.0,Team C,Initial,195.7
+Ekiti,Ikere,2025-07-01,260.0,148.0,Team C,Follow-up,56.9
+Ekiti,Irepodun/Ifelodun,2025-06-13,374.0,423.0,Team D,Initial,113.1
+Ekiti,Ido-Osi,2025-06-13,227.0,412.0,Team A,Initial,181.5
+Ekiti,Efon,2025-05-30,113.0,213.0,Team A,Follow-up,188.5
+Ekiti,Moba,2025-06-24,441.0,89.0,Team C,Initial,
+Ekiti,Ijero,2025-06-17,359.0,359.0,Team E,Initial,100.0
+Ekiti,Ekiti South-West,2025-06-01,204.0,560.0,Team B,Initial,274.5
+Ekiti,Ekiti South-East,2025-05-30,468.0,271.0,Team B,Initial,57.9
+Ekiti,Emure,2025-06-10,,432.0,Team A,Initial,427.7
+Ekiti,Ikole,2025-06-29,99.0,317.0,Team B,Initial,320.2
+Ekiti,Ekiti South-West,2025-06-24,268.0,120.0,Team B,Initial,44.8
+Ekiti,Efon,2025-06-03,538.0,249.0,Team A,Initial,46.3
+Ekiti,Ijero,2025-06-14,361.0,339.0,Team E,Initial,93.9
+Ekiti,Gbonyin,2025-06-12,520.0,431.0,Team B,Initial,82.9
+Ekiti,Ekiti East,2025-06-25,203.0,321.0,Team C,Follow-up,158.1
+Ekiti,Ekiti South-West,2025-06-21,229.0,497.0,Team E,Initial,217.0
+Ekiti,Ado-Ekiti,2025-06-12,385.0,177.0,Team E,Initial,46.0
+Ekiti,Emure,2025-06-29,210.0,184.0,Team A,Initial,87.6
+Ekiti,Ise/Orun,2025-05-31,71.0,576.0,Team A,Initial,811.3
+Ekiti,Gbonyin,2025-06-19,460.0,226.0,Team B,Follow-up,
+Ekiti,Ekiti South-East,2025-06-24,264.0,358.0,Team A,Initial,135.6
+Ekiti,Ise/Orun,2025-06-21,322.0,202.0,Team C,Initial,62.7
+Ekiti,Ijero,2025-06-23,166.0,122.0,Team A,Follow-up,73.5
+Ekiti,Irepodun/Ifelodun,2025-06-10,209.0,439.0,Team A,Initial,210.0
+Ekiti,Ise/Orun,2025-05-29,188.0,180.0,Team A,Initial,
+Ekiti,Efon,2025-06-16,297.0,555.0,Team D,Initial,186.9
+Ekiti,Ado-Ekiti,2025-06-30,405.0,203.0,Team C,Initial,50.1
+Ekiti,Irepodun/Ifelodun,2025-06-02,439.0,367.0,Team A,Initial,83.6
+Ekiti,Ekiti East,2025-06-11,366.0,358.0,Team C,Follow-up,101.14224575672743
+Ekiti,Emure,2025-06-29,341.0,334.0,Team D,Initial,97.9
+Ekiti,Ado-Ekiti,2025-06-10,377.0,156.0,Team C,Follow-up,41.4
+Ekiti,Ekiti West,2025-06-17,594.0,244.0,Team C,Follow-up,41.1
+Ekiti,Moba,2025-06-10,239.0,416.0,Team D,Initial,174.1
+Ekiti,Moba,2025-06-12,424.0,526.0,Team B,Initial,124.1
+Ekiti,Ikere,2025-06-27,232.0,49.0,Team A,Initial,21.1
+Ekiti,Ado-Ekiti,2025-06-12,513.0,430.0,Team B,Initial,83.8
+Ekiti,Ekiti East,2025-06-14,241.0,54.0,Team B,Follow-up,22.4
+Ekiti,Ekiti West,2025-06-16,359.0,546.0,Team D,Initial,152.1
+Ekiti,Ado-Ekiti,2025-06-04,312.0,,Team A,Follow-up,172.8
+Ekiti,Ikole,2025-06-29,73.0,45.0,Team A,Initial,61.6
+Ekiti,Ekiti West,2025-06-09,71.0,65.0,Team D,Follow-up,91.5
+Ekiti,Ekiti East,2025-06-12,341.0,334.0,Team C,Initial,97.9
+Ekiti,Ekiti South-West,2025-06-29,152.0,200.0,Team C,Initial,131.6
+Ekiti,Irepodun/Ifelodun,2025-06-24,507.0,400.0,Team E,Initial,78.9
+Ekiti,Moba,2025-06-01,415.0,346.0,Team B,Follow-up,83.4
+Ekiti,Gbonyin,2025-06-07,351.0,,Team C,Initial,134.5
+Ekiti,Ekiti South-West,2025-06-23,320.0,197.0,Team D,Initial,61.6
+Ekiti,Emure,2025-06-01,578.0,165.0,Team E,Follow-up,28.5
+Ekiti,Ekiti South-West,2025-06-11,241.0,295.0,Team D,Initial,122.4
+Ekiti,Ekiti East,2025-05-30,378.0,432.0,Team B,Initial,114.3
+Ekiti,Ido-Osi,2025-06-07,526.0,296.0,Team A,Follow-up,56.3
+Ekiti,Ekiti West,2025-06-24,103.0,583.0,Team B,Initial,566.0
+Ekiti,Ikole,2025-06-01,96.0,228.0,Team C,Initial,237.5
+Ekiti,Emure,2025-06-01,345.0,494.0,Team D,Initial,143.2
+Ekiti,Moba,2025-06-09,510.0,300.0,Team A,Follow-up,58.8
+Ekiti,Ido-Osi,2025-06-23,322.0,537.0,Team A,Initial,166.8
+Ekiti,Ekiti South-East,2025-06-26,59.0,326.0,Team A,Follow-up,552.5
+Ekiti,Oye,2025-06-18,188.0,532.0,Team B,Initial,283.0
+Ekiti,Ijero,2025-06-05,303.0,,Team E,Follow-up,118.8
+Ekiti,Ise/Orun,2025-06-03,385.0,431.0,Team D,Follow-up,111.9
+Ekiti,Irepodun/Ifelodun,2025-06-08,172.0,578.0,Team C,Initial,336.0
+Ekiti,Emure,2025-06-19,75.0,505.0,Team C,Follow-up,673.3
+Ekiti,Ikere,2025-06-10,319.0,113.0,Team C,Follow-up,105.25365887448719
+Ekiti,Ikere,2025-06-09,349.0,210.0,Team B,Initial,60.2
+Ekiti,Ijero,2025-07-01,96.0,225.0,Team E,Initial,234.4
+Ekiti,Ise/Orun,2025-06-27,335.0,,Team E,Follow-up,111.0
+Ekiti,Ikere,2025-05-31,301.0,42.0,Team C,Follow-up,14.0
+Ekiti,Oye,2025-06-17,69.0,406.0,Team C,Initial,588.4
+Ekiti,Efon,2025-06-22,522.0,341.0,Team C,Follow-up,65.3
+Ekiti,Ikere,2025-06-21,484.0,358.0,Team C,Initial,74.0
+Ekiti,Ekiti East,2025-06-19,269.0,65.0,Team D,Follow-up,24.2
+Ekiti,Ekiti South-West,2025-06-26,99.0,553.0,Team E,Follow-up,558.6
+Ekiti,Ikere,2025-06-08,259.0,501.0,Team C,Follow-up,
+Ekiti,Oye,2025-06-04,394.0,186.0,Team D,Follow-up,47.2
+Ekiti,Gbonyin,2025-05-29,220.0,74.0,Team C,Initial,33.6
+Ekiti,Ekiti West,2025-06-03,320.0,149.0,Team B,Initial,46.6
+Ekiti,Efon,2025-06-15,185.0,214.0,Team D,Initial,115.7
+Ekiti,Ekiti South-West,2025-06-03,421.0,388.0,Team B,Initial,92.2
+Ekiti,Ekiti South-East,2025-06-20,478.0,568.0,Team B,Initial,118.8
+Ekiti,Ijero,2025-06-24,358.0,496.0,Team D,Initial,138.5
+Ekiti,Ekiti West,2025-06-05,297.0,,Team E,Follow-up,110.8
+Ekiti,Gbonyin,2025-06-11,100.0,356.0,Team C,Initial,356.0
+Ekiti,Ikole,2025-06-22,217.0,564.0,Team E,Initial,259.9
+Ekiti,Oye,2025-06-20,310.0,117.0,Team E,Initial,37.7
+Ekiti,Ikere,2025-06-17,,414.0,Team A,Follow-up,
+Ekiti,Efon,2025-06-25,110.0,486.0,Team B,Initial,441.8
+Ekiti,Ijero,2025-06-03,457.0,398.0,Team B,Initial,87.1
+Ekiti,Ado-Ekiti,2025-06-01,169.0,346.0,Team B,Initial,204.7
+Ekiti,Irepodun/Ifelodun,2025-06-28,578.0,238.0,Team D,Initial,41.2
+Ekiti,Ikole,2025-06-10,50.0,126.0,Team D,Initial,252.0
+Ekiti,Ekiti East,2025-06-21,370.0,108.0,Team B,Initial,29.2
+Ekiti,Irepodun/Ifelodun,2025-07-02,199.0,405.0,Team A,Initial,203.5
+Ekiti,Efon,2025-06-26,303.0,319.0,Team C,Follow-up,105.3
+Ekiti,Ise/Orun,2025-06-10,586.0,101.0,Team C,Initial,102.6991833107185
+Ekiti,Irepodun/Ifelodun,2025-06-18,76.0,324.0,Team E,Initial,426.3
+Ekiti,Ado-Ekiti,2025-06-21,,525.0,Team C,Initial,135.3
+Ekiti,Ijero,2025-06-28,504.0,376.0,Team B,Follow-up,74.6
+Ekiti,Oye,2025-05-30,597.0,136.0,Team B,Follow-up,22.8
+Ekiti,Ekiti South-East,2025-06-24,313.0,394.0,Team E,Initial,125.9
+Ekiti,Ijero,2025-06-13,327.0,278.0,Team E,Initial,85.0
+Ekiti,Ekiti West,2025-06-23,68.0,256.0,Team A,Follow-up,376.5
+Ekiti,Ido-Osi,2025-05-31,247.0,368.0,Team C,Initial,149.0
+Ekiti,Ekiti South-West,2025-06-22,479.0,115.0,Team D,Initial,24.0
+Ekiti,Ekiti West,2025-05-31,133.0,310.0,Team B,Initial,233.1
+Ekiti,Ekiti East,2025-06-27,138.0,165.0,Team C,Initial,119.6
+Ekiti,Ijero,2025-06-02,,572.0,Team D,Initial,104.6
+Ekiti,Ekiti East,2025-06-01,90.0,128.0,Team A,Follow-up,142.2
+Ekiti,Moba,2025-06-14,254.0,248.0,Team E,Follow-up,97.6
+Ekiti,Irepodun/Ifelodun,2025-06-10,513.0,254.0,Team D,Follow-up,109.09653052853477
+Ekiti,Emure,2025-06-02,126.0,,Team B,Initial,91.3
+Ekiti,Gbonyin,2025-06-19,185.0,92.0,Team D,Initial,49.7
+Ekiti,Moba,2025-06-21,576.0,355.0,Team D,Initial,61.6
+Ekiti,Ekiti East,2025-06-15,55.0,455.0,Team C,Follow-up,827.3
+Ekiti,Ekiti East,2025-06-19,291.0,105.0,Team B,Follow-up,36.1
+Ekiti,Gbonyin,2025-05-31,456.0,176.0,Team C,Follow-up,38.6
+Ekiti,Ikole,2025-06-14,315.0,185.0,Team D,Initial,58.7
+Ekiti,Ekiti South-East,2025-06-18,474.0,309.0,Team A,Initial,65.2
+Ekiti,Ikole,2025-06-15,183.0,121.0,Team A,Initial,66.1
+Ekiti,Ekiti East,2025-06-17,214.0,553.0,Team C,Initial,258.4
+Ekiti,Ado-Ekiti,2025-05-29,424.0,208.0,Team E,Follow-up,49.1
+Ekiti,Ado-Ekiti,2025-06-02,587.0,246.0,Team B,Initial,41.9
+Ekiti,Ekiti West,2025-05-30,585.0,497.0,Team B,Initial,85.0
+Ekiti,Ekiti East,2025-06-12,128.0,556.0,Team E,Follow-up,434.4
+Ekiti,Efon,2025-06-04,431.0,363.0,Team E,Initial,84.2
+Ekiti,Ado-Ekiti,2025-06-28,247.0,154.0,Team E,Initial,62.3
+Ekiti,Ise/Orun,2025-06-27,188.0,327.0,Team E,Follow-up,173.9
+Ekiti,Oye,2025-06-22,541.0,379.0,Team C,Initial,70.1
+Ekiti,Ekiti East,2025-06-14,403.0,204.0,Team A,Initial,50.6
+Ekiti,Irepodun/Ifelodun,2025-06-25,249.0,289.0,Team E,Initial,116.1
+Ekiti,Oye,2025-06-29,136.0,498.0,Team E,Initial,366.2
+Ekiti,Efon,2025-06-06,310.0,589.0,Team C,Follow-up,190.0
+Ekiti,Ijero,2025-06-29,502.0,139.0,Team C,Initial,27.7
+Ekiti,Efon,2025-06-09,518.0,401.0,Team A,Initial,
+Ekiti,Ekiti South-East,2025-05-29,403.0,488.0,Team A,Initial,121.1
+Ekiti,Gbonyin,2025-06-17,216.0,113.0,Team E,Follow-up,52.3
+Ekiti,Ado-Ekiti,2025-06-07,519.0,271.0,Team D,Follow-up,52.2
+Ekiti,Ijero,2025-06-13,,549.0,Team E,Follow-up,1076.5
+Ekiti,Ikole,2025-06-18,276.0,335.0,Team B,Initial,121.4
+Ekiti,Moba,2025-06-18,121.0,529.0,Team C,Initial,
+Ekiti,Ekiti South-East,2025-06-27,259.0,178.0,Team D,Initial,68.7
+Ekiti,Emure,2025-06-21,146.0,376.0,Team D,Initial,257.5
+Ekiti,Efon,2025-06-03,204.0,259.0,Team B,Initial,127.0
+Ekiti,Ekiti South-East,2025-06-30,87.0,207.0,Team D,Initial,237.9
+Ekiti,Irepodun/Ifelodun,2025-06-10,444.0,274.0,Team C,Follow-up,61.7
+Ekiti,Ijero,2025-06-23,235.0,470.0,Team E,Initial,200.0
+Ekiti,Ekiti South-West,2025-06-08,418.0,317.0,Team A,Follow-up,75.8
+Ekiti,Moba,2025-06-13,469.0,396.0,Team E,Initial,84.4
+Ekiti,Ise/Orun,2025-06-24,293.0,530.0,Team D,Initial,180.9
+Ekiti,Gbonyin,2025-06-02,393.0,181.0,Team D,Initial,46.1
+Ekiti,Emure,2025-05-31,590.0,487.0,Team E,Initial,82.5
+Ekiti,Moba,2025-06-28,434.0,530.0,Team E,Follow-up,122.1
+Ekiti,Ado-Ekiti,2025-07-02,372.0,368.0,Team E,Initial,98.9
+Ekiti,Ijero,2025-06-18,391.0,484.0,Team A,Initial,123.8
+Ekiti,Ido-Osi,2025-06-08,451.0,202.0,Team E,Initial,44.8
+Ekiti,Efon,2025-06-25,150.0,401.0,Team A,Initial,267.3
+Ekiti,Ikole,2025-06-04,109.0,411.0,Team C,Initial,377.1
+Ekiti,Ijero,2025-06-02,394.0,172.0,Team D,Initial,43.7
+Ekiti,Ado-Ekiti,2025-06-14,115.0,462.0,Team B,Follow-up,401.7
+Ekiti,Efon,2025-06-03,60.0,163.0,Team B,Initial,271.7
+Ekiti,Ikere,2025-06-11,60.0,220.0,Team D,Follow-up,366.7
+Ekiti,Emure,2025-06-04,229.0,319.0,Team B,Initial,139.3
+Ekiti,Ekiti East,2025-06-24,252.0,249.0,Team D,Follow-up,98.8
+Ekiti,Ekiti East,2025-06-29,86.0,169.0,Team C,Initial,196.5
+Ekiti,Ekiti East,2025-06-26,471.0,498.0,Team C,Initial,105.7
+Ekiti,Oye,2025-06-09,377.0,77.0,Team D,Initial,20.4
+Ekiti,Ikole,2025-06-12,219.0,496.0,Team C,Follow-up,226.5
+Ekiti,Ekiti West,2025-06-06,349.0,489.0,Team B,Initial,140.1
+Ekiti,Ise/Orun,2025-06-24,341.0,444.0,Team B,Follow-up,130.2
+Ekiti,Irepodun/Ifelodun,2025-06-27,345.0,526.0,Team D,Initial,152.5
+Ekiti,Gbonyin,2025-06-13,532.0,222.0,Team B,Follow-up,41.7
+Ekiti,Oye,2025-07-02,72.0,293.0,Team A,Initial,406.9
+Ekiti,Ekiti East,2025-06-05,506.0,285.0,Team D,Initial,56.3
+Ekiti,Ise/Orun,2025-06-16,371.0,80.0,Team B,Initial,21.6
+Ekiti,Ijero,2025-06-16,544.0,178.0,Team C,Follow-up,32.7
+Ekiti,Ekiti East,2025-06-15,400.0,131.0,Team A,Follow-up,32.8
+Ekiti,Moba,2025-06-15,287.0,465.0,Team D,Initial,162.0
+Ekiti,Oye,2025-06-21,225.0,214.0,Team D,Follow-up,95.1
+Ekiti,Ise/Orun,2025-06-14,463.0,409.0,Team C,Initial,88.3
+Ekiti,Ido-Osi,2025-06-14,421.0,54.0,Team B,Follow-up,12.8
+Ekiti,Ikole,2025-06-10,598.0,469.0,Team C,Initial,78.4
+Ekiti,Ado-Ekiti,2025-06-26,501.0,167.0,Team D,Follow-up,33.3
+Ekiti,Oye,2025-06-13,454.0,430.0,Team D,Initial,94.7
+Ekiti,Ido-Osi,2025-06-09,266.0,,Team C,Initial,
+Ekiti,Ido-Osi,2025-06-13,192.0,382.0,Team B,Follow-up,199.0
+Ekiti,Irepodun/Ifelodun,2025-06-13,491.0,498.0,Team B,Initial,101.4
+Ekiti,Emure,2025-06-07,251.0,445.0,Team C,Initial,177.3
+Ekiti,Ikole,2025-06-16,496.0,249.0,Team A,Follow-up,50.2
+Ekiti,Ijero,2025-06-10,436.0,,Team E,Follow-up,60.3
+Ekiti,Ekiti West,2025-06-18,216.0,59.0,Team B,Initial,27.3
+Ekiti,Ise/Orun,2025-06-02,447.0,499.0,Team E,Initial,111.6
+Ekiti,Ekiti South-East,2025-06-23,75.0,185.0,Team B,Initial,246.7
+Ekiti,Ikole,2025-06-14,86.0,497.0,Team C,Initial,577.9
+Ekiti,Ekiti South-East,2025-06-13,219.0,426.0,Team C,Initial,194.5
+Ekiti,Gbonyin,2025-06-30,,544.0,Team B,Follow-up,122.8
+Ekiti,Irepodun/Ifelodun,2025-07-01,428.0,401.0,Team D,Initial,93.7
+Ekiti,Moba,2025-06-12,201.0,76.0,Team D,Initial,37.8
+Ekiti,Gbonyin,2025-06-04,328.0,69.0,Team D,Initial,21.0
+Ekiti,Ikere,2025-06-27,261.0,409.0,Team A,Follow-up,156.7
+Ekiti,Irepodun/Ifelodun,2025-05-31,473.0,385.0,Team E,Initial,81.4
+Ekiti,Oye,2025-06-04,280.0,538.0,Team B,Follow-up,192.1
+Ekiti,Ekiti South-West,2025-05-29,217.0,431.0,Team D,Initial,198.6
+Ekiti,Moba,2025-06-28,158.0,558.0,Team C,Follow-up,353.2
+Ekiti,Efon,2025-06-12,359.0,233.0,Team C,Initial,64.9
+Ekiti,Gbonyin,2025-06-26,199.0,589.0,Team E,Initial,296.0
+Ekiti,Ijero,2025-06-21,507.0,383.0,Team A,Initial,75.5
+Ekiti,Moba,2025-05-31,501.0,231.0,Team D,Initial,46.1
+Ekiti,Ado-Ekiti,2025-06-16,476.0,299.0,Team C,Initial,
+Ekiti,Emure,2025-06-12,342.0,574.0,Team B,Initial,167.8
+Ekiti,Ido-Osi,2025-06-05,223.0,543.0,Team B,Initial,243.5
+Ekiti,Gbonyin,2025-06-01,469.0,332.0,Team D,Initial,70.8
+Ekiti,Ikere,2025-06-10,534.0,68.0,Team E,Initial,12.7
+Ekiti,Ikere,2025-06-10,79.0,490.0,Team B,Follow-up,620.3
+Ekiti,Moba,2025-06-02,264.0,85.0,Team A,Initial,32.2
+Ekiti,Ekiti South-East,2025-06-21,339.0,295.0,Team E,Initial,87.0
+Ekiti,Moba,2025-06-30,585.0,402.0,Team D,Follow-up,68.7
+Ekiti,Ekiti South-East,2025-06-09,486.0,327.0,Team D,Initial,67.3
+Ekiti,Irepodun/Ifelodun,2025-06-26,431.0,244.0,Team E,Initial,56.6
+Ekiti,Ikere,2025-06-14,71.0,187.0,Team A,Follow-up,263.4
+Ekiti,Ido-Osi,2025-05-29,277.0,226.0,Team E,Initial,81.6
+Ekiti,Efon,2025-06-04,349.0,271.0,Team D,Initial,77.7
+Ekiti,Ekiti South-West,2025-06-20,388.0,58.0,Team A,Follow-up,14.9
+Ekiti,Oye,2025-06-11,413.0,432.0,Team D,Initial,104.6
+Ekiti,Ido-Osi,2025-05-31,432.0,554.0,Team D,Follow-up,128.2
+Ekiti,Moba,2025-06-21,557.0,553.0,Team E,Initial,99.3
+Ekiti,Ekiti West,2025-06-19,191.0,450.0,Team C,Follow-up,235.6
+Ekiti,Ido-Osi,2025-06-07,320.0,79.0,Team D,Follow-up,24.7
+Ekiti,Ido-Osi,2025-05-31,52.0,319.0,Team D,Initial,613.5
+Ekiti,Ikere,2025-06-11,289.0,550.0,Team E,Initial,190.3
+Ekiti,Oye,2025-06-14,316.0,413.0,Team B,Initial,130.7
+Ekiti,Ekiti South-East,2025-05-31,542.0,84.0,Team E,Follow-up,15.5
+Ekiti,Ikere,2025-06-11,,369.0,Team D,Initial,85.4
+Ekiti,Ijero,2025-05-29,225.0,289.0,Team B,Initial,
+Ekiti,Ekiti South-East,2025-06-18,240.0,236.0,Team E,Follow-up,98.3
+Ekiti,Moba,2025-06-24,449.0,201.0,Team B,Initial,44.8
+Ekiti,Ekiti West,2025-06-21,107.0,558.0,Team B,Follow-up,521.5
+Ekiti,Ekiti South-East,2025-06-09,584.0,432.0,Team B,Follow-up,74.0
+Ekiti,Oye,2025-06-17,74.0,375.0,Team D,Initial,506.8
+Ekiti,Ekiti South-West,2025-06-02,501.0,120.0,Team C,Follow-up,24.0
+Ekiti,Ekiti West,2025-06-11,350.0,116.0,Team A,Initial,33.1
+Ekiti,Gbonyin,2025-05-31,210.0,330.0,Team C,Initial,105.34928116711912
+Ekiti,Ikere,2025-06-29,158.0,409.0,Team D,Initial,258.9
+Ekiti,Ekiti West,2025-06-28,284.0,471.0,Team E,Initial,165.8
+Ekiti,Ado-Ekiti,2025-06-02,578.0,536.0,Team E,Follow-up,92.7
+Ekiti,Ado-Ekiti,2025-06-24,109.0,256.0,Team C,Initial,234.9
+Ekiti,Ijero,2025-06-04,493.0,502.0,Team C,Initial,101.8
+Ekiti,Ikere,2025-06-23,153.0,403.0,Team E,Initial,263.4
+Ekiti,Ekiti East,2025-06-07,104.0,144.0,Team B,Initial,138.5
+Ekiti,Ise/Orun,2025-07-02,492.0,154.0,Team C,Initial,31.3
+Ekiti,Irepodun/Ifelodun,2025-06-03,343.0,124.0,Team A,Follow-up,114.54083779582034
+Ekiti,Ise/Orun,2025-06-08,229.0,536.0,Team E,Follow-up,234.1
+Ekiti,Oye,2025-06-23,143.0,344.0,Team D,Follow-up,240.6
+Ekiti,Ekiti West,2025-06-15,325.0,222.0,Team A,Initial,68.3
+Ekiti,Irepodun/Ifelodun,2025-06-24,268.0,372.0,Team A,Initial,138.8
+Ekiti,Ekiti South-West,2025-06-16,391.0,,Team D,Initial,36.8
+Ekiti,Ikere,2025-06-17,352.0,283.0,Team B,Initial,80.4
+Ekiti,Ekiti East,2025-06-24,586.0,42.0,Team C,Initial,7.2
+Ekiti,Ikole,2025-06-01,81.0,266.0,Team D,Initial,328.4
+Ekiti,Ado-Ekiti,2025-06-17,444.0,,Team B,Follow-up,98.0
+Ekiti,Gbonyin,2025-06-20,519.0,98.0,Team A,Follow-up,18.9
+Ekiti,Ikere,2025-06-24,518.0,551.0,Team B,Follow-up,106.4
+Ekiti,Ekiti West,2025-06-24,399.0,545.0,Team C,Initial,136.6
+Ekiti,Emure,2025-05-30,58.0,103.0,Team C,Initial,177.6
+Ekiti,Ado-Ekiti,2025-06-21,397.0,342.0,Team E,Initial,86.1
+Ekiti,Ido-Osi,2025-06-10,436.0,330.0,Team C,Initial,75.7
+Ekiti,Ado-Ekiti,2025-06-23,234.0,475.0,Team B,Initial,203.0
+Ekiti,Ekiti East,2025-06-23,65.0,108.0,Team E,Initial,166.2
+Ekiti,Ikole,2025-06-11,280.0,121.0,Team E,Initial,43.2
+Ekiti,Moba,2025-05-29,168.0,459.0,Team B,Follow-up,273.2
+Ekiti,Emure,2025-06-25,439.0,451.0,Team A,Initial,102.7
+Ekiti,Ikole,2025-06-08,121.0,487.0,Team D,Follow-up,402.5
+Ekiti,Oye,2025-06-25,592.0,116.0,Team D,Follow-up,106.67116407901472
+Ekiti,Ise/Orun,2025-06-05,74.0,563.0,Team C,Initial,760.8
+Ekiti,Oye,2025-06-03,324.0,475.0,Team C,Initial,146.6
+Ekiti,Ido-Osi,2025-06-23,69.0,494.0,Team E,Initial,715.9
+Ekiti,Ado-Ekiti,2025-06-21,179.0,56.0,Team C,Initial,31.3
+Ekiti,Ido-Osi,2025-06-27,505.0,173.0,Team B,Initial,34.3
+Ekiti,Ise/Orun,2025-06-08,196.0,260.0,Team A,Initial,132.7
+Ekiti,Efon,2025-06-06,305.0,130.0,Team D,Initial,42.6
+Ekiti,Ijero,2025-05-29,115.0,112.0,Team A,Initial,97.4
+Ekiti,Ado-Ekiti,2025-06-01,216.0,563.0,Team E,Initial,260.6
+Ekiti,Ekiti South-West,2025-06-07,540.0,264.0,Team B,Follow-up,48.9
+Ekiti,Moba,2025-06-23,386.0,441.0,Team A,Initial,114.2
+Ekiti,Ise/Orun,2025-06-03,160.0,450.0,Team D,Initial,281.2
+Ekiti,Oye,2025-06-21,,55.0,Team E,Initial,71.4
+Ekiti,Ekiti South-East,2025-06-30,222.0,456.0,Team A,Initial,205.4
+Ekiti,Emure,2025-06-08,57.0,267.0,Team E,Follow-up,468.4
+Ekiti,Emure,2025-06-07,274.0,359.0,Team E,Initial,131.0
+Ekiti,Ise/Orun,2025-06-20,,358.0,Team E,Initial,361.6
+Ekiti,Ikole,2025-06-16,,567.0,Team E,Follow-up,
+Ekiti,Emure,2025-06-08,60.0,243.0,Team E,Initial,405.0
+Ekiti,Ekiti South-East,2025-07-01,533.0,,Team A,Initial,81.8
+Ekiti,Ijero,2025-06-08,377.0,367.0,Team E,Initial,97.3
+Ekiti,Ise/Orun,2025-06-02,252.0,149.0,Team B,Initial,59.1
+Ekiti,Moba,2025-06-04,321.0,164.0,Team C,Initial,51.1
+Ekiti,Ido-Osi,2025-06-22,257.0,,Team C,Initial,118.3
+Ekiti,Ado-Ekiti,2025-06-29,235.0,275.0,Team A,Initial,117.0
+Ekiti,Gbonyin,2025-06-10,108.0,88.0,Team B,Initial,81.5
+Ekiti,Ado-Ekiti,2025-06-17,,438.0,Team D,Initial,362.0
+Ekiti,Ekiti East,2025-06-06,538.0,210.0,Team C,Initial,39.0
+Ekiti,Ado-Ekiti,2025-05-31,460.0,488.0,Team B,Initial,106.1
+Ekiti,Ekiti South-West,2025-06-28,422.0,197.0,Team D,Initial,46.7
+Ekiti,Ijero,2025-06-18,150.0,364.0,Team B,Follow-up,242.7
+Ekiti,Emure,2025-06-01,302.0,61.0,Team B,Initial,20.2
+Ekiti,Ekiti East,2025-06-22,289.0,136.0,Team A,Initial,47.1
+Ekiti,Ekiti South-West,2025-06-03,286.0,400.0,Team E,Initial,139.9
+Ekiti,Moba,2025-06-08,199.0,233.0,Team D,Initial,
+Ekiti,Ikole,2025-06-12,116.0,,Team C,Initial,382.8
+Ekiti,Ikere,2025-06-23,253.0,,Team C,Initial,188.1
+Ekiti,Ado-Ekiti,2025-06-10,573.0,102.0,Team A,Initial,17.8
+Ekiti,Oye,2025-06-28,588.0,309.0,Team A,Initial,
+Ekiti,Ekiti West,2025-06-09,342.0,392.0,Team B,Initial,114.6
+Ekiti,Ikere,2025-06-11,585.0,243.0,Team B,Follow-up,41.5
+Ekiti,Gbonyin,2025-05-31,445.0,46.0,Team D,Initial,
+Ekiti,Ikere,2025-06-23,153.0,54.0,Team B,Initial,35.3
+Ekiti,Ekiti South-West,2025-07-01,67.0,436.0,Team B,Initial,650.7
+Ekiti,Oye,2025-06-08,514.0,351.0,Team E,Initial,
+Ekiti,Oye,2025-06-22,102.0,566.0,Team A,Initial,554.9
+Ekiti,Ekiti South-East,2025-06-20,392.0,210.0,Team D,Initial,53.6
+Ekiti,Ekiti South-West,2025-06-05,526.0,564.0,Team B,Initial,107.2
+Ekiti,Ido-Osi,2025-06-07,81.0,139.0,Team E,Initial,171.6
+Ekiti,Ekiti East,2025-06-13,376.0,63.0,Team D,Initial,16.8
+Ekiti,Ado-Ekiti,2025-06-10,71.0,312.0,Team A,Initial,439.4
+Ekiti,Irepodun/Ifelodun,2025-05-31,437.0,356.0,Team C,Follow-up,81.5
+Ekiti,Efon,2025-05-31,436.0,251.0,Team B,Initial,57.6
+Ekiti,Ise/Orun,2025-06-18,118.0,379.0,Team D,Initial,321.2
+Ekiti,Irepodun/Ifelodun,2025-06-05,391.0,587.0,Team D,Initial,150.1
+Ekiti,Ekiti South-West,2025-06-22,481.0,493.0,Team A,Initial,102.5
+Ekiti,Ado-Ekiti,2025-06-27,254.0,475.0,Team E,Initial,112.74504144213084
+Ekiti,Ijero,2025-06-17,197.0,361.0,Team E,Follow-up,183.2
+Ekiti,Irepodun/Ifelodun,2025-06-24,239.0,367.0,Team D,Initial,153.6
+Ekiti,Ekiti East,2025-06-17,341.0,420.0,Team D,Follow-up,123.2
+Ekiti,Efon,2025-06-13,369.0,325.0,Team A,Initial,88.1
+Ekiti,Ikere,2025-06-25,539.0,88.0,Team D,Initial,16.3
+Ekiti,Emure,2025-06-22,109.0,157.0,Team C,Follow-up,144.0
+Ekiti,Ado-Ekiti,2025-06-21,347.0,470.0,Team B,Initial,135.4
+Ekiti,Ekiti South-East,2025-06-26,260.0,67.0,Team E,Initial,25.8
+Ekiti,Emure,2025-06-30,83.0,128.0,Team A,Follow-up,154.2
+Ekiti,Ekiti South-East,2025-06-26,366.0,255.0,Team E,Initial,69.7
+Ekiti,Efon,2025-06-09,397.0,484.0,Team B,Initial,121.9
+Ekiti,Moba,2025-05-30,139.0,459.0,Team B,Follow-up,330.2
+Ekiti,Ekiti East,2025-05-29,297.0,243.0,Team D,Follow-up,81.8
+Ekiti,Moba,2025-06-29,54.0,417.0,Team C,Initial,772.2
+Ekiti,Ikere,2025-06-27,382.0,205.0,Team B,Initial,53.7
+Ekiti,Ijero,2025-06-13,276.0,196.0,Team E,Follow-up,71.0
+Ekiti,Ekiti West,2025-06-26,587.0,387.0,Team A,Follow-up,
+Ekiti,Gbonyin,2025-06-27,157.0,365.0,Team E,Follow-up,101.18510557166452
+Ekiti,Emure,2025-06-09,283.0,561.0,Team E,Initial,198.2
+Ekiti,Irepodun/Ifelodun,2025-06-28,149.0,264.0,Team C,Initial,177.2
+Ekiti,Ado-Ekiti,2025-06-23,572.0,,Team B,Follow-up,32.5
+Ekiti,Ekiti West,2025-06-04,394.0,115.0,Team C,Follow-up,29.2
+Ekiti,Ido-Osi,2025-06-02,551.0,,Team D,Initial,69.0
+Ekiti,Ikole,2025-06-06,241.0,425.0,Team B,Initial,176.3
+Ekiti,Ise/Orun,2025-06-20,447.0,84.0,Team C,Follow-up,18.8
+Ekiti,Oye,2025-06-25,503.0,374.0,Team A,Initial,74.4
+Ekiti,Ado-Ekiti,2025-06-21,271.0,494.0,Team A,Initial,182.3
+Ekiti,Ikere,2025-06-03,266.0,,Team A,Follow-up,172.9
+Ekiti,Ise/Orun,2025-06-26,387.0,46.0,Team A,Follow-up,11.9
+Ekiti,Emure,2025-06-30,493.0,155.0,Team D,Initial,31.4
+Ekiti,Ekiti South-East,2025-06-30,413.0,226.0,Team A,Follow-up,54.7
+Ekiti,Emure,2025-05-31,208.0,233.0,Team B,Initial,112.0
+Ekiti,Ado-Ekiti,2025-05-31,204.0,113.0,Team C,Initial,55.4
+Ekiti,Gbonyin,2025-06-06,574.0,71.0,Team B,Initial,12.4
+Ekiti,Oye,2025-06-03,115.0,,Team E,Initial,102.6
+Ekiti,Ekiti South-East,2025-06-18,153.0,241.0,Team D,Initial,157.5
+Ekiti,Ekiti East,2025-06-30,377.0,545.0,Team C,Follow-up,144.6
+Ekiti,Ekiti South-East,2025-06-03,150.0,572.0,Team A,Initial,381.3
+Ekiti,Ikere,2025-06-01,553.0,60.0,Team E,Initial,10.8
+Ekiti,Ekiti South-East,2025-06-30,293.0,44.0,Team A,Initial,
+Ekiti,Efon,2025-06-22,,433.0,Team B,Follow-up,76.1
+Ekiti,Ido-Osi,2025-06-06,535.0,502.0,Team E,Follow-up,93.8
+Ekiti,Ekiti West,2025-05-30,62.0,291.0,Team E,Initial,469.4
+Ekiti,Ido-Osi,2025-06-02,397.0,466.0,Team E,Initial,105.023299765365
+Ekiti,Irepodun/Ifelodun,2025-06-05,220.0,252.0,Team A,Initial,114.5
+Ekiti,Ekiti West,2025-06-10,412.0,270.0,Team D,Follow-up,65.5
+Ekiti,Gbonyin,2025-06-06,578.0,422.0,Team D,Follow-up,73.0
+Ekiti,Ikere,2025-06-29,161.0,369.0,Team A,Initial,229.2
+Ekiti,Ekiti South-East,2025-06-16,,287.0,Team D,Initial,65.4
+Ekiti,Ekiti East,2025-06-08,169.0,496.0,Team E,Initial,293.5
+Ekiti,Emure,2025-06-12,454.0,138.0,Team C,Initial,30.4
+Ekiti,Ido-Osi,2025-06-02,146.0,151.0,Team A,Follow-up,103.4
+Ekiti,Moba,2025-06-20,359.0,163.0,Team E,Follow-up,45.4
+Ekiti,Ijero,2025-06-14,106.0,199.0,Team C,Follow-up,187.7
+Ekiti,Efon,2025-06-08,279.0,418.0,Team D,Initial,149.8
+Ekiti,Ekiti South-East,2025-06-18,154.0,394.0,Team D,Initial,111.24775648261713
+Ekiti,Emure,2025-06-15,541.0,447.0,Team E,Initial,82.6
+Ekiti,Gbonyin,2025-06-27,406.0,577.0,Team D,Initial,142.1
+Ekiti,Ekiti West,2025-06-07,434.0,328.0,Team A,Initial,75.6
+Ekiti,Ikere,2025-06-14,285.0,313.0,Team C,Initial,109.8
+Ekiti,Ekiti South-West,2025-06-30,299.0,290.0,Team A,Initial,97.0
+Ekiti,Ado-Ekiti,2025-06-28,593.0,100.0,Team A,Initial,16.9
+Ekiti,Ekiti South-East,2025-06-11,218.0,356.0,Team C,Initial,163.3
+Ekiti,Ekiti East,2025-06-14,508.0,428.0,Team D,Initial,105.48768149862006
+Ekiti,Ado-Ekiti,2025-06-30,239.0,326.0,Team E,Follow-up,136.4
+Ekiti,Ekiti East,2025-06-13,354.0,159.0,Team E,Initial,44.9
+Ekiti,Ado-Ekiti,2025-06-18,267.0,203.0,Team B,Initial,76.0
+Ekiti,Moba,2025-06-21,330.0,400.0,Team C,Initial,121.2
+Ekiti,Ekiti South-West,2025-05-31,548.0,552.0,Team D,Initial,100.7
+Ekiti,Moba,2025-06-10,202.0,241.0,Team B,Initial,119.3
+Ekiti,Ikole,2025-06-09,455.0,74.0,Team C,Initial,16.3
+Ekiti,Emure,2025-06-23,447.0,324.0,Team A,Initial,72.5
+Ekiti,Ado-Ekiti,2025-06-08,439.0,176.0,Team E,Follow-up,40.1
+Ekiti,Irepodun/Ifelodun,2025-06-15,,,Team A,Initial,248.8
+Ekiti,Ado-Ekiti,2025-06-18,,300.0,Team A,Initial,55.5
+Ekiti,Moba,2025-06-22,443.0,571.0,Team E,Initial,128.9
+Ekiti,Gbonyin,2025-06-08,389.0,,Team A,Follow-up,107.2
+Ekiti,Ekiti West,2025-06-14,124.0,448.0,Team C,Follow-up,361.3
+Ekiti,Oye,2025-06-05,373.0,530.0,Team D,Initial,142.1
+Ekiti,Ekiti West,2025-07-01,249.0,532.0,Team E,Initial,213.7
+Ekiti,Oye,2025-06-01,338.0,96.0,Team E,Follow-up,28.4
+Ekiti,Ado-Ekiti,2025-06-21,251.0,564.0,Team A,Initial,224.7
+Ekiti,Ikere,2025-06-26,290.0,428.0,Team A,Initial,147.6
+Ekiti,Efon,2025-07-01,53.0,352.0,Team D,Follow-up,664.2
+Ekiti,Efon,2025-06-04,164.0,500.0,Team C,Initial,304.9
+Ekiti,Ekiti West,2025-06-14,82.0,162.0,Team A,Initial,197.6
+Ekiti,Ise/Orun,2025-07-02,189.0,472.0,Team E,Initial,249.7
+Ekiti,Irepodun/Ifelodun,2025-06-23,276.0,404.0,Team C,Initial,146.4
+Ekiti,Ido-Osi,2025-06-21,358.0,559.0,Team D,Initial,156.1
+Ekiti,Ekiti South-West,2025-06-14,333.0,539.0,Team E,Initial,161.9
+Ekiti,Ekiti South-East,2025-06-22,381.0,382.0,Team D,Initial,100.3
+Ekiti,Irepodun/Ifelodun,2025-06-21,138.0,150.0,Team E,Follow-up,108.7
+Ekiti,Ikere,2025-06-07,364.0,577.0,Team A,Follow-up,158.5
+Ekiti,Ekiti East,2025-06-21,404.0,,Team D,Initial,125.7
+Ekiti,Ekiti West,2025-06-19,128.0,77.0,Team C,Follow-up,
+Ekiti,Oye,2025-06-03,541.0,123.0,Team D,Follow-up,22.7
+Ekiti,Ekiti South-East,2025-06-26,265.0,401.0,Team C,Initial,151.3
+Ekiti,Ekiti East,2025-06-12,88.0,226.0,Team D,Initial,256.8
+Ekiti,Ekiti South-West,2025-06-09,453.0,541.0,Team D,Follow-up,119.4
+Ekiti,Ado-Ekiti,2025-06-01,431.0,415.0,Team D,Follow-up,96.3
+Ekiti,Ikere,2025-06-16,350.0,181.0,Team A,Follow-up,51.7
+Ekiti,Ekiti East,2025-07-01,313.0,156.0,Team E,Initial,49.8
+Ekiti,Efon,2025-06-14,353.0,286.0,Team E,Initial,81.0
+Ekiti,Ekiti East,2025-06-17,538.0,139.0,Team A,Initial,25.8
+Ekiti,Oye,2025-06-18,517.0,383.0,Team E,Follow-up,74.1
+Ekiti,Ikole,2025-05-29,592.0,108.0,Team C,Initial,18.2
+Ekiti,Ado-Ekiti,2025-05-31,451.0,507.0,Team C,Initial,112.4
+Ekiti,Ado-Ekiti,2025-06-12,318.0,185.0,Team B,Initial,58.2
+Ekiti,Ijero,2025-06-07,573.0,250.0,Team B,Initial,43.6
+Ekiti,Efon,2025-06-16,106.0,155.0,Team E,Follow-up,146.2
+Ekiti,Ekiti South-West,2025-06-25,190.0,370.0,Team D,Initial,194.7
+Ekiti,Ido-Osi,2025-06-24,388.0,52.0,Team B,Follow-up,13.4
+Ekiti,Ido-Osi,2025-06-30,142.0,222.0,Team B,Initial,156.3
+Ekiti,Efon,2025-06-21,64.0,444.0,Team E,Initial,693.8
+Ekiti,Gbonyin,2025-06-01,258.0,507.0,Team C,Initial,
+Ekiti,Ado-Ekiti,2025-06-06,552.0,59.0,Team A,Initial,10.7
+Ekiti,Ido-Osi,2025-06-29,396.0,187.0,Team C,Initial,47.2
+Ekiti,Ikere,2025-06-12,321.0,468.0,Team E,Follow-up,145.8
+Ekiti,Irepodun/Ifelodun,2025-05-31,540.0,538.0,Team B,Initial,99.6
+Ekiti,Ado-Ekiti,2025-05-30,330.0,270.0,Team A,Initial,81.8
+Ekiti,Ekiti South-East,2025-06-01,,326.0,Team B,Follow-up,56.2
+Ekiti,Ekiti South-West,2025-05-29,515.0,538.0,Team C,Initial,104.5
+Ekiti,Emure,2025-06-20,53.0,426.0,Team C,Initial,803.8
+Ekiti,Emure,2025-06-17,594.0,504.0,Team E,Initial,84.8
+Ekiti,Ido-Osi,2025-06-04,,327.0,Team D,Follow-up,65.4
+Ekiti,Ikole,2025-07-01,487.0,75.0,Team D,Follow-up,15.4
+Ekiti,Oye,2025-06-20,292.0,565.0,Team E,Follow-up,193.5
+Ekiti,Ikole,2025-07-02,479.0,115.0,Team E,Follow-up,24.0
+Ekiti,Ijero,2025-06-12,480.0,303.0,Team C,Initial,63.1
+Ekiti,Efon,2025-06-24,229.0,527.0,Team A,Follow-up,230.1
+Ekiti,Oye,2025-06-17,209.0,311.0,Team E,Initial,148.8
+Ekiti,Ado-Ekiti,2025-06-06,498.0,325.0,Team A,Follow-up,65.3
+Ekiti,Gbonyin,2025-06-11,194.0,247.0,Team C,Initial,127.3
+Ekiti,Ekiti West,2025-06-21,107.0,569.0,Team C,Initial,531.8
+Ekiti,Ekiti South-East,2025-06-28,554.0,92.0,Team E,Follow-up,16.6
+Ekiti,Moba,2025-06-08,,246.0,Team C,Initial,390.5
+Ekiti,Ekiti West,2025-06-06,536.0,478.0,Team B,Initial,89.2
+Ekiti,Ekiti South-East,2025-05-29,71.0,91.0,Team D,Initial,128.2
+Ekiti,Ado-Ekiti,2025-06-13,454.0,422.0,Team C,Initial,93.0
+Ekiti,Ijero,2025-06-07,489.0,189.0,Team E,Initial,38.7
+Ekiti,Ekiti South-East,2025-06-26,330.0,371.0,Team A,Initial,112.4
+Ekiti,Moba,2025-06-04,77.0,572.0,Team C,Initial,106.7409077044043
+Ekiti,Ikere,2025-06-02,76.0,565.0,Team C,Initial,
+Ekiti,Ekiti South-West,2025-06-07,475.0,176.0,Team C,Initial,37.1
+Ekiti,Oye,2025-06-15,257.0,375.0,Team B,Initial,145.9
+Ekiti,Ekiti East,2025-06-23,328.0,411.0,Team A,Follow-up,125.3
+Ekiti,Ikole,2025-06-14,134.0,377.0,Team A,Initial,281.3
+Ekiti,Emure,2025-05-29,230.0,462.0,Team D,Initial,108.23353066110883
+Ekiti,Oye,2025-06-01,501.0,,Team D,Initial,92.2
+Ekiti,Emure,2025-06-20,199.0,90.0,Team D,Follow-up,45.2
+Ekiti,Ikere,2025-06-26,284.0,523.0,Team B,Initial,184.2
+Ekiti,Ekiti West,2025-07-01,,403.0,Team C,Initial,325.0
+Ekiti,Emure,2025-06-29,178.0,564.0,Team C,Initial,316.9
+Ekiti,Ekiti South-West,2025-06-13,207.0,197.0,Team A,Initial,95.2
+Ekiti,Ido-Osi,2025-06-08,124.0,52.0,Team E,Initial,41.9
+Ekiti,Emure,2025-05-29,492.0,98.0,Team C,Initial,19.9
+Ekiti,Ijero,2025-05-31,71.0,385.0,Team A,Follow-up,542.3
+Ekiti,Ekiti South-West,2025-06-01,491.0,207.0,Team D,Initial,42.2
+Ekiti,Ekiti South-West,2025-07-02,507.0,353.0,Team C,Initial,69.6
+Ekiti,Ekiti East,2025-05-30,372.0,154.0,Team E,Follow-up,41.4
+Ekiti,Ekiti South-East,2025-06-23,253.0,422.0,Team C,Initial,166.8
+Ekiti,Efon,2025-06-09,578.0,112.0,Team E,Initial,19.4
+Ekiti,Ekiti South-West,2025-06-13,156.0,357.0,Team B,Follow-up,228.8
+Ekiti,Emure,2025-06-08,105.0,570.0,Team C,Follow-up,542.9
+Ekiti,Efon,2025-06-01,477.0,108.0,Team A,Initial,22.6
+Ekiti,Gbonyin,2025-06-04,415.0,81.0,Team C,Initial,
+Ekiti,Ise/Orun,2025-05-29,,425.0,Team E,Initial,329.5
+Ekiti,Gbonyin,2025-06-10,70.0,541.0,Team D,Initial,772.9
+Ekiti,Gbonyin,2025-06-07,585.0,435.0,Team D,Initial,74.4
+Ekiti,Gbonyin,2025-06-24,343.0,282.0,Team E,Initial,82.2
+Ekiti,Ido-Osi,2025-06-10,126.0,233.0,Team D,Initial,184.9
+Ekiti,Ekiti South-East,2025-07-01,578.0,453.0,Team C,Initial,78.4
+Ekiti,Ido-Osi,2025-06-30,343.0,46.0,Team D,Follow-up,13.4
+Ekiti,Emure,2025-06-24,537.0,349.0,Team B,Initial,65.0
+Ekiti,Gbonyin,2025-06-09,51.0,281.0,Team E,Follow-up,551.0
+Ekiti,Ekiti South-West,2025-06-30,134.0,83.0,Team A,Initial,61.9
+Ekiti,Ido-Osi,2025-06-17,162.0,371.0,Team E,Follow-up,229.0
+Ekiti,Ikole,2025-06-02,513.0,419.0,Team A,Initial,81.7
+Ekiti,Ekiti South-East,2025-06-17,228.0,484.0,Team C,Initial,212.3
+Ekiti,Emure,2025-06-01,74.0,,Team B,Initial,
+Ekiti,Ikere,2025-06-28,272.0,505.0,Team E,Initial,
+Ekiti,Emure,2025-07-02,306.0,495.0,Team B,Initial,161.8
+Ekiti,Ekiti South-East,2025-05-29,453.0,542.0,Team D,Follow-up,119.6
+Ekiti,Emure,2025-06-22,146.0,368.0,Team A,Initial,252.1
+Ekiti,Ado-Ekiti,2025-06-25,447.0,355.0,Team D,Initial,79.4
+Ekiti,Moba,2025-06-27,530.0,422.0,Team D,Initial,79.6
+Ekiti,Ise/Orun,2025-06-03,302.0,246.0,Team E,Initial,81.5
+Ekiti,Ikere,2025-06-26,277.0,344.0,Team B,Initial,124.2
+Ekiti,Efon,2025-06-09,430.0,511.0,Team A,Follow-up,118.8
+Ekiti,Ekiti South-East,2025-06-12,177.0,444.0,Team B,Initial,250.8
+Ekiti,Gbonyin,2025-06-04,67.0,95.0,Team C,Initial,141.8
+Ekiti,Ekiti South-West,2025-06-14,264.0,488.0,Team A,Initial,184.8
+Ekiti,Moba,2025-06-12,318.0,75.0,Team D,Follow-up,23.6
+Ekiti,Ado-Ekiti,2025-05-31,218.0,411.0,Team E,Initial,188.5
+Ekiti,Ido-Osi,2025-06-05,243.0,236.0,Team C,Initial,97.1
+Ekiti,Gbonyin,2025-06-19,94.0,381.0,Team B,Follow-up,405.3
+Ekiti,Ekiti East,2025-06-14,311.0,273.0,Team A,Initial,87.8
+Ekiti,Ekiti South-East,2025-06-01,479.0,224.0,Team C,Initial,46.8
+Ekiti,Irepodun/Ifelodun,2025-06-15,105.0,89.0,Team A,Follow-up,84.8
+Ekiti,Irepodun/Ifelodun,2025-06-25,187.0,207.0,Team E,Initial,110.7
+Ekiti,Ekiti South-West,2025-07-01,411.0,581.0,Team A,Follow-up,141.4
+Ekiti,Ado-Ekiti,2025-06-14,565.0,340.0,Team D,Initial,60.2
+Ekiti,Ijero,2025-06-16,595.0,214.0,Team B,Initial,36.0
+Ekiti,Ekiti South-East,2025-06-11,405.0,585.0,Team E,Initial,144.4
+Ekiti,Emure,2025-06-03,73.0,64.0,Team C,Follow-up,87.7
+Ekiti,Ise/Orun,2025-06-30,548.0,188.0,Team E,Initial,34.3
+Ekiti,Ise/Orun,2025-05-29,432.0,128.0,Team C,Follow-up,29.6
+Ekiti,Ikole,2025-06-08,196.0,103.0,Team A,Initial,52.6
+Ekiti,Ikole,2025-06-14,426.0,160.0,Team B,Follow-up,37.6
+Ekiti,Ise/Orun,2025-06-13,329.0,207.0,Team C,Follow-up,62.9
+Ekiti,Ekiti West,2025-06-10,185.0,423.0,Team A,Follow-up,228.6
+Ekiti,Ikere,2025-06-08,544.0,116.0,Team B,Initial,21.3
+Ekiti,Efon,2025-06-18,303.0,344.0,Team A,Follow-up,113.5
+Ekiti,Ikere,2025-06-10,322.0,283.0,Team A,Initial,87.9
+Ekiti,Ise/Orun,2025-06-22,334.0,357.0,Team E,Initial,106.9
+Ekiti,Ijero,2025-06-19,313.0,411.0,Team C,Initial,131.3
+Ekiti,Oye,2025-06-13,156.0,,Team B,Follow-up,190.4
+Ekiti,Ado-Ekiti,2025-06-22,281.0,264.0,Team D,Initial,94.0
+Ekiti,Ijero,2025-07-02,195.0,,Team D,Follow-up,204.1
+Ekiti,Ado-Ekiti,2025-06-28,92.0,61.0,Team E,Initial,66.3
+Ekiti,Ikole,2025-06-28,545.0,50.0,Team A,Follow-up,9.2
+Ekiti,Irepodun/Ifelodun,2025-07-01,572.0,69.0,Team A,Initial,12.1
+Ekiti,Emure,2025-05-29,,570.0,Team E,Follow-up,234.6
+Ekiti,Efon,2025-05-30,238.0,137.0,Team A,Initial,57.6
+Ekiti,Ikere,2025-06-25,170.0,551.0,Team C,Initial,324.1
+Ekiti,Ikole,2025-06-12,70.0,182.0,Team D,Initial,260.0
+Ekiti,Gbonyin,2025-06-17,384.0,,Team D,Initial,115.4
+Ekiti,Ijero,2025-06-11,326.0,321.0,Team D,Follow-up,98.5
+Ekiti,Irepodun/Ifelodun,2025-06-23,346.0,52.0,Team D,Initial,15.0
+Ekiti,Oye,2025-06-02,515.0,70.0,Team E,Follow-up,13.6
+Ekiti,Ikere,2025-06-08,188.0,432.0,Team D,Follow-up,229.8
+Ekiti,Ikole,2025-06-07,245.0,219.0,Team D,Initial,89.4
+Ekiti,Ekiti South-East,2025-05-31,168.0,542.0,Team D,Initial,
+Ekiti,Ekiti South-West,2025-05-30,351.0,271.0,Team C,Initial,77.2
+Ekiti,Ikole,2025-06-05,297.0,,Team E,Follow-up,125.9
+Ekiti,Ikere,2025-06-04,597.0,342.0,Team E,Follow-up,
+Ekiti,Ekiti West,2025-06-08,432.0,480.0,Team C,Initial,111.1
+Ekiti,Ekiti West,2025-06-20,387.0,118.0,Team A,Initial,30.5
+Ekiti,Efon,2025-06-07,119.0,345.0,Team B,Initial,289.9
+Ekiti,Ekiti East,2025-05-30,216.0,167.0,Team D,Follow-up,77.3
+Ekiti,Ekiti West,2025-05-30,367.0,409.0,Team C,Initial,111.4
+Ekiti,Ekiti East,2025-05-31,501.0,505.0,Team E,Initial,100.8
+Ekiti,Ikere,2025-06-06,77.0,72.0,Team C,Initial,93.5
+Ekiti,Efon,2025-05-31,256.0,272.0,Team A,Follow-up,106.2
+Ekiti,Ijero,2025-06-02,182.0,269.0,Team A,Follow-up,147.8
+Ekiti,Ikole,2025-05-31,93.0,198.0,Team A,Follow-up,212.9
+Ekiti,Ekiti West,2025-06-02,63.0,258.0,Team C,Initial,409.5
+Ekiti,Irepodun/Ifelodun,2025-06-21,228.0,367.0,Team B,Initial,161.0
+Ekiti,Ido-Osi,2025-06-10,445.0,208.0,Team C,Initial,46.7
+Ekiti,Ado-Ekiti,2025-07-02,511.0,281.0,Team D,Initial,55.0
+Ekiti,Irepodun/Ifelodun,2025-06-02,365.0,275.0,Team A,Follow-up,75.3
+Ekiti,Moba,2025-06-22,389.0,178.0,Team B,Initial,45.8
+Ekiti,Ikole,2025-06-04,320.0,87.0,Team D,Follow-up,27.2
+Ekiti,Gbonyin,2025-06-13,331.0,,Team D,Initial,79.5
+Ekiti,Ekiti South-East,2025-06-11,59.0,154.0,Team C,Initial,261.0
+Ekiti,Oye,2025-06-11,446.0,369.0,Team E,Follow-up,82.7
+Ekiti,Ise/Orun,2025-06-05,530.0,,Team D,Initial,70.4
+Ekiti,Ekiti South-East,2025-05-31,380.0,490.0,Team A,Initial,128.9
+Ekiti,Ise/Orun,2025-05-31,591.0,538.0,Team D,Initial,91.0
+Ekiti,Gbonyin,2025-06-03,91.0,58.0,Team B,Follow-up,63.7
+Ekiti,Emure,2025-06-16,265.0,456.0,Team C,Initial,172.1
+Ekiti,Ikole,2025-06-28,341.0,100.0,Team C,Initial,29.3
+Ekiti,Efon,2025-06-04,360.0,497.0,Team C,Initial,138.1
+Ekiti,Ido-Osi,2025-06-06,166.0,354.0,Team E,Initial,213.3
+Ekiti,Ise/Orun,2025-06-04,372.0,473.0,Team B,Follow-up,127.2
+Ekiti,Oye,2025-06-11,461.0,548.0,Team E,Initial,118.9
+Ekiti,Ikere,2025-06-16,514.0,241.0,Team E,Follow-up,46.9
+Ekiti,Ido-Osi,2025-06-18,534.0,373.0,Team B,Follow-up,69.9
+Ekiti,Moba,2025-06-19,484.0,52.0,Team B,Initial,10.7
+Ekiti,Ekiti South-West,2025-06-25,415.0,211.0,Team A,Initial,50.8
+Ekiti,Ekiti South-East,2025-06-14,350.0,537.0,Team B,Initial,153.4
+Ekiti,Ekiti West,2025-05-30,127.0,446.0,Team B,Follow-up,351.2
+Ekiti,Ido-Osi,2025-06-20,285.0,199.0,Team D,Follow-up,69.8
+Ekiti,Irepodun/Ifelodun,2025-06-14,441.0,125.0,Team A,Follow-up,28.3
+Ekiti,Ido-Osi,2025-06-16,194.0,531.0,Team B,Follow-up,273.7
+Ekiti,Ekiti West,2025-06-01,294.0,574.0,Team C,Initial,195.2
+Ekiti,Moba,2025-06-21,376.0,,Team B,Initial,57.4
+Ekiti,Ekiti East,2025-06-18,557.0,544.0,Team E,Initial,97.7
+Ekiti,Gbonyin,2025-06-30,335.0,419.0,Team D,Follow-up,125.1
+Ekiti,Ekiti South-East,2025-06-28,190.0,215.0,Team E,Initial,113.2
+Ekiti,Efon,2025-06-16,442.0,45.0,Team B,Initial,10.2
+Ekiti,Emure,2025-05-30,184.0,413.0,Team B,Initial,224.5
+Ekiti,Ekiti South-East,2025-06-24,484.0,580.0,Team A,Initial,119.8
+Ekiti,Emure,2025-05-30,441.0,182.0,Team E,Initial,41.3
+Ekiti,Ekiti South-East,2025-06-25,598.0,79.0,Team D,Follow-up,13.2
+Ekiti,Ekiti South-East,2025-07-01,511.0,482.0,Team E,Initial,94.3
+Ekiti,Ekiti South-West,2025-06-04,183.0,129.0,Team D,Initial,70.5
+Ekiti,Ido-Osi,2025-06-20,116.0,491.0,Team D,Initial,423.3
+Ekiti,Ekiti West,2025-06-28,528.0,338.0,Team C,Initial,64.0
+Ekiti,Irepodun/Ifelodun,2025-06-01,594.0,336.0,Team A,Initial,56.6
+Ekiti,Ekiti West,2025-07-02,344.0,80.0,Team E,Initial,23.3
+Ekiti,Ekiti South-East,2025-06-11,176.0,546.0,Team A,Follow-up,310.2
+Ekiti,Ekiti South-West,2025-06-03,175.0,479.0,Team B,Follow-up,273.7
+Ekiti,Irepodun/Ifelodun,2025-06-16,135.0,,Team D,Initial,256.3
+Ekiti,Ijero,2025-06-08,576.0,580.0,Team A,Follow-up,100.7
+Ekiti,Ekiti East,2025-06-25,546.0,392.0,Team D,Follow-up,71.8
+Ekiti,Ise/Orun,2025-05-29,295.0,256.0,Team A,Follow-up,86.8
+Ekiti,Irepodun/Ifelodun,2025-07-01,182.0,263.0,Team E,Initial,144.5
+Ekiti,Ekiti South-East,2025-06-10,240.0,502.0,Team E,Initial,209.2
+Ekiti,Ado-Ekiti,2025-06-16,497.0,281.0,Team B,Initial,56.5
+Ekiti,Efon,2025-06-01,226.0,541.0,Team B,Initial,239.4
+Ekiti,Ijero,2025-05-29,596.0,244.0,Team D,Follow-up,
+Ekiti,Oye,2025-06-20,186.0,268.0,Team E,Initial,144.1
+Ekiti,Ijero,2025-06-29,283.0,,Team E,Follow-up,48.4
+Ekiti,Efon,2025-06-04,558.0,197.0,Team C,Initial,35.3
+Ekiti,Irepodun/Ifelodun,2025-06-29,394.0,65.0,Team A,Initial,16.5
+Ekiti,Ekiti South-West,2025-06-09,194.0,347.0,Team D,Initial,178.9
+Ekiti,Ijero,2025-06-29,324.0,353.0,Team B,Initial,109.0
+Ekiti,Ise/Orun,2025-06-20,367.0,133.0,Team D,Initial,36.2
+Ekiti,Efon,2025-06-30,58.0,316.0,Team B,Initial,
+Ekiti,Ikere,2025-06-14,424.0,566.0,Team B,Initial,133.5
+Ekiti,Ekiti East,2025-06-08,425.0,114.0,Team D,Initial,26.8
+Ekiti,Irepodun/Ifelodun,2025-06-16,475.0,156.0,Team B,Initial,32.8
+Ekiti,Irepodun/Ifelodun,2025-06-11,508.0,451.0,Team D,Follow-up,88.8
+Ekiti,Irepodun/Ifelodun,2025-06-12,175.0,498.0,Team A,Follow-up,284.6
+Ekiti,Ekiti South-West,2025-06-29,449.0,278.0,Team C,Follow-up,61.9
+Ekiti,Ekiti South-West,2025-06-08,140.0,95.0,Team E,Follow-up,67.9
+Ekiti,Oye,2025-06-05,,559.0,Team E,Initial,108.8
+Ekiti,Ekiti South-East,2025-06-03,495.0,270.0,Team A,Initial,54.5
+Ekiti,Gbonyin,2025-06-29,166.0,268.0,Team E,Initial,161.4
+Ekiti,Ekiti East,2025-06-04,191.0,175.0,Team D,Initial,91.6
+Ekiti,Ekiti West,2025-06-18,158.0,421.0,Team A,Initial,266.5
+Ekiti,Ekiti West,2025-06-20,305.0,215.0,Team D,Initial,70.5
+Ekiti,Efon,2025-06-04,364.0,417.0,Team C,Follow-up,114.6
+Ekiti,Efon,2025-06-23,551.0,,Team C,Follow-up,76.4
+Ekiti,Gbonyin,2025-06-23,166.0,438.0,Team A,Initial,263.9
+Ekiti,Ekiti South-West,2025-06-03,404.0,552.0,Team B,Initial,136.6
+Ekiti,Ado-Ekiti,2025-06-25,147.0,411.0,Team B,Initial,279.6
+Ekiti,Ekiti West,2025-05-30,528.0,112.0,Team C,Initial,21.2
+Ekiti,Ise/Orun,2025-06-21,333.0,410.0,Team A,Initial,
+Ekiti,Oye,2025-06-11,468.0,325.0,Team C,Follow-up,69.4
+Ekiti,Ekiti West,2025-06-17,,319.0,Team B,Follow-up,63.0
+Ekiti,Ekiti South-West,2025-06-14,419.0,228.0,Team B,Initial,54.4
+Ekiti,Gbonyin,2025-06-25,180.0,445.0,Team B,Initial,247.2
+Ekiti,Irepodun/Ifelodun,2025-07-02,380.0,324.0,Team E,Follow-up,85.3
+Ekiti,Ekiti South-East,2025-06-30,293.0,506.0,Team B,Follow-up,172.7
+Ekiti,Ekiti South-West,2025-06-08,66.0,303.0,Team D,Initial,459.1
+Ekiti,Ekiti East,2025-06-22,402.0,179.0,Team D,Initial,44.5
+Ekiti,Gbonyin,2025-06-12,196.0,206.0,Team E,Follow-up,105.1
+Ekiti,Emure,2025-06-27,435.0,379.0,Team C,Follow-up,87.1
+Ekiti,Ikole,2025-06-06,213.0,425.0,Team C,Follow-up,199.5
+Ekiti,Ikole,2025-07-02,257.0,73.0,Team E,Follow-up,28.4
+Ekiti,Moba,2025-05-31,,376.0,Team E,Initial,96.9
+Ekiti,Ekiti South-West,2025-06-20,255.0,434.0,Team D,Initial,170.2
+Ekiti,Irepodun/Ifelodun,2025-06-18,426.0,337.0,Team D,Initial,79.1
+Ekiti,Ekiti South-East,2025-07-01,273.0,492.0,Team E,Initial,180.2
+Ekiti,Ado-Ekiti,2025-06-07,76.0,67.0,Team C,Initial,88.2
+Ekiti,Efon,2025-06-26,90.0,303.0,Team C,Initial,336.7
+Ekiti,Oye,2025-06-18,538.0,,Team A,Follow-up,93.5
+Ekiti,Emure,2025-06-08,449.0,343.0,Team C,Initial,76.4
+Ekiti,Gbonyin,2025-06-27,543.0,,Team C,Initial,63.9
+Ekiti,Efon,2025-06-26,178.0,342.0,Team D,Initial,192.1
+Ekiti,Gbonyin,2025-06-14,333.0,,Team C,Follow-up,77.5
+Ekiti,Oye,2025-06-12,160.0,,Team D,Initial,96.9
+Ekiti,Moba,2025-06-06,516.0,381.0,Team D,Initial,73.8
+Ekiti,Ekiti South-East,2025-06-19,158.0,98.0,Team C,Initial,62.0
+Ekiti,Ijero,2025-06-27,482.0,115.0,Team B,Initial,23.9
+Ekiti,Ekiti West,2025-06-13,555.0,44.0,Team E,Follow-up,7.9
+Ekiti,Gbonyin,2025-06-30,228.0,466.0,Team E,Follow-up,204.4
+Ekiti,Ado-Ekiti,2025-06-10,490.0,517.0,Team A,Follow-up,105.5
+Ekiti,Ekiti East,2025-06-15,556.0,449.0,Team B,Initial,80.8
+Ekiti,Ekiti South-West,2025-06-17,389.0,196.0,Team D,Initial,50.4
+Ekiti,Ikole,2025-06-07,504.0,153.0,Team A,Initial,30.4
+Ekiti,Ekiti East,2025-06-07,250.0,110.0,Team D,Initial,
+Ekiti,Gbonyin,2025-06-13,579.0,507.0,Team A,Initial,87.6
+Ekiti,Moba,2025-06-18,231.0,425.0,Team D,Follow-up,184.0
+Ekiti,Ijero,2025-07-01,141.0,481.0,Team B,Initial,341.1
+Ekiti,Ise/Orun,2025-06-20,191.0,467.0,Team B,Follow-up,102.17889258932206
+Ekiti,Ijero,2025-06-08,217.0,461.0,Team D,Initial,212.4
+Ekiti,Ado-Ekiti,2025-06-13,149.0,465.0,Team E,Follow-up,312.1
+Ekiti,Ekiti West,2025-06-18,302.0,506.0,Team C,Initial,167.5
+Ekiti,Irepodun/Ifelodun,2025-06-10,303.0,557.0,Team D,Follow-up,183.8
+Ekiti,Moba,2025-06-14,423.0,474.0,Team C,Follow-up,112.1
+Ekiti,Ikere,2025-06-04,486.0,118.0,Team C,Initial,24.3
+Ekiti,Efon,2025-06-08,527.0,535.0,Team A,Initial,101.5
+Ekiti,Emure,2025-06-04,267.0,509.0,Team A,Follow-up,190.6
+Ekiti,Ekiti South-West,2025-06-10,92.0,366.0,Team E,Initial,397.8
+Ekiti,Emure,2025-06-22,332.0,,Team C,Initial,63.6
+Ekiti,Gbonyin,2025-06-07,233.0,589.0,Team A,Initial,252.8
+Ekiti,Ikole,2025-06-07,287.0,324.0,Team B,Follow-up,112.9
+Ekiti,Ido-Osi,2025-06-17,229.0,323.0,Team D,Initial,141.0
+Ekiti,Ijero,2025-06-17,383.0,410.0,Team C,Follow-up,107.0
+Ekiti,Moba,2025-06-25,397.0,56.0,Team A,Initial,14.1
+Ekiti,Irepodun/Ifelodun,2025-06-15,478.0,446.0,Team C,Follow-up,93.3
+Ekiti,Ekiti South-West,2025-06-10,66.0,205.0,Team B,Initial,310.6
+Ekiti,Ekiti East,2025-06-04,437.0,305.0,Team C,Initial,69.8
+Ekiti,Ikole,2025-06-04,342.0,437.0,Team E,Initial,127.8
+Ekiti,Emure,2025-06-15,274.0,422.0,Team A,Initial,154.0
+Ekiti,Ido-Osi,2025-06-11,209.0,430.0,Team C,Follow-up,
+Ekiti,Ekiti West,2025-06-22,238.0,536.0,Team C,Follow-up,225.2
+Ekiti,Ekiti West,2025-06-27,120.0,537.0,Team B,Follow-up,447.5
+Ekiti,Efon,2025-05-31,431.0,517.0,Team E,Initial,120.0
+Ekiti,Emure,2025-05-29,491.0,,Team D,Follow-up,99.2
+Ekiti,Ekiti South-West,2025-06-23,310.0,,Team A,Initial,162.9
+Ekiti,Ijero,2025-06-25,579.0,399.0,Team D,Initial,
+Ekiti,Ido-Osi,2025-06-12,496.0,58.0,Team E,Initial,11.7
+Ekiti,Moba,2025-06-30,174.0,83.0,Team D,Initial,47.7
+Ekiti,Oye,2025-06-16,553.0,272.0,Team C,Follow-up,
+Ekiti,Ekiti East,2025-06-27,543.0,347.0,Team D,Initial,63.9
+Ekiti,Ekiti East,2025-05-30,544.0,368.0,Team B,Initial,67.6
+Ekiti,Ekiti South-West,2025-06-07,574.0,573.0,Team D,Initial,99.8
+Ekiti,Ekiti West,2025-06-14,539.0,542.0,Team C,Follow-up,100.6
+Ekiti,Moba,2025-06-23,165.0,228.0,Team C,Follow-up,138.2
+Ekiti,Ikole,2025-05-29,402.0,311.0,Team C,Follow-up,77.4
+Ekiti,Ekiti South-West,2025-06-13,184.0,296.0,Team A,Follow-up,160.9
+Ekiti,Oye,2025-06-25,320.0,504.0,Team C,Initial,157.5
+Ekiti,Ekiti South-East,2025-06-24,273.0,165.0,Team B,Follow-up,60.4
+Ekiti,Ado-Ekiti,2025-06-12,55.0,59.0,Team B,Follow-up,107.3
+Ekiti,Ekiti South-East,2025-06-12,467.0,231.0,Team C,Initial,49.5
+Ekiti,Ise/Orun,2025-06-09,577.0,205.0,Team C,Initial,35.5
+Ekiti,Ise/Orun,2025-06-05,482.0,441.0,Team A,Follow-up,91.5
+Ekiti,Emure,2025-06-27,331.0,44.0,Team A,Initial,13.3
+Ekiti,Irepodun/Ifelodun,2025-06-25,324.0,239.0,Team D,Follow-up,73.8
+Ekiti,Ekiti South-West,2025-06-18,,489.0,Team E,Initial,270.2
+Ekiti,Ekiti South-East,2025-06-14,393.0,358.0,Team C,Initial,91.1
+Ekiti,Ekiti South-East,2025-06-04,409.0,440.0,Team D,Initial,107.6
+Ekiti,Moba,2025-06-24,114.0,323.0,Team C,Initial,283.3
+Ekiti,Ido-Osi,2025-06-13,401.0,450.0,Team A,Initial,112.2
+Ekiti,Ikole,2025-06-23,110.0,491.0,Team E,Initial,446.4
+Ekiti,Ado-Ekiti,2025-06-08,313.0,412.0,Team A,Initial,131.6
+Ekiti,Ikere,2025-06-14,526.0,,Team A,Follow-up,12.9
+Ekiti,Ado-Ekiti,2025-06-25,90.0,322.0,Team C,Follow-up,357.8
+Ekiti,Ise/Orun,2025-06-28,510.0,429.0,Team C,Initial,105.89364033146843
+Ekiti,Ekiti South-West,2025-06-27,506.0,243.0,Team D,Follow-up,48.0
+Ekiti,Moba,2025-05-30,328.0,246.0,Team D,Follow-up,75.0
+Ekiti,Ekiti South-East,2025-06-24,192.0,164.0,Team C,Initial,85.4
+Ekiti,Efon,2025-07-01,360.0,224.0,Team C,Initial,62.2
+Ekiti,Ikole,2025-06-09,143.0,467.0,Team A,Initial,326.6
+Ekiti,Oye,2025-06-18,67.0,463.0,Team A,Follow-up,691.0
+Ekiti,Ado-Ekiti,2025-05-29,338.0,156.0,Team E,Initial,107.32869057083965
+Ekiti,Efon,2025-06-22,592.0,332.0,Team B,Follow-up,56.1
+Ekiti,Ijero,2025-06-29,562.0,186.0,Team A,Initial,33.1
+Ekiti,Gbonyin,2025-06-04,560.0,266.0,Team C,Initial,47.5
+Ekiti,Ikole,2025-05-31,292.0,70.0,Team D,Follow-up,24.0
+Ekiti,Ido-Osi,2025-06-14,329.0,278.0,Team B,Follow-up,84.5
+Ekiti,Oye,2025-07-02,386.0,569.0,Team D,Follow-up,147.4
+Ekiti,Irepodun/Ifelodun,2025-06-11,228.0,114.0,Team B,Initial,50.0
+Ekiti,Emure,2025-06-08,149.0,,Team A,Initial,338.3
+Ekiti,Moba,2025-06-10,236.0,150.0,Team C,Follow-up,63.6
+Ekiti,Ido-Osi,2025-07-01,121.0,465.0,Team E,Initial,384.3
+Ekiti,Ijero,2025-06-20,331.0,332.0,Team D,Initial,100.3
+Ekiti,Ikere,2025-06-04,399.0,387.0,Team B,Follow-up,97.0
+Ekiti,Ekiti East,2025-06-27,317.0,71.0,Team D,Initial,22.4
+Ekiti,Ekiti West,2025-07-02,454.0,66.0,Team C,Follow-up,14.5
+Ekiti,Ekiti West,2025-06-11,225.0,310.0,Team B,Initial,137.8
+Ekiti,Ekiti South-East,2025-06-28,480.0,447.0,Team C,Follow-up,93.1
+Ekiti,Ise/Orun,2025-06-30,73.0,59.0,Team A,Follow-up,80.8
+Ekiti,Moba,2025-05-30,308.0,514.0,Team D,Initial,166.9
+Ekiti,Ikole,2025-06-21,458.0,67.0,Team B,Follow-up,14.6
+Ekiti,Efon,2025-07-01,390.0,228.0,Team B,Initial,58.5
+Ekiti,Ido-Osi,2025-06-19,,287.0,Team B,Initial,104.0
+Ekiti,Ido-Osi,2025-06-24,74.0,228.0,Team B,Initial,308.1
+Ekiti,Ekiti South-West,2025-06-27,242.0,576.0,Team A,Initial,238.0
+Ekiti,Efon,2025-06-11,436.0,67.0,Team E,Initial,15.4
+Ekiti,Ido-Osi,2025-06-09,508.0,553.0,Team D,Follow-up,108.9
+Ekiti,Gbonyin,2025-06-23,421.0,439.0,Team D,Initial,104.3
+Ekiti,Gbonyin,2025-06-30,387.0,232.0,Team B,Initial,59.9
+Ekiti,Ekiti West,2025-06-05,64.0,404.0,Team A,Follow-up,631.2
+Ekiti,Irepodun/Ifelodun,2025-06-20,180.0,355.0,Team D,Follow-up,197.2
+Ekiti,Ekiti South-West,2025-06-01,246.0,298.0,Team C,Initial,121.1
+Ekiti,Ekiti East,2025-06-14,458.0,471.0,Team B,Initial,102.8
+Ekiti,Irepodun/Ifelodun,2025-06-15,321.0,376.0,Team A,Initial,117.1
+Ekiti,Gbonyin,2025-06-22,566.0,95.0,Team E,Initial,16.8
+Ekiti,Ado-Ekiti,2025-06-23,356.0,188.0,Team D,Initial,52.8
+Ekiti,Ado-Ekiti,2025-06-01,458.0,,Team C,Follow-up,111.1
+Ekiti,Ido-Osi,2025-05-29,481.0,390.0,Team D,Initial,81.1
+Ekiti,Ikole,2025-06-02,155.0,371.0,Team D,Initial,239.4
+Ekiti,Ijero,2025-06-24,498.0,125.0,Team C,Initial,25.1
+Ekiti,Ijero,2025-06-24,511.0,314.0,Team E,Follow-up,61.4
+Ekiti,Ekiti East,2025-06-20,341.0,397.0,Team E,Follow-up,116.4
+Ekiti,Ikere,2025-06-14,469.0,112.0,Team E,Follow-up,23.9
+Ekiti,Gbonyin,2025-06-04,505.0,475.0,Team E,Follow-up,94.1
+Ekiti,Efon,2025-06-12,343.0,390.0,Team C,Follow-up,113.7
+Ekiti,Efon,2025-06-17,184.0,311.0,Team D,Initial,169.0
+Ekiti,Ekiti South-East,2025-06-23,290.0,59.0,Team B,Initial,20.3
+Ekiti,Gbonyin,2025-07-01,464.0,522.0,Team D,Initial,112.5
+Ekiti,Ekiti South-West,2025-06-12,534.0,85.0,Team C,Initial,15.9
+Ekiti,Ado-Ekiti,2025-06-23,425.0,402.0,Team D,Initial,94.6
+Ekiti,Ekiti East,2025-06-27,142.0,62.0,Team D,Initial,43.7
+Ekiti,Moba,2025-06-11,535.0,425.0,Team B,Follow-up,79.4
+Ekiti,Ado-Ekiti,2025-06-08,348.0,322.0,Team C,Initial,92.5
+Ekiti,Ekiti West,2025-06-06,379.0,231.0,Team D,Initial,60.9
+Ekiti,Efon,2025-06-02,479.0,169.0,Team B,Initial,35.3
+Ekiti,Ikere,2025-06-10,429.0,205.0,Team C,Follow-up,47.8
+Ekiti,Ise/Orun,2025-06-28,373.0,121.0,Team C,Initial,32.4
+Ekiti,Ido-Osi,2025-06-12,358.0,589.0,Team B,Initial,164.5
+Ekiti,Gbonyin,2025-06-07,,512.0,Team B,Follow-up,673.7
+Ekiti,Gbonyin,2025-06-20,287.0,551.0,Team E,Initial,192.0
+Ekiti,Moba,2025-06-24,139.0,387.0,Team A,Initial,278.4
+Ekiti,Ikere,2025-06-27,277.0,291.0,Team E,Follow-up,105.1
+Ekiti,Ijero,2025-06-16,273.0,334.0,Team B,Initial,122.3
+Ekiti,Moba,2025-06-06,555.0,,Team A,Initial,20.5
+Ekiti,Ido-Osi,2025-06-28,455.0,85.0,Team A,Initial,18.7
+Ekiti,Ise/Orun,2025-06-20,182.0,240.0,Team E,Initial,131.9
+Ekiti,Ikere,2025-06-12,476.0,277.0,Team B,Initial,58.2
+Ekiti,Ikere,2025-06-15,151.0,462.0,Team A,Follow-up,306.0
+Ekiti,Ise/Orun,2025-06-22,597.0,487.0,Team D,Follow-up,81.6
+Ekiti,Ido-Osi,2025-06-14,341.0,326.0,Team D,Initial,95.6
+Ekiti,Ekiti West,2025-06-25,65.0,,Team A,Follow-up,670.8
+Ekiti,Ekiti South-East,2025-06-09,248.0,147.0,Team A,Initial,59.3
+Ekiti,Ikole,2025-06-28,143.0,503.0,Team D,Follow-up,351.7
+Ekiti,Moba,2025-05-29,162.0,510.0,Team A,Follow-up,314.8
+Ekiti,Emure,2025-06-15,83.0,203.0,Team C,Follow-up,244.6
+Ekiti,Ekiti West,2025-06-20,236.0,379.0,Team C,Follow-up,160.6
+Ekiti,Efon,2025-06-13,501.0,583.0,Team E,Initial,116.4
+Ekiti,Ido-Osi,2025-06-17,284.0,278.0,Team E,Initial,97.9
+Ekiti,Efon,2025-06-18,252.0,522.0,Team C,Initial,207.1
+Ekiti,Ikole,2025-06-28,508.0,88.0,Team A,Initial,17.3
+Ekiti,Ekiti West,2025-06-29,161.0,281.0,Team C,Follow-up,174.5
+Ekiti,Ikere,2025-06-25,57.0,438.0,Team E,Initial,768.4
+Ekiti,Ado-Ekiti,2025-06-03,220.0,433.0,Team E,Initial,196.8
+Ekiti,Ekiti West,2025-06-21,51.0,133.0,Team B,Initial,260.8
+Ekiti,Ekiti West,2025-06-07,480.0,62.0,Team D,Initial,
+Ekiti,Efon,2025-06-17,547.0,120.0,Team B,Follow-up,21.9
+Ekiti,Moba,2025-06-22,231.0,295.0,Team A,Initial,
+Ekiti,Ado-Ekiti,2025-06-01,171.0,266.0,Team E,Initial,155.6
+Ekiti,Ise/Orun,2025-06-03,393.0,509.0,Team D,Follow-up,
+Ekiti,Ekiti West,2025-06-18,184.0,169.0,Team A,Follow-up,91.8
+Ekiti,Ido-Osi,2025-06-06,140.0,184.0,Team C,Follow-up,131.4
+Ekiti,Ise/Orun,2025-07-01,515.0,568.0,Team C,Follow-up,110.3
+Ekiti,Ado-Ekiti,2025-06-20,310.0,183.0,Team E,Initial,59.0
+Ekiti,Gbonyin,2025-05-29,298.0,368.0,Team A,Follow-up,123.5
+Ekiti,Efon,2025-05-29,399.0,323.0,Team C,Initial,81.0
+Ekiti,Ekiti South-West,2025-06-11,344.0,192.0,Team D,Initial,55.8
+Ekiti,Ikere,2025-06-02,156.0,472.0,Team E,Initial,302.6
+Ekiti,Ekiti South-West,2025-06-16,102.0,426.0,Team E,Initial,417.6
+Ekiti,Ikere,2025-06-14,373.0,488.0,Team C,Initial,
+Ekiti,Oye,2025-06-04,177.0,357.0,Team E,Initial,201.7
+Ekiti,Ikere,2025-06-07,312.0,134.0,Team C,Initial,42.9
+Ekiti,Moba,2025-06-12,557.0,570.0,Team B,Follow-up,102.3
+Ekiti,Ikole,2025-06-09,319.0,548.0,Team B,Initial,171.8
+Ekiti,Ado-Ekiti,2025-06-26,461.0,237.0,Team D,Initial,51.4
+Ekiti,Ikole,2025-06-20,199.0,128.0,Team D,Follow-up,64.3
+Ekiti,Emure,2025-06-07,532.0,478.0,Team C,Initial,89.8
+Ekiti,Ise/Orun,2025-06-11,84.0,133.0,Team B,Follow-up,158.3
+Ekiti,Ijero,2025-06-23,73.0,286.0,Team A,Follow-up,391.8
+Ekiti,Irepodun/Ifelodun,2025-07-02,75.0,464.0,Team E,Initial,618.7
+Ekiti,Ikole,2025-06-08,575.0,54.0,Team A,Initial,9.4
+Ekiti,Gbonyin,2025-06-03,318.0,77.0,Team E,Initial,24.2
+Ekiti,Ikere,2025-06-17,589.0,566.0,Team A,Initial,96.1
+Ekiti,Emure,2025-06-10,389.0,226.0,Team B,Initial,58.1
+Ekiti,Efon,2025-06-29,241.0,,Team A,Follow-up,76.8
+Ekiti,Ekiti South-East,2025-06-11,474.0,303.0,Team E,Follow-up,63.9
+Ekiti,Ekiti South-East,2025-07-01,282.0,474.0,Team A,Initial,168.1
+Ekiti,Ijero,2025-06-03,582.0,347.0,Team B,Initial,59.6
+Ekiti,Ikere,2025-06-26,487.0,63.0,Team C,Initial,12.9
+Ekiti,Ido-Osi,2025-06-05,544.0,341.0,Team E,Initial,62.7
+Ekiti,Ido-Osi,2025-06-05,492.0,51.0,Team E,Initial,10.4
+Ekiti,Ikere,2025-06-14,130.0,77.0,Team E,Initial,59.2
+Ekiti,Oye,2025-06-24,513.0,456.0,Team C,Initial,88.9
+Ekiti,Ido-Osi,2025-06-12,186.0,145.0,Team C,Initial,78.0
+Ekiti,Ekiti West,2025-06-06,92.0,379.0,Team E,Initial,
+Ekiti,Ado-Ekiti,2025-06-28,436.0,203.0,Team A,Follow-up,46.6
+Ekiti,Ise/Orun,2025-06-29,522.0,67.0,Team C,Initial,12.8
+Ekiti,Ado-Ekiti,2025-06-01,246.0,357.0,Team A,Initial,145.1
+Ekiti,Gbonyin,2025-06-28,459.0,386.0,Team B,Initial,84.1
+Ekiti,Efon,2025-06-27,64.0,455.0,Team E,Initial,710.9
+Ekiti,Ekiti West,2025-06-07,477.0,213.0,Team E,Follow-up,44.7
+Ekiti,Ise/Orun,2025-06-29,78.0,138.0,Team C,Initial,176.9
+Ekiti,Ado-Ekiti,2025-06-13,132.0,238.0,Team D,Initial,180.3
+Ekiti,Ise/Orun,2025-06-29,480.0,481.0,Team D,Initial,100.2
+Ekiti,Ado-Ekiti,2025-06-08,339.0,226.0,Team B,Follow-up,66.7
+Ekiti,Ikere,2025-07-02,227.0,436.0,Team A,Follow-up,192.1
+Ekiti,Ijero,2025-05-29,379.0,424.0,Team A,Initial,111.9
+Ekiti,Ikere,2025-06-08,506.0,270.0,Team A,Follow-up,53.4
+Ekiti,Ekiti East,2025-06-18,520.0,163.0,Team E,Initial,31.3
+Ekiti,Irepodun/Ifelodun,2025-06-27,141.0,,Team C,Initial,67.4
+Ekiti,Ijero,2025-06-29,374.0,482.0,Team C,Initial,128.9
+Ekiti,Ise/Orun,2025-06-16,145.0,173.0,Team A,Initial,106.38595151335919
+Ekiti,Ekiti South-East,2025-06-27,464.0,350.0,Team E,Initial,75.4
+Ekiti,Ijero,2025-06-21,432.0,145.0,Team D,Initial,33.6
+Ekiti,Ekiti South-West,2025-06-25,151.0,390.0,Team D,Initial,258.3
+Ekiti,Ekiti South-West,2025-06-24,500.0,399.0,Team B,Initial,79.8
+Ekiti,Ikere,2025-06-02,216.0,585.0,Team A,Initial,270.8
+Ekiti,Efon,2025-06-09,512.0,302.0,Team D,Initial,59.0
+Ekiti,Irepodun/Ifelodun,2025-06-21,540.0,572.0,Team A,Initial,105.9
+Ekiti,Ekiti South-East,2025-05-30,256.0,405.0,Team E,Initial,158.2
+Ekiti,Ikere,2025-05-30,252.0,509.0,Team A,Initial,
+Ekiti,Ekiti South-West,2025-05-31,186.0,458.0,Team E,Follow-up,246.2
+Ekiti,Ijero,2025-06-19,494.0,149.0,Team D,Follow-up,30.2
+Ekiti,Gbonyin,2025-06-04,378.0,370.0,Team D,Initial,97.9
+Ekiti,Efon,2025-06-30,350.0,,Team E,Follow-up,137.1
+Ekiti,Ado-Ekiti,2025-06-28,494.0,205.0,Team E,Initial,41.5
+Ekiti,Ekiti East,2025-06-29,80.0,466.0,Team D,Initial,582.5
+Ekiti,Ado-Ekiti,2025-06-07,358.0,79.0,Team C,Initial,22.1
+Ekiti,Ado-Ekiti,2025-05-31,420.0,187.0,Team C,Initial,44.5
+Ekiti,Gbonyin,2025-06-11,97.0,293.0,Team C,Initial,302.1
+Ekiti,Ise/Orun,2025-06-24,381.0,411.0,Team D,Initial,107.9
+Ekiti,Ekiti West,2025-06-06,60.0,188.0,Team C,Initial,313.3
+Ekiti,Ikole,2025-06-19,580.0,523.0,Team B,Follow-up,90.2
+Ekiti,Irepodun/Ifelodun,2025-06-04,358.0,265.0,Team D,Initial,74.0
+Ekiti,Irepodun/Ifelodun,2025-06-21,564.0,549.0,Team B,Initial,97.3
+Ekiti,Ekiti West,2025-06-19,387.0,124.0,Team D,Initial,32.0
+Ekiti,Ijero,2025-06-28,539.0,99.0,Team A,Follow-up,18.4
+Ekiti,Ekiti South-West,2025-07-01,167.0,71.0,Team C,Initial,42.5
+Ekiti,Irepodun/Ifelodun,2025-06-11,177.0,361.0,Team E,Initial,204.0
+Ekiti,Ekiti West,2025-06-16,357.0,372.0,Team B,Follow-up,104.2
+Ekiti,Ekiti East,2025-06-25,529.0,453.0,Team B,Initial,85.6
+Ekiti,Ekiti West,2025-06-19,387.0,93.0,Team E,Initial,24.0
+Ekiti,Ekiti South-East,2025-06-25,539.0,291.0,Team D,Initial,54.0
+Ekiti,Ijero,2025-06-14,484.0,473.0,Team E,Follow-up,97.7
+Ekiti,Irepodun/Ifelodun,2025-06-01,321.0,504.0,Team B,Follow-up,157.0
+Ekiti,Ikere,2025-06-16,89.0,490.0,Team B,Follow-up,550.6
+Ekiti,Ekiti South-West,2025-06-16,275.0,522.0,Team A,Follow-up,189.8
+Ekiti,Moba,2025-06-20,241.0,227.0,Team B,Initial,94.2
+Ekiti,Gbonyin,2025-06-29,559.0,456.0,Team E,Initial,81.6
+Ekiti,Ekiti South-West,2025-06-23,576.0,204.0,Team E,Initial,35.4
+Ekiti,Ado-Ekiti,2025-06-19,58.0,576.0,Team A,Initial,993.1
+Ekiti,Emure,2025-06-30,159.0,464.0,Team C,Initial,291.8
+Ekiti,Emure,2025-06-15,238.0,325.0,Team A,Initial,136.6
+Ekiti,Efon,2025-06-30,380.0,520.0,Team A,Initial,
+Ekiti,Ekiti South-East,2025-06-20,227.0,462.0,Team B,Initial,203.5
+Ekiti,Efon,2025-06-11,206.0,133.0,Team B,Follow-up,64.6
+Ekiti,Moba,2025-06-29,93.0,501.0,Team B,Initial,538.7
+Ekiti,Ekiti South-East,2025-06-05,393.0,122.0,Team D,Initial,31.0
+Ekiti,Ekiti South-East,2025-06-19,220.0,535.0,Team C,Follow-up,243.2
+Ekiti,Ijero,2025-06-10,80.0,393.0,Team E,Initial,491.2
+Ekiti,Ikere,2025-06-18,585.0,513.0,Team A,Follow-up,87.7
+Ekiti,Ekiti East,2025-06-17,548.0,308.0,Team D,Initial,56.2
+Ekiti,Ikere,2025-06-06,511.0,577.0,Team A,Initial,112.9
+Ekiti,Ido-Osi,2025-06-03,190.0,130.0,Team D,Initial,68.4
+Ekiti,Efon,2025-05-31,565.0,172.0,Team B,Follow-up,30.4
+Ekiti,Emure,2025-06-23,364.0,136.0,Team B,Initial,37.4
+Ekiti,Moba,2025-06-23,62.0,440.0,Team C,Initial,709.7
+Ekiti,Ekiti South-East,2025-07-02,,,Team D,Initial,612.9
+Ekiti,Ekiti South-West,2025-06-01,266.0,450.0,Team E,Initial,169.2
+Ekiti,Irepodun/Ifelodun,2025-06-23,186.0,479.0,Team D,Initial,257.5
+Ekiti,Ekiti South-West,2025-06-17,570.0,361.0,Team B,Initial,63.3
+Ekiti,Ikole,2025-06-04,306.0,77.0,Team C,Initial,25.2
+Ekiti,Moba,2025-05-29,263.0,231.0,Team B,Follow-up,87.8
+Ekiti,Ado-Ekiti,2025-05-31,595.0,40.0,Team D,Initial,6.7
+Ekiti,Ekiti West,2025-06-10,58.0,168.0,Team C,Follow-up,289.7
+Ekiti,Moba,2025-06-28,488.0,557.0,Team D,Initial,114.1
+Ekiti,Gbonyin,2025-06-01,207.0,206.0,Team E,Follow-up,99.5
+Ekiti,Ise/Orun,2025-06-30,203.0,436.0,Team B,Follow-up,214.8
+Ekiti,Ado-Ekiti,2025-07-02,113.0,512.0,Team B,Initial,453.1
+Ekiti,Ijero,2025-06-22,112.0,,Team D,Initial,452.7
+Ekiti,Ekiti East,2025-06-07,147.0,253.0,Team D,Initial,
+Ekiti,Ado-Ekiti,2025-06-03,166.0,581.0,Team D,Initial,350.0
+Ekiti,Ijero,2025-06-11,351.0,155.0,Team B,Follow-up,44.2
+Ekiti,Ekiti East,2025-05-31,434.0,,Team A,Follow-up,68.0
+Ekiti,Ado-Ekiti,2025-06-27,382.0,224.0,Team D,Initial,58.6
+Ekiti,Ado-Ekiti,2025-06-09,592.0,70.0,Team D,Initial,11.8
+Ekiti,Efon,2025-06-04,364.0,565.0,Team A,Initial,155.2
+Ekiti,Moba,2025-06-09,431.0,550.0,Team C,Initial,127.6
+Ekiti,Emure,2025-05-31,140.0,155.0,Team B,Initial,110.7
+Ekiti,Oye,2025-06-24,279.0,539.0,Team E,Follow-up,193.2
+Ekiti,Ido-Osi,2025-06-04,398.0,212.0,Team B,Initial,53.3
+Ekiti,Ise/Orun,2025-05-29,111.0,444.0,Team A,Initial,400.0
+Ekiti,Ekiti South-West,2025-06-21,557.0,430.0,Team A,Follow-up,77.2
+Ekiti,Ido-Osi,2025-06-06,567.0,533.0,Team D,Initial,94.0
+Ekiti,Oye,2025-06-17,421.0,335.0,Team D,Initial,107.81708255870643
+Ekiti,Ikere,2025-06-14,274.0,248.0,Team D,Initial,90.5
+Ekiti,Irepodun/Ifelodun,2025-06-17,473.0,501.0,Team A,Initial,105.9
+Ekiti,Oye,2025-06-09,134.0,309.0,Team A,Initial,230.6
+Ekiti,Ekiti South-West,2025-06-24,160.0,68.0,Team E,Initial,42.5
+Ekiti,Gbonyin,2025-05-31,582.0,402.0,Team E,Initial,69.1
+Ekiti,Ijero,2025-06-18,562.0,241.0,Team C,Initial,42.9
+Ekiti,Oye,2025-05-30,299.0,176.0,Team B,Follow-up,58.9
+Ekiti,Ikere,2025-06-25,274.0,366.0,Team A,Follow-up,133.6
+Ekiti,Gbonyin,2025-06-01,372.0,387.0,Team D,Initial,104.0
+Ekiti,Oye,2025-06-29,,261.0,Team C,Initial,
+Ekiti,Gbonyin,2025-07-01,356.0,471.0,Team E,Initial,132.3
+Ekiti,Efon,2025-05-31,105.0,135.0,Team B,Initial,128.6
+Ekiti,Ekiti South-West,2025-06-05,489.0,131.0,Team D,Follow-up,26.8
+Ekiti,Gbonyin,2025-06-24,596.0,557.0,Team A,Initial,93.5
+Ekiti,Ikere,2025-06-23,309.0,580.0,Team B,Follow-up,187.7
+Ekiti,Ekiti South-West,2025-06-26,147.0,159.0,Team E,Initial,108.2
+Ekiti,Ekiti West,2025-06-02,,450.0,Team E,Initial,535.7
+Ekiti,Irepodun/Ifelodun,2025-05-29,533.0,583.0,Team B,Initial,109.4
+Ekiti,Emure,2025-06-22,126.0,202.0,Team E,Initial,160.3
+Ekiti,Emure,2025-06-07,203.0,56.0,Team E,Initial,27.6
+Ekiti,Ido-Osi,2025-06-28,363.0,314.0,Team B,Initial,86.5
+Ekiti,Ekiti East,2025-06-24,113.0,486.0,Team E,Initial,430.1
+Ekiti,Ekiti East,2025-06-04,413.0,309.0,Team C,Initial,74.8
+Ekiti,Ikole,2025-06-03,337.0,75.0,Team D,Initial,22.3
+Ekiti,Ekiti South-West,2025-06-28,529.0,552.0,Team C,Initial,104.3
+Ekiti,Oye,2025-06-11,61.0,304.0,Team C,Initial,498.4
+Ekiti,Ido-Osi,2025-06-07,373.0,385.0,Team C,Follow-up,103.2
+Ekiti,Ijero,2025-05-29,,147.0,Team B,Initial,41.1
+Ekiti,Moba,2025-06-25,569.0,549.0,Team E,Follow-up,96.5
+Ekiti,Ijero,2025-05-29,521.0,444.0,Team B,Initial,85.2
+Ekiti,Ijero,2025-05-29,511.0,271.0,Team C,Initial,53.0
+Ekiti,Ekiti South-East,2025-06-05,275.0,78.0,Team E,Follow-up,28.4
+Ekiti,Gbonyin,2025-06-03,352.0,571.0,Team B,Follow-up,162.2
+Ekiti,Ekiti South-East,2025-06-11,,302.0,Team A,Initial,122.8
+Ekiti,Efon,2025-06-05,557.0,234.0,Team B,Initial,42.0
+Ekiti,Moba,2025-06-06,372.0,43.0,Team C,Initial,11.6
+Ekiti,Oye,2025-06-28,240.0,542.0,Team D,Initial,225.8
+Ekiti,Ijero,2025-05-30,590.0,246.0,Team A,Initial,41.7
+Ekiti,Gbonyin,2025-06-15,556.0,305.0,Team D,Initial,54.9
+Ekiti,Ikole,2025-06-13,285.0,416.0,Team C,Initial,146.0
+Ekiti,Ekiti West,2025-06-26,261.0,290.0,Team C,Initial,111.1
+Ekiti,Ekiti West,2025-06-09,,80.0,Team E,Initial,16.9
+Ekiti,Efon,2025-06-01,62.0,571.0,Team D,Initial,921.0
+Ekiti,Ido-Osi,2025-06-21,70.0,172.0,Team C,Initial,245.7
+Ekiti,Ikole,2025-06-07,384.0,86.0,Team D,Follow-up,22.4
+Ekiti,Ido-Osi,2025-06-03,479.0,468.0,Team E,Initial,97.7
+Ekiti,Ekiti South-West,2025-06-16,320.0,287.0,Team B,Initial,89.7
+Ekiti,Gbonyin,2025-06-29,100.0,461.0,Team D,Follow-up,461.0
+Ekiti,Ekiti West,2025-06-27,485.0,529.0,Team C,Initial,109.1
+Ekiti,Ekiti East,2025-06-14,382.0,177.0,Team B,Follow-up,46.3
+Ekiti,Ekiti West,2025-06-01,86.0,566.0,Team C,Initial,658.1
+Ekiti,Ijero,2025-05-31,253.0,382.0,Team C,Initial,151.0
+Ekiti,Efon,2025-05-29,65.0,353.0,Team E,Initial,543.1
+Ekiti,Ekiti East,2025-06-01,303.0,436.0,Team C,Initial,143.9
+Ekiti,Ado-Ekiti,2025-05-29,108.0,43.0,Team E,Initial,39.8
+Ekiti,Moba,2025-06-03,214.0,198.0,Team E,Initial,92.5
+Ekiti,Efon,2025-06-22,292.0,537.0,Team A,Initial,183.9
+Ekiti,Ekiti South-East,2025-06-17,361.0,413.0,Team B,Initial,114.4
+Ekiti,Ise/Orun,2025-06-17,343.0,395.0,Team C,Initial,115.2
+Ekiti,Emure,2025-06-08,407.0,410.0,Team C,Initial,100.7
+Ekiti,Irepodun/Ifelodun,2025-06-29,,128.0,Team A,Initial,27.6
+Ekiti,Emure,2025-06-01,373.0,220.0,Team C,Initial,59.0
+Ekiti,Ado-Ekiti,2025-06-18,76.0,479.0,Team B,Initial,630.3
+Ekiti,Oye,2025-06-21,134.0,459.0,Team C,Initial,342.5
+Ekiti,Ijero,2025-06-26,124.0,130.0,Team D,Initial,104.8
+Ekiti,Ekiti South-East,2025-06-28,149.0,196.0,Team C,Initial,131.5
+Ekiti,Ekiti East,2025-06-08,584.0,,Team D,Initial,12.7
+Ekiti,Ekiti West,2025-06-07,231.0,43.0,Team D,Initial,18.6
+Ekiti,Efon,2025-06-05,486.0,182.0,Team A,Initial,37.4
+Ekiti,Ekiti South-East,2025-06-21,537.0,399.0,Team A,Initial,74.3
+Ekiti,Gbonyin,2025-06-08,134.0,,Team B,Initial,215.7
+Ekiti,Irepodun/Ifelodun,2025-06-24,522.0,210.0,Team A,Initial,40.2
+Ekiti,Irepodun/Ifelodun,2025-06-28,529.0,189.0,Team D,Initial,35.7
+Ekiti,Ado-Ekiti,2025-06-22,213.0,237.0,Team D,Initial,111.3
+Ekiti,Oye,2025-06-26,326.0,366.0,Team B,Follow-up,112.3
+Ekiti,Ikere,2025-06-15,267.0,480.0,Team C,Initial,179.8
+Ekiti,Ekiti South-West,2025-06-19,233.0,56.0,Team E,Initial,24.0
+Ekiti,Emure,2025-06-16,140.0,563.0,Team A,Initial,402.1
+Ekiti,Efon,2025-06-15,253.0,327.0,Team A,Initial,129.2
+Ekiti,Moba,2025-06-01,50.0,217.0,Team C,Follow-up,434.0
+Ekiti,Gbonyin,2025-06-19,265.0,343.0,Team B,Initial,129.4
+Ekiti,Ijero,2025-05-29,184.0,94.0,Team B,Follow-up,51.1
+Ekiti,Ido-Osi,2025-06-07,293.0,257.0,Team A,Initial,87.7
+Ekiti,Ado-Ekiti,2025-06-17,566.0,589.0,Team E,Initial,104.1
+Ekiti,Irepodun/Ifelodun,2025-06-25,440.0,352.0,Team C,Initial,80.0
+Ekiti,Irepodun/Ifelodun,2025-06-13,,,Team B,Follow-up,29.5
+Ekiti,Ekiti South-East,2025-06-22,577.0,460.0,Team D,Follow-up,79.7
+Ekiti,Ekiti South-East,2025-06-22,374.0,430.0,Team A,Follow-up,115.0
+Ekiti,Ado-Ekiti,2025-06-22,323.0,446.0,Team D,Initial,138.1
+Ekiti,Ise/Orun,2025-06-12,95.0,186.0,Team B,Follow-up,195.8
+Ekiti,Ekiti South-West,2025-06-26,66.0,512.0,Team C,Initial,775.8
+Ekiti,Ado-Ekiti,2025-06-16,183.0,68.0,Team E,Follow-up,37.2
+Ekiti,Efon,2025-05-29,520.0,366.0,Team A,Follow-up,70.4
+Ekiti,Emure,2025-06-18,341.0,348.0,Team B,Initial,102.1
+Ekiti,Moba,2025-06-14,,310.0,Team D,Initial,106.9
+Ekiti,Ikere,2025-06-15,330.0,429.0,Team B,Initial,130.0
+Ekiti,Oye,2025-06-25,231.0,519.0,Team A,Initial,224.7
+Ekiti,Irepodun/Ifelodun,2025-06-08,526.0,462.0,Team C,Follow-up,87.8
+Ekiti,Ekiti East,2025-05-31,217.0,463.0,Team A,Follow-up,213.4
+Ekiti,Moba,2025-06-16,267.0,195.0,Team C,Initial,73.0
+Ekiti,Ekiti East,2025-06-07,269.0,536.0,Team A,Initial,199.3
+Ekiti,Emure,2025-06-07,587.0,546.0,Team D,Follow-up,93.0
+Ekiti,Gbonyin,2025-06-15,61.0,457.0,Team E,Initial,749.2
+Ekiti,Ekiti East,2025-06-29,498.0,54.0,Team A,Initial,10.8
+Ekiti,Ikere,2025-06-20,191.0,159.0,Team D,Follow-up,83.2
+Ekiti,Gbonyin,2025-07-02,531.0,583.0,Team E,Initial,109.8
+Ekiti,Ijero,2025-06-03,208.0,504.0,Team D,Follow-up,242.3
+Ekiti,Ekiti West,2025-07-02,370.0,424.0,Team E,Initial,114.6
+Ekiti,Gbonyin,2025-06-29,69.0,405.0,Team A,Initial,587.0
+Ekiti,Emure,2025-06-22,,116.0,Team C,Initial,66.3
+Ekiti,Ikole,2025-06-10,585.0,43.0,Team D,Initial,7.4
+Ekiti,Ido-Osi,2025-06-12,546.0,313.0,Team A,Initial,57.3
+Ekiti,Ekiti South-West,2025-06-17,543.0,275.0,Team D,Initial,50.6
+Ekiti,Ekiti East,2025-06-01,70.0,166.0,Team C,Initial,237.1
+Ekiti,Oye,2025-06-23,448.0,275.0,Team B,Initial,61.4
+Ekiti,Ekiti West,2025-06-27,140.0,221.0,Team B,Initial,157.9
+Ekiti,Ado-Ekiti,2025-06-11,564.0,67.0,Team C,Initial,11.9
+Ekiti,Ikere,2025-06-14,265.0,155.0,Team D,Initial,58.5
+Ekiti,Ijero,2025-05-29,299.0,362.0,Team E,Follow-up,121.1
+Ekiti,Ekiti West,2025-06-22,450.0,571.0,Team C,Initial,126.9
+Ekiti,Irepodun/Ifelodun,2025-06-27,489.0,47.0,Team A,Initial,9.6
+Ekiti,Ijero,2025-07-02,522.0,49.0,Team C,Initial,9.4
+Ekiti,Ikere,2025-06-03,80.0,246.0,Team C,Initial,307.5
+Ekiti,Ekiti East,2025-07-02,329.0,517.0,Team C,Follow-up,157.1
+Ekiti,Ijero,2025-06-20,353.0,241.0,Team B,Initial,68.3
+Ekiti,Ikole,2025-06-02,255.0,453.0,Team D,Follow-up,177.6
+Ekiti,Gbonyin,2025-06-12,321.0,357.0,Team A,Initial,111.2
+Ekiti,Oye,2025-06-23,232.0,393.0,Team A,Initial,169.4
+Ekiti,Emure,2025-07-01,512.0,226.0,Team A,Initial,44.1
+Ekiti,Efon,2025-06-14,297.0,584.0,Team A,Follow-up,196.6
+Ekiti,Ijero,2025-07-01,250.0,56.0,Team A,Follow-up,22.4
+Ekiti,Ekiti West,2025-06-18,424.0,348.0,Team C,Initial,82.1
+Ekiti,Moba,2025-06-28,267.0,506.0,Team B,Initial,189.5
+Ekiti,Efon,2025-06-30,379.0,489.0,Team B,Initial,129.0
+Ekiti,Ekiti South-East,2025-06-10,413.0,298.0,Team E,Initial,72.2
+Ekiti,Ekiti West,2025-06-10,262.0,68.0,Team A,Follow-up,26.0
+Ekiti,Ikere,2025-06-11,108.0,529.0,Team B,Follow-up,489.8
+Ekiti,Ekiti South-West,2025-06-10,266.0,511.0,Team B,Initial,192.1
+Ekiti,Irepodun/Ifelodun,2025-06-03,229.0,187.0,Team D,Follow-up,81.7
+Ekiti,Ikole,2025-06-09,429.0,265.0,Team D,Follow-up,61.8
+Ekiti,Gbonyin,2025-06-16,329.0,270.0,Team E,Follow-up,82.1
+Ekiti,Irepodun/Ifelodun,2025-06-21,345.0,117.0,Team B,Follow-up,33.9
+Ekiti,Efon,2025-06-20,387.0,,Team C,Initial,74.9
+Ekiti,Ekiti West,2025-06-23,464.0,183.0,Team A,Initial,39.4
+Ekiti,Ekiti East,2025-07-01,588.0,97.0,Team A,Initial,16.5
+Ekiti,Ekiti South-East,2025-06-07,493.0,334.0,Team B,Initial,67.7
+Ekiti,Ado-Ekiti,2025-06-13,287.0,493.0,Team C,Follow-up,171.8
+Ekiti,Efon,2025-05-31,159.0,197.0,Team A,Initial,123.9
+Ekiti,Irepodun/Ifelodun,2025-06-29,466.0,279.0,Team E,Follow-up,59.9
+Ekiti,Ekiti East,2025-06-21,222.0,162.0,Team C,Initial,73.0
+Ekiti,Ekiti South-East,2025-06-04,,343.0,Team E,Initial,106.9
+Ekiti,Ekiti West,2025-06-21,434.0,92.0,Team E,Follow-up,
+Ekiti,Efon,2025-06-27,282.0,323.0,Team E,Follow-up,114.5
+Ekiti,Moba,2025-06-03,452.0,268.0,Team A,Initial,59.3
+Ekiti,Ekiti West,2025-06-07,288.0,149.0,Team E,Initial,51.7
+Ekiti,Ise/Orun,2025-06-18,424.0,171.0,Team C,Initial,40.3
+Ekiti,Moba,2025-05-30,511.0,330.0,Team B,Initial,64.6
+Ekiti,Ekiti South-West,2025-06-20,451.0,118.0,Team C,Follow-up,26.2
+Ekiti,Ijero,2025-06-15,53.0,416.0,Team E,Initial,784.9
+Ekiti,Ado-Ekiti,2025-07-01,491.0,258.0,Team E,Initial,108.32466927833265
+Ekiti,Gbonyin,2025-05-30,276.0,,Team A,Initial,170.3
+Ekiti,Efon,2025-06-04,256.0,122.0,Team A,Initial,47.7
+Ekiti,Emure,2025-05-31,180.0,225.0,Team A,Follow-up,125.0
+Ekiti,Efon,2025-06-11,311.0,55.0,Team B,Follow-up,17.7
+Ekiti,Efon,2025-06-29,88.0,191.0,Team A,Follow-up,217.0
+Ekiti,Ikole,2025-06-11,179.0,145.0,Team B,Follow-up,81.0
+Ekiti,Oye,2025-06-14,597.0,319.0,Team D,Initial,53.4
+Ekiti,Emure,2025-06-15,307.0,405.0,Team E,Follow-up,131.9
+Ekiti,Irepodun/Ifelodun,2025-06-25,65.0,589.0,Team D,Initial,906.2
+Ekiti,Ikere,2025-06-04,578.0,563.0,Team D,Initial,97.4
+Ekiti,Ekiti South-West,2025-06-26,427.0,333.0,Team C,Initial,78.0
+Ekiti,Irepodun/Ifelodun,2025-06-06,196.0,271.0,Team B,Initial,138.3
+Ekiti,Ekiti West,2025-06-14,393.0,266.0,Team B,Initial,67.7
+Ekiti,Ido-Osi,2025-05-31,507.0,234.0,Team C,Initial,46.2
+Ekiti,Gbonyin,2025-06-19,148.0,211.0,Team D,Initial,142.6
+Ekiti,Emure,2025-06-10,342.0,419.0,Team E,Initial,122.5
+Ekiti,Ekiti West,2025-06-09,571.0,76.0,Team A,Initial,13.3
+Ekiti,Ado-Ekiti,2025-06-22,318.0,530.0,Team D,Follow-up,166.7
+Ekiti,Ado-Ekiti,2025-06-03,276.0,292.0,Team A,Initial,105.8
+Ekiti,Oye,2025-05-30,312.0,289.0,Team C,Follow-up,92.6
+Ekiti,Ado-Ekiti,2025-06-01,442.0,387.0,Team C,Initial,87.6
+Ekiti,Ise/Orun,2025-05-31,528.0,186.0,Team D,Initial,35.2
+Ekiti,Ikole,2025-06-21,467.0,460.0,Team C,Initial,98.5
+Ekiti,Ekiti South-East,2025-06-27,372.0,249.0,Team C,Follow-up,66.9
+Ekiti,Oye,2025-06-29,547.0,526.0,Team C,Initial,
+Ekiti,Emure,2025-06-02,586.0,268.0,Team A,Follow-up,45.7
+Ekiti,Ise/Orun,2025-06-23,419.0,296.0,Team D,Initial,70.6
+Ekiti,Efon,2025-06-05,553.0,106.0,Team E,Initial,19.2
+Ekiti,Irepodun/Ifelodun,2025-06-03,390.0,357.0,Team C,Follow-up,91.5
+Ekiti,Ijero,2025-06-14,518.0,481.0,Team A,Initial,92.9
+Ekiti,Ido-Osi,2025-06-18,389.0,111.0,Team D,Initial,28.5
+Ekiti,Ikole,2025-06-12,391.0,570.0,Team C,Follow-up,145.8
+Ekiti,Ekiti West,2025-06-03,493.0,351.0,Team E,Follow-up,71.2
+Ekiti,Gbonyin,2025-06-30,470.0,48.0,Team B,Initial,10.2
+Ekiti,Ikere,2025-06-23,479.0,224.0,Team E,Follow-up,46.8
+Ekiti,Ekiti South-East,2025-06-09,581.0,42.0,Team A,Initial,7.2
+Ekiti,Ido-Osi,2025-06-26,416.0,253.0,Team C,Follow-up,60.8
+Ekiti,Ekiti South-West,2025-06-08,390.0,60.0,Team C,Initial,15.4
+Ekiti,Ekiti South-West,2025-06-21,553.0,370.0,Team B,Initial,66.9
+Ekiti,Ise/Orun,2025-06-13,105.0,496.0,Team C,Initial,472.4
+Ekiti,Ise/Orun,2025-06-12,552.0,379.0,Team B,Follow-up,68.7
+Ekiti,Irepodun/Ifelodun,2025-06-09,312.0,417.0,Team A,Follow-up,133.7
+Ekiti,Ikole,2025-05-31,291.0,103.0,Team D,Initial,35.4
+Ekiti,Gbonyin,2025-06-14,324.0,471.0,Team D,Follow-up,145.4
+Ekiti,Ado-Ekiti,2025-06-20,350.0,306.0,Team E,Initial,87.4
+Ekiti,Moba,2025-06-01,471.0,68.0,Team D,Initial,14.4
+Ekiti,Irepodun/Ifelodun,2025-05-30,166.0,,Team A,Follow-up,122.9
+Ekiti,Ido-Osi,2025-06-01,199.0,79.0,Team C,Initial,39.7
+Ekiti,Ikere,2025-06-14,314.0,557.0,Team D,Follow-up,177.4
+Ekiti,Ekiti East,2025-06-30,321.0,80.0,Team C,Initial,24.9
+Ekiti,Emure,2025-06-28,73.0,56.0,Team D,Initial,76.7
+Ekiti,Ido-Osi,2025-06-01,,434.0,Team B,Initial,121.2
+Ekiti,Emure,2025-06-04,119.0,472.0,Team B,Follow-up,396.6
+Ekiti,Efon,2025-06-07,360.0,512.0,Team A,Initial,142.2
+Ekiti,Oye,2025-06-18,330.0,442.0,Team A,Follow-up,133.9
+Ekiti,Emure,2025-05-29,408.0,422.0,Team E,Initial,103.4
+Ekiti,Irepodun/Ifelodun,2025-06-10,121.0,149.0,Team A,Initial,123.1
+Ekiti,Ikole,2025-06-17,357.0,444.0,Team C,Initial,124.4
+Ekiti,Irepodun/Ifelodun,2025-06-26,492.0,40.0,Team C,Initial,8.1
+Ekiti,Ijero,2025-06-04,357.0,531.0,Team C,Initial,148.7
+Ekiti,Ise/Orun,2025-06-28,283.0,297.0,Team C,Initial,104.9
+Ekiti,Ido-Osi,2025-06-18,72.0,201.0,Team D,Initial,279.2
+Ekiti,Ekiti South-East,2025-06-21,,540.0,Team C,Initial,
+Ekiti,Ise/Orun,2025-06-14,510.0,295.0,Team A,Initial,57.8
+Ekiti,Ekiti South-East,2025-06-22,239.0,216.0,Team A,Initial,90.4
+Ekiti,Ekiti South-West,2025-06-05,364.0,549.0,Team D,Initial,150.8
+Ekiti,Gbonyin,2025-06-21,225.0,196.0,Team D,Follow-up,87.1
+Ekiti,Efon,2025-06-28,258.0,474.0,Team D,Initial,183.7
+Ekiti,Ido-Osi,2025-06-22,190.0,130.0,Team A,Initial,68.4
+Ekiti,Ikere,2025-06-08,501.0,,Team B,Initial,37.3
+Ekiti,Emure,2025-06-26,268.0,503.0,Team B,Follow-up,106.58675381523379
+Ekiti,Ikole,2025-06-13,536.0,444.0,Team A,Follow-up,82.8
+Ekiti,Ido-Osi,2025-06-07,575.0,264.0,Team C,Follow-up,45.9
+Ekiti,Ekiti South-West,2025-05-29,369.0,292.0,Team C,Initial,79.1
+Ekiti,Ado-Ekiti,2025-06-27,423.0,409.0,Team C,Initial,96.7
+Ekiti,Ikere,2025-06-10,70.0,237.0,Team B,Initial,
+Ekiti,Oye,2025-05-31,342.0,402.0,Team B,Initial,117.5
+Ekiti,Ikole,2025-06-08,389.0,493.0,Team B,Initial,126.7
+Ekiti,Ado-Ekiti,2025-06-12,240.0,194.0,Team E,Initial,80.8
+Ekiti,Gbonyin,2025-06-02,78.0,510.0,Team C,Initial,
+Ekiti,Ijero,2025-06-21,502.0,545.0,Team D,Follow-up,108.6
+Ekiti,Ikole,2025-06-06,209.0,238.0,Team D,Follow-up,113.9
+Ekiti,Ikere,2025-06-26,385.0,374.0,Team B,Follow-up,97.1
+Ekiti,Ado-Ekiti,2025-06-04,126.0,216.0,Team D,Initial,171.4
+Ekiti,Ido-Osi,2025-06-22,582.0,246.0,Team A,Initial,42.3
+Ekiti,Gbonyin,2025-05-30,429.0,464.0,Team C,Follow-up,108.2
+Ekiti,Ekiti South-East,2025-06-02,200.0,163.0,Team E,Follow-up,81.5
+Ekiti,Gbonyin,2025-06-26,518.0,66.0,Team A,Initial,12.7
+Ekiti,Oye,2025-06-19,407.0,555.0,Team B,Initial,136.4
+Ekiti,Ekiti South-West,2025-06-18,548.0,60.0,Team A,Follow-up,10.9
+Ekiti,Emure,2025-06-12,282.0,368.0,Team C,Initial,130.5
+Ekiti,Ekiti East,2025-06-28,548.0,329.0,Team C,Initial,60.0
+Ekiti,Oye,2025-06-05,312.0,175.0,Team A,Follow-up,56.1
+Ekiti,Irepodun/Ifelodun,2025-06-21,170.0,187.0,Team E,Follow-up,110.0
+Ekiti,Ekiti East,2025-06-07,498.0,524.0,Team A,Initial,105.2
+Ekiti,Irepodun/Ifelodun,2025-06-19,198.0,517.0,Team C,Initial,261.1
+Ekiti,Ikole,2025-06-12,555.0,472.0,Team C,Initial,85.0
+Ekiti,Ise/Orun,2025-06-01,336.0,154.0,Team B,Initial,45.8
+Ekiti,Efon,2025-06-09,376.0,325.0,Team D,Initial,86.4
+Ekiti,Emure,2025-06-26,570.0,496.0,Team D,Initial,87.0
+Ekiti,Ado-Ekiti,2025-06-07,574.0,390.0,Team A,Initial,67.9
+Ekiti,Ekiti South-East,2025-06-26,224.0,77.0,Team B,Initial,34.4
+Ekiti,Moba,2025-06-07,475.0,224.0,Team C,Initial,47.2
+Ekiti,Ikere,2025-06-15,75.0,449.0,Team A,Follow-up,598.7
+Ekiti,Ado-Ekiti,2025-06-24,396.0,53.0,Team B,Initial,13.4
+Ekiti,Ikere,2025-06-24,395.0,332.0,Team B,Initial,84.1
+Ekiti,Ekiti West,2025-06-13,334.0,118.0,Team E,Follow-up,35.3
+Ekiti,Efon,2025-06-07,455.0,222.0,Team A,Initial,48.8
+Ekiti,Ikere,2025-05-30,107.0,122.0,Team D,Initial,114.0
+Ekiti,Ijero,2025-06-15,80.0,481.0,Team A,Follow-up,601.2
+Ekiti,Ido-Osi,2025-06-16,495.0,151.0,Team C,Follow-up,30.5
+Ekiti,Irepodun/Ifelodun,2025-06-19,247.0,515.0,Team E,Initial,208.5
+Ekiti,Ekiti South-West,2025-06-08,198.0,299.0,Team A,Initial,106.27523669607642
+Ekiti,Gbonyin,2025-06-14,508.0,182.0,Team A,Initial,35.8
+Ekiti,Ise/Orun,2025-06-29,566.0,309.0,Team E,Initial,54.6
+Ekiti,Ikole,2025-06-04,599.0,216.0,Team E,Initial,36.1
+Ekiti,Ikole,2025-06-18,501.0,138.0,Team D,Initial,27.5
+Ekiti,Ido-Osi,2025-06-27,118.0,173.0,Team E,Initial,
+Ekiti,Emure,2025-06-28,392.0,309.0,Team D,Initial,78.8
+Ekiti,Ekiti East,2025-06-05,463.0,41.0,Team B,Initial,8.9
+Ekiti,Ekiti East,2025-06-07,504.0,266.0,Team C,Initial,52.8
+Ekiti,Moba,2025-06-30,455.0,532.0,Team D,Initial,116.9
+Ekiti,Ikere,2025-06-01,59.0,322.0,Team B,Initial,545.8
+Ekiti,Ekiti South-East,2025-06-11,390.0,324.0,Team D,Follow-up,83.1
+Ekiti,Ekiti East,2025-06-28,445.0,439.0,Team E,Initial,98.7
+Ekiti,Ekiti East,2025-06-16,315.0,150.0,Team D,Initial,47.6
+Ekiti,Moba,2025-06-05,497.0,276.0,Team C,Follow-up,55.5
+Ekiti,Ekiti South-West,2025-06-14,240.0,321.0,Team C,Initial,133.8
+Ekiti,Efon,2025-06-10,213.0,330.0,Team D,Follow-up,154.9
+Ekiti,Gbonyin,2025-06-21,78.0,571.0,Team C,Initial,732.1
+Ekiti,Emure,2025-06-25,291.0,564.0,Team C,Initial,193.8
+Ekiti,Moba,2025-06-14,126.0,355.0,Team A,Initial,281.7
+Ekiti,Oye,2025-06-13,223.0,319.0,Team C,Initial,143.0
+Ekiti,Moba,2025-06-13,382.0,396.0,Team E,Follow-up,103.7
+Ekiti,Emure,2025-06-04,411.0,95.0,Team B,Follow-up,23.1
+Ekiti,Ekiti South-East,2025-06-22,338.0,569.0,Team C,Initial,168.3
+Ekiti,Gbonyin,2025-06-16,174.0,337.0,Team A,Initial,193.7
+Ekiti,Irepodun/Ifelodun,2025-06-24,131.0,280.0,Team E,Initial,213.7
+Ekiti,Ikole,2025-06-08,284.0,589.0,Team A,Initial,207.4
+Ekiti,Irepodun/Ifelodun,2025-06-01,,336.0,Team D,Initial,454.1
+Ekiti,Gbonyin,2025-06-16,310.0,348.0,Team E,Initial,112.3
+Ekiti,Ekiti East,2025-06-07,386.0,298.0,Team D,Initial,77.2
+Ekiti,Emure,2025-05-30,126.0,235.0,Team B,Initial,186.5
+Ekiti,Ekiti West,2025-06-26,110.0,119.0,Team B,Follow-up,108.2
+Ekiti,Ado-Ekiti,2025-06-30,172.0,410.0,Team E,Follow-up,238.4
+Ekiti,Ijero,2025-06-19,120.0,528.0,Team B,Initial,440.0
+Ekiti,Ekiti East,2025-06-30,169.0,543.0,Team D,Initial,321.3
+Ekiti,Ekiti West,2025-06-06,84.0,553.0,Team A,Initial,
+Ekiti,Efon,2025-06-26,570.0,589.0,Team B,Follow-up,103.3
+Ekiti,Ekiti East,2025-05-29,,189.0,Team A,Initial,51.5
+Ekiti,Emure,2025-07-01,276.0,278.0,Team B,Initial,100.7
+Ekiti,Moba,2025-06-16,,224.0,Team D,Initial,386.2
+Ekiti,Ekiti South-West,2025-06-09,63.0,309.0,Team B,Initial,114.86089694277406
+Ekiti,Efon,2025-06-21,176.0,550.0,Team B,Follow-up,312.5
+Ekiti,Gbonyin,2025-06-25,599.0,167.0,Team A,Follow-up,27.9
+Ekiti,Moba,2025-05-31,412.0,,Team E,Initial,133.7
+Ekiti,Ado-Ekiti,2025-06-24,372.0,522.0,Team E,Initial,140.3
+Ekiti,Ikere,2025-06-11,545.0,148.0,Team B,Follow-up,27.2
+Ekiti,Efon,2025-06-15,444.0,329.0,Team E,Initial,74.1
+Ekiti,Efon,2025-06-09,197.0,88.0,Team E,Initial,44.7
+Ekiti,Ijero,2025-06-06,239.0,529.0,Team C,Initial,221.3
+Ekiti,Moba,2025-06-09,370.0,185.0,Team A,Follow-up,50.0
+Ekiti,Oye,2025-07-01,148.0,,Team E,Initial,71.6
+Ekiti,Ekiti East,2025-06-12,482.0,128.0,Team B,Initial,26.6
+Ekiti,Ekiti South-East,2025-06-09,583.0,289.0,Team C,Initial,49.6
+Ekiti,Ekiti West,2025-06-10,591.0,470.0,Team E,Initial,79.5
+Ekiti,Ijero,2025-06-03,309.0,567.0,Team D,Initial,183.5
+Ekiti,Ido-Osi,2025-06-03,385.0,68.0,Team B,Follow-up,17.7
+Ekiti,Gbonyin,2025-06-29,480.0,64.0,Team C,Initial,13.3
+Ekiti,Emure,2025-06-15,179.0,,Team C,Initial,196.1
+Ekiti,Efon,2025-06-09,87.0,290.0,Team B,Initial,333.3
+Ekiti,Ekiti West,2025-06-11,441.0,182.0,Team C,Follow-up,41.3
+Ekiti,Ekiti South-West,2025-06-06,343.0,85.0,Team B,Follow-up,24.8
+Ekiti,Ikere,2025-06-10,381.0,89.0,Team A,Follow-up,23.4
+Ekiti,Ikole,2025-06-17,280.0,264.0,Team C,Initial,113.26333523109865
+Ekiti,Ijero,2025-06-10,328.0,440.0,Team D,Initial,110.5977433398205
+Ekiti,Irepodun/Ifelodun,2025-05-29,386.0,249.0,Team A,Initial,64.5
+Ekiti,Moba,2025-06-02,367.0,,Team E,Initial,104.4
+Ekiti,Ekiti South-West,2025-07-01,535.0,529.0,Team A,Follow-up,98.9
+Ekiti,Oye,2025-06-24,470.0,196.0,Team A,Follow-up,41.7
+Ekiti,Ado-Ekiti,2025-06-01,373.0,539.0,Team D,Initial,144.5
+Ekiti,Oye,2025-07-01,363.0,514.0,Team B,Initial,141.6
+Ekiti,Ido-Osi,2025-06-20,52.0,469.0,Team A,Follow-up,901.9
+Ekiti,Irepodun/Ifelodun,2025-06-19,254.0,207.0,Team E,Initial,81.5
+Ekiti,Moba,2025-06-16,171.0,547.0,Team B,Initial,319.9
+Ekiti,Efon,2025-06-29,555.0,548.0,Team D,Initial,98.7
+Ekiti,Ado-Ekiti,2025-06-03,404.0,148.0,Team D,Initial,36.6
+Ekiti,Ido-Osi,2025-05-29,552.0,150.0,Team A,Initial,27.2
+Ekiti,Oye,2025-06-24,122.0,399.0,Team D,Initial,327.0
+Ekiti,Ekiti East,2025-06-28,62.0,318.0,Team A,Initial,512.9
+Ekiti,Ido-Osi,2025-06-06,429.0,289.0,Team B,Initial,67.4
+Ekiti,Ado-Ekiti,2025-06-15,126.0,320.0,Team C,Initial,254.0
+Ekiti,Moba,2025-06-13,489.0,506.0,Team D,Initial,103.5
+Ekiti,Ikere,2025-06-09,151.0,544.0,Team C,Initial,360.3
+Ekiti,Ise/Orun,2025-06-21,377.0,340.0,Team E,Initial,90.2
+Ekiti,Oye,2025-05-31,584.0,66.0,Team D,Initial,11.3
+Ekiti,Ijero,2025-06-08,475.0,550.0,Team E,Follow-up,115.8
+Ekiti,Ekiti South-West,2025-06-21,348.0,70.0,Team C,Initial,20.1
+Ekiti,Ijero,2025-05-29,344.0,552.0,Team B,Follow-up,160.5
+Ekiti,Ekiti South-West,2025-06-20,212.0,254.0,Team C,Initial,119.8
+Ekiti,Ekiti West,2025-07-01,507.0,,Team B,Initial,114.65052872461169
+Ekiti,Emure,2025-06-26,283.0,226.0,Team C,Initial,79.9
+Ekiti,Moba,2025-07-01,209.0,530.0,Team D,Initial,253.6
+Ekiti,Emure,2025-06-02,82.0,178.0,Team A,Initial,217.1
+Ekiti,Ikole,2025-06-05,293.0,403.0,Team A,Follow-up,137.5
+Ekiti,Emure,2025-06-20,505.0,69.0,Team A,Initial,13.7
+Ekiti,Ikere,2025-06-13,284.0,332.0,Team A,Initial,116.9
+Ekiti,Emure,2025-06-18,246.0,350.0,Team E,Follow-up,142.3
+Ekiti,Ekiti South-East,2025-06-22,529.0,505.0,Team D,Initial,
+Ekiti,Emure,2025-06-01,53.0,425.0,Team B,Initial,801.9
+Ekiti,Gbonyin,2025-06-16,497.0,465.0,Team A,Initial,93.6
+Ekiti,Irepodun/Ifelodun,2025-06-04,519.0,204.0,Team B,Follow-up,39.3
+Ekiti,Ikere,2025-06-29,407.0,98.0,Team C,Initial,24.1
+Ekiti,Oye,2025-06-26,562.0,486.0,Team E,Follow-up,86.5
+Ekiti,Ekiti South-West,2025-06-30,451.0,264.0,Team D,Initial,58.5
+Ekiti,Irepodun/Ifelodun,2025-05-30,125.0,59.0,Team C,Follow-up,47.2
+Ekiti,Ikere,2025-07-01,166.0,233.0,Team C,Initial,140.4
+Ekiti,Ekiti West,2025-07-02,384.0,329.0,Team D,Initial,85.7
+Ekiti,Ikere,2025-06-06,396.0,67.0,Team A,Follow-up,16.9
+Ekiti,Ado-Ekiti,2025-05-30,453.0,380.0,Team C,Follow-up,83.9
+Ekiti,Ikole,2025-06-13,269.0,246.0,Team D,Initial,91.4
+Ekiti,Ikere,2025-06-03,585.0,531.0,Team B,Initial,90.8
+Ekiti,Irepodun/Ifelodun,2025-06-12,323.0,307.0,Team D,Initial,95.0
+Ekiti,Ekiti South-East,2025-06-09,285.0,575.0,Team B,Follow-up,
+Ekiti,Ado-Ekiti,2025-06-08,137.0,171.0,Team C,Initial,124.8
+Ekiti,Gbonyin,2025-06-04,264.0,507.0,Team D,Follow-up,192.0
+Ekiti,Ido-Osi,2025-06-17,336.0,422.0,Team C,Initial,125.6
+Ekiti,Irepodun/Ifelodun,2025-06-14,57.0,319.0,Team C,Initial,559.6
+Ekiti,Irepodun/Ifelodun,2025-05-30,563.0,552.0,Team C,Initial,98.0
+Ekiti,Ijero,2025-05-30,583.0,381.0,Team C,Initial,65.4
+Ekiti,Ijero,2025-06-04,,558.0,Team D,Initial,109.06097804970884
+Ekiti,Ijero,2025-06-10,118.0,541.0,Team A,Initial,458.5
+Ekiti,Ido-Osi,2025-06-14,322.0,573.0,Team D,Initial,178.0
+Ekiti,Ekiti West,2025-05-30,137.0,,Team E,Initial,372.3
+Ekiti,Ekiti South-West,2025-06-27,150.0,569.0,Team C,Follow-up,379.3
+Ekiti,Emure,2025-07-01,59.0,,Team A,Initial,474.6
+Ekiti,Efon,2025-06-13,599.0,429.0,Team D,Initial,71.6
+Ekiti,Ijero,2025-06-26,542.0,171.0,Team B,Initial,108.60247567378202
+Ekiti,Ise/Orun,2025-06-04,579.0,,Team B,Follow-up,18.3
+Ekiti,Ijero,2025-06-20,531.0,561.0,Team B,Follow-up,105.6
+Ekiti,Ado-Ekiti,2025-06-04,429.0,288.0,Team A,Initial,67.1
+Ekiti,Moba,2025-06-09,206.0,355.0,Team D,Initial,172.3
+Ekiti,Ekiti South-East,2025-05-31,510.0,307.0,Team E,Initial,60.2
+Ekiti,Ikere,2025-06-15,98.0,358.0,Team A,Initial,365.3
+Ekiti,Ikere,2025-06-05,301.0,232.0,Team B,Follow-up,77.1
+Ekiti,Ijero,2025-06-27,508.0,233.0,Team E,Initial,45.9
+Ekiti,Gbonyin,2025-06-29,506.0,,Team B,Initial,96.0
+Ekiti,Ido-Osi,2025-06-30,100.0,112.0,Team A,Initial,112.0
+Ekiti,Oye,2025-06-15,50.0,220.0,Team A,Follow-up,440.0
+Ekiti,Ikole,2025-06-05,560.0,93.0,Team C,Initial,16.6
+Ekiti,Ido-Osi,2025-06-05,537.0,40.0,Team E,Initial,7.4
+Ekiti,Emure,2025-06-05,266.0,412.0,Team B,Initial,112.64751945900389
+Ekiti,Gbonyin,2025-06-23,449.0,411.0,Team B,Initial,91.5
+Ekiti,Ado-Ekiti,2025-06-06,545.0,,Team D,Follow-up,97.4
+Ekiti,Ijero,2025-07-02,351.0,556.0,Team E,Initial,158.4
+Ekiti,Emure,2025-06-12,464.0,331.0,Team B,Initial,71.3
+Ekiti,Irepodun/Ifelodun,2025-06-12,535.0,305.0,Team C,Initial,57.0
+Ekiti,Ado-Ekiti,2025-06-07,189.0,280.0,Team B,Initial,148.1
+Ekiti,Oye,2025-06-27,473.0,494.0,Team D,Initial,104.4
+Ekiti,Oye,2025-06-23,218.0,218.0,Team E,Follow-up,100.0
+Ekiti,Gbonyin,2025-06-08,478.0,402.0,Team E,Initial,84.1
+Ekiti,Ido-Osi,2025-05-30,178.0,223.0,Team D,Initial,125.3
+Ekiti,Ikole,2025-06-22,126.0,240.0,Team B,Initial,190.5
+Ekiti,Ido-Osi,2025-06-24,531.0,492.0,Team C,Initial,92.7
+Ekiti,Ekiti West,2025-07-01,223.0,337.0,Team D,Follow-up,151.1
+Ekiti,Ado-Ekiti,2025-05-31,546.0,442.0,Team A,Follow-up,81.0
+Ekiti,Ado-Ekiti,2025-06-23,546.0,491.0,Team E,Initial,89.9
+Ekiti,Efon,2025-06-01,98.0,514.0,Team B,Follow-up,524.5
+Ekiti,Ido-Osi,2025-06-21,428.0,273.0,Team D,Initial,63.8
+Ekiti,Ido-Osi,2025-06-19,80.0,45.0,Team C,Follow-up,56.2
+Ekiti,Ado-Ekiti,2025-06-23,229.0,73.0,Team B,Initial,31.9
+Ekiti,Ijero,2025-06-13,511.0,550.0,Team C,Initial,107.6
+Ekiti,Emure,2025-06-19,426.0,553.0,Team E,Initial,129.8
+Ekiti,Ise/Orun,2025-06-25,583.0,137.0,Team E,Initial,23.5
+Ekiti,Ekiti South-East,2025-06-18,87.0,146.0,Team D,Initial,
+Ekiti,Ekiti West,2025-06-23,410.0,,Team C,Follow-up,65.1
+Ekiti,Ikole,2025-06-01,438.0,218.0,Team C,Follow-up,49.8
+Ekiti,Ekiti South-East,2025-06-18,118.0,164.0,Team C,Initial,139.0
+Ekiti,Ijero,2025-07-01,242.0,411.0,Team E,Initial,169.8
+Ekiti,Efon,2025-06-07,528.0,300.0,Team B,Initial,56.8
+Ekiti,Oye,2025-06-20,166.0,110.0,Team D,Initial,66.3
+Ekiti,Ido-Osi,2025-06-13,519.0,348.0,Team A,Initial,67.1
+Ekiti,Ikole,2025-06-25,312.0,550.0,Team E,Initial,176.3
+Ekiti,Irepodun/Ifelodun,2025-05-29,365.0,89.0,Team D,Initial,24.4
+Ekiti,Ijero,2025-06-21,305.0,382.0,Team A,Initial,125.2
+Ekiti,Ado-Ekiti,2025-06-04,200.0,281.0,Team D,Initial,140.5
+Ekiti,Moba,2025-07-01,289.0,92.0,Team C,Follow-up,31.8
+Ekiti,Ijero,2025-06-09,150.0,486.0,Team D,Initial,324.0
+Ekiti,Ekiti South-West,2025-06-02,396.0,368.0,Team A,Initial,92.9
+Ekiti,Moba,2025-06-18,434.0,93.0,Team A,Initial,
+Ekiti,Ekiti East,2025-06-25,536.0,539.0,Team D,Follow-up,100.6
+Ekiti,Ijero,2025-06-10,596.0,297.0,Team E,Initial,
+Ekiti,Moba,2025-06-30,276.0,121.0,Team A,Initial,43.8
+Ekiti,Ekiti West,2025-05-30,553.0,88.0,Team E,Follow-up,15.9
+Ekiti,Ekiti East,2025-06-12,358.0,226.0,Team C,Initial,108.36827102775135
+Ekiti,Ijero,2025-06-06,236.0,94.0,Team E,Initial,39.8
+Ekiti,Efon,2025-06-24,297.0,289.0,Team B,Initial,97.3
+Ekiti,Ikole,2025-06-23,72.0,262.0,Team C,Initial,363.9
+Ekiti,Ikole,2025-06-27,282.0,215.0,Team E,Initial,76.2
+Ekiti,Ise/Orun,2025-05-31,589.0,417.0,Team B,Follow-up,70.8
+Ekiti,Ido-Osi,2025-05-31,127.0,296.0,Team B,Initial,233.1
+Ekiti,Emure,2025-05-31,297.0,227.0,Team B,Initial,76.4
+Ekiti,Moba,2025-06-15,484.0,536.0,Team A,Initial,110.7
+Ekiti,Ekiti West,2025-06-15,112.0,217.0,Team A,Initial,193.8
+Ekiti,Ido-Osi,2025-07-02,400.0,451.0,Team E,Follow-up,112.8
+Ekiti,Irepodun/Ifelodun,2025-05-31,311.0,90.0,Team B,Follow-up,28.9
+Ekiti,Ekiti East,2025-06-04,86.0,190.0,Team C,Initial,220.9
+Ekiti,Ise/Orun,2025-06-14,533.0,101.0,Team D,Follow-up,18.9
+Ekiti,Ise/Orun,2025-06-05,472.0,445.0,Team A,Initial,94.3
+Ekiti,Oye,2025-07-01,231.0,195.0,Team C,Initial,84.4
+Ekiti,Ise/Orun,2025-05-29,596.0,190.0,Team A,Initial,31.9
+Ekiti,Ekiti East,2025-06-25,100.0,163.0,Team A,Initial,163.0
+Ekiti,Gbonyin,2025-06-13,281.0,479.0,Team A,Initial,170.5
+Ekiti,Moba,2025-05-31,328.0,465.0,Team A,Follow-up,141.8
+Ekiti,Ise/Orun,2025-06-16,427.0,146.0,Team C,Initial,34.2
+Ekiti,Ado-Ekiti,2025-06-05,446.0,192.0,Team B,Initial,43.0
+Ekiti,Ekiti South-West,2025-06-17,541.0,324.0,Team E,Initial,59.9
+Ekiti,Emure,2025-06-20,79.0,59.0,Team C,Initial,74.7
+Ekiti,Oye,2025-06-08,,237.0,Team B,Follow-up,252.1
+Ekiti,Gbonyin,2025-06-05,301.0,533.0,Team B,Initial,177.1
+Ekiti,Oye,2025-06-01,110.0,95.0,Team B,Initial,86.4
+Ekiti,Oye,2025-06-30,228.0,224.0,Team A,Initial,98.2
+Ekiti,Ado-Ekiti,2025-06-15,357.0,210.0,Team B,Initial,58.8
+Ekiti,Ekiti East,2025-06-03,165.0,86.0,Team C,Initial,52.1
+Ekiti,Ekiti East,2025-06-27,484.0,566.0,Team B,Initial,116.9
+Ekiti,Ikole,2025-07-02,310.0,433.0,Team A,Initial,
+Ekiti,Ekiti South-East,2025-06-07,262.0,105.0,Team D,Initial,40.1
+Ekiti,Ijero,2025-06-26,198.0,49.0,Team A,Initial,24.7
+Ekiti,Emure,2025-06-05,439.0,,Team A,Follow-up,109.3
+Ekiti,Ikere,2025-06-30,349.0,490.0,Team C,Initial,140.4
+Ekiti,Ise/Orun,2025-06-06,57.0,263.0,Team C,Follow-up,461.4
+Ekiti,Oye,2025-06-16,258.0,337.0,Team B,Initial,130.6
+Ekiti,Ikere,2025-06-24,561.0,239.0,Team D,Initial,42.6
+Ekiti,Ikere,2025-06-16,306.0,339.0,Team A,Follow-up,110.8
+Ekiti,Irepodun/Ifelodun,2025-06-15,412.0,473.0,Team A,Initial,114.8
+Ekiti,Efon,2025-06-13,96.0,440.0,Team E,Initial,458.3
+Ekiti,Ido-Osi,2025-06-03,101.0,438.0,Team E,Initial,433.7
+Ekiti,Ido-Osi,2025-07-02,283.0,,Team D,Follow-up,83.0
+Ekiti,Efon,2025-06-16,589.0,394.0,Team D,Initial,66.9
+Ekiti,Ijero,2025-06-27,514.0,64.0,Team C,Follow-up,12.5
+Ekiti,Ikole,2025-06-12,399.0,224.0,Team D,Follow-up,56.1
+Ekiti,Ikole,2025-06-22,567.0,410.0,Team C,Follow-up,72.3
+Ekiti,Ado-Ekiti,2025-06-10,213.0,403.0,Team B,Initial,189.2
+Ekiti,Oye,2025-06-21,423.0,186.0,Team A,Initial,44.0
+Ekiti,Ekiti South-East,2025-06-27,343.0,339.0,Team B,Initial,
+Ekiti,Emure,2025-06-17,568.0,64.0,Team C,Follow-up,11.3
+Ekiti,Ekiti East,2025-06-28,578.0,143.0,Team D,Follow-up,24.7
+Ekiti,Oye,2025-06-28,124.0,347.0,Team E,Initial,279.8
+Ekiti,Efon,2025-06-17,350.0,346.0,Team E,Initial,98.9
+Ekiti,Ikole,2025-05-30,401.0,412.0,Team E,Follow-up,102.7
+Ekiti,Ise/Orun,2025-06-13,373.0,521.0,Team B,Initial,139.7
+Ekiti,Ekiti South-West,2025-06-19,339.0,390.0,Team A,Initial,115.0
+Ekiti,Emure,2025-06-12,525.0,371.0,Team C,Follow-up,70.7
+Ekiti,Irepodun/Ifelodun,2025-06-10,317.0,436.0,Team B,Initial,137.5
+Ekiti,Ekiti East,2025-06-30,311.0,184.0,Team D,Initial,59.2
+Ekiti,Ido-Osi,2025-07-02,163.0,568.0,Team D,Initial,348.5
+Ekiti,Gbonyin,2025-06-22,56.0,136.0,Team C,Follow-up,
+Ekiti,Efon,2025-06-23,117.0,179.0,Team C,Initial,153.0
+Ekiti,Ado-Ekiti,2025-05-29,169.0,241.0,Team B,Initial,142.6
+Ekiti,Ido-Osi,2025-06-20,442.0,352.0,Team D,Initial,79.6
+Ekiti,Oye,2025-06-08,439.0,220.0,Team A,Follow-up,50.1
+Ekiti,Ikere,2025-06-13,398.0,207.0,Team B,Initial,52.0
+Ekiti,Ise/Orun,2025-06-18,287.0,512.0,Team B,Initial,178.4
+Ekiti,Ise/Orun,2025-06-18,559.0,157.0,Team B,Initial,28.1
+Ekiti,Ikere,2025-06-29,120.0,56.0,Team D,Follow-up,46.7
+Ekiti,Emure,2025-06-15,449.0,184.0,Team C,Follow-up,41.0
+Ekiti,Ido-Osi,2025-06-16,468.0,324.0,Team D,Initial,69.2
+Ekiti,Emure,2025-06-11,552.0,61.0,Team D,Initial,11.1
+Ekiti,Oye,2025-06-16,391.0,289.0,Team C,Initial,73.9
+Ekiti,Ekiti East,2025-06-01,146.0,579.0,Team D,Initial,396.6
+Ekiti,Oye,2025-05-30,164.0,179.0,Team B,Follow-up,109.1
+Ekiti,Moba,2025-06-08,495.0,242.0,Team A,Follow-up,48.9
+Ekiti,Ado-Ekiti,2025-06-02,536.0,286.0,Team A,Follow-up,53.4
+Ekiti,Ekiti West,2025-06-20,171.0,585.0,Team C,Initial,342.1
+Ekiti,Emure,2025-06-26,485.0,216.0,Team D,Initial,44.5
+Ekiti,Oye,2025-06-01,415.0,525.0,Team E,Initial,126.5
+Ekiti,Ise/Orun,2025-07-01,207.0,193.0,Team A,Initial,93.2
+Ekiti,Ado-Ekiti,2025-06-22,349.0,189.0,Team D,Initial,54.2
