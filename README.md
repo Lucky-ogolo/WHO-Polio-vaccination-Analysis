@@ -1,4 +1,4 @@
- # Ekiti State Polio Vaccination Data Analysis
+ # ⛑️Ekiti State Polio Vaccination Data Analysis
 
  ## Project Description
    This project analyzes polio vaccination campaign data from Ekiti State, Nigeria, collected across multiple Local Government Areas (LGAs) between May 29, 2025 and July 2, 2025. 
