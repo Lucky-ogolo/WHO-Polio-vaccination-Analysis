@@ -295,3 +295,8 @@
 - **Portfolio-Ready Documentation:** Clear comments in SQL scripts, organized repository structure, and detailed README make this project easy to understand and showcase to potential employers.
 - **Real-World Data Handling:** Experience working with messy, realistic datasets, preparing for practical analysis challenges.
 
+## 🤝 Let’s Connect
+   📬 Author 
+Ogolo lucky -  Data Analyst  
+  - 💼 🔗[LinkedIn](www.linkedin.com/in/lucky-ogolo/)
+  - 📧 🔗[Email](luuckyyyy@gmail.com) 
